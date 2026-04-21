@@ -183,15 +183,15 @@ Not yet visited. All lairs pristine.
 
 - [[Wiki/Factions/Temple-of-Evil-Chaos]] — Commands the Shrine (K)
 - [[Wiki/NPCs/Shrine-Evil-Cleric]] — Shrine master (room K-59)
-- Kobold Tribe (Lair A)
-- Orc Tribe B (Lair B)
-- Orc Tribe C (Lair C)
-- Goblin Tribe (Lair D)
-- Ogre mercenary (Lair E)
-- Hobgoblin Tribe (Lair F)
-- Bugbear Clan (Lair H)
-- Minotaur (Lair I)
-- Gnoll Warband (Lair J)
+- [[Wiki/Factions/Kobold-Tribe-A]] — Lair A; pit trap entrance; isolated
+- [[Wiki/Factions/Orc-Tribe-B]] — Lair B; collapses to C if leader slain
+- [[Wiki/Factions/Orc-Tribe-C]] — Lair C; net-trap alarm; secret alliance with B
+- [[Wiki/Factions/Goblin-Tribe-D]] — Lair D; wandering patrols; Ogre on retainer
+- [[Wiki/NPCs/The-Ogre]] — Lair E; mercenary, bribable
+- [[Wiki/Factions/Hobgoblin-Tribe-F]] — Lair F; holds 6 prisoners; most organized
+- [[Wiki/Factions/Bugbear-Clan-H]] — Lair H; slave pens; chief flees to Minotaur
+- [[Wiki/NPCs/The-Minotaur]] — Lair I; direction confusion; mercenary for Bugbears
+- [[Wiki/Factions/Gnoll-Warband-J]] — Lair J; loose orc alliance; secret door to Shrine storage
 
 ## Party History
 
@@ -215,3 +215,12 @@ No visits recorded.
 - [[Wiki/Locations/Keep-on-the-Borderlands]]
 - [[Wiki/Factions/Temple-of-Evil-Chaos]]
 - [[Wiki/NPCs/Shrine-Evil-Cleric]]
+- [[Wiki/Factions/Kobold-Tribe-A]]
+- [[Wiki/Factions/Orc-Tribe-B]]
+- [[Wiki/Factions/Orc-Tribe-C]]
+- [[Wiki/Factions/Goblin-Tribe-D]]
+- [[Wiki/NPCs/The-Ogre]]
+- [[Wiki/Factions/Hobgoblin-Tribe-F]]
+- [[Wiki/Factions/Bugbear-Clan-H]]
+- [[Wiki/NPCs/The-Minotaur]]
+- [[Wiki/Factions/Gnoll-Warband-J]]
