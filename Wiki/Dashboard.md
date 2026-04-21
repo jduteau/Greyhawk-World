@@ -6,7 +6,7 @@ updated: "2026-04-21"
 # Wiki Dashboard
 
 Overview and health status of your LLM Wiki.
-Last lint: 2026-04-21 (`/wiki lint`)
+Last lint: 2026-04-21 (`/wiki lint` ×2)
 
 ## Page Counts
 
@@ -21,13 +21,13 @@ Last lint: 2026-04-21 (`/wiki lint`)
 | World | 0 | ✓ |
 | Lore | 0 | ✓ |
 | State | 0 | ✓ |
-| **Total** | **9** | |
+| **Total** | **10** | |
 
 ## Health
 
 - Critical: 0
-- Warnings: 5 (broken stub links in empty hub pages)
-- Info: 3
+- Warnings: 4 (broken stub links in empty hub pages — Sessions, World, Lore, State)
+- Info: 1
 
 ## Namespaces
 
