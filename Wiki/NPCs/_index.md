@@ -13,6 +13,7 @@ updated: "2026-04-21"
 - [[Wiki/NPCs/Captain-of-the-Guard]] — F3, AC 0; kind, skilled leader; sometimes disguises as mercenary in Outer Bailey (B2)
 - [[Wiki/NPCs/The-Advisor]] — E3 elf; plate+1, Dex 16, charm/web spells; wealthiest NPC after Castellan (B2)
 - [[Wiki/NPCs/The-Minotaur]] — HD 6 mercenary labyrinth master; serves bugbears for human slaves; direction confusion in lair (B2)
+- [[Wiki/NPCs/The-Ogre]] — HD 4+1 mercenary; serves goblins but bribable by anyone; pure loyalty-to-gold (B2)
 - [[Wiki/NPCs/Elmo]] — F4 ranger; undercover Viscount agent at Welcome Wench; appears drunk (T1)
 - [[Wiki/NPCs/Burne]] — M-U 8, "Mage of Hommlet"; lawful good, will aid for 1/3 treasure (T1)
 - [[Wiki/NPCs/Rufus]] — F6, overall militia commander; lawful good, will aid for 20% treasure (T1)
