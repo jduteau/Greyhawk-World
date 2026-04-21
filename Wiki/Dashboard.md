@@ -6,7 +6,7 @@ updated: "2026-04-21"
 # Wiki Dashboard
 
 Overview and health status of your LLM Wiki.
-Last lint: 2026-04-21 (`/wiki lint` ×2) | Last ingest: 2026-04-21 (T1) | Last query: 2026-04-21 (Dual-Temple-Connection)
+Last lint: 2026-04-21 (`/wiki lint` ×3) | Last ingest: 2026-04-21 (T1) | Last query: 2026-04-21 (Dual-Temple-Connection)
 
 ## Page Counts
 
@@ -26,8 +26,8 @@ Last lint: 2026-04-21 (`/wiki lint` ×2) | Last ingest: 2026-04-21 (T1) | Last q
 ## Health
 
 - Critical: 0
-- Warnings: 4 (broken stub links in empty hub pages — Sessions, World, Lore, State)
-- Info: 1
+- Warnings: 4 (broken stub placeholder links in Sessions, World, Lore, State — pre-existing, no real child pages)
+- Info: 0
 
 ## Namespaces
 
