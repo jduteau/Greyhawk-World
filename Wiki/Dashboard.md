@@ -6,7 +6,7 @@ updated: "2026-04-21"
 # Wiki Dashboard
 
 Overview and health status of your LLM Wiki.
-Last lint: 2026-04-21 (`/wiki lint` ×2) | Last ingest: 2026-04-21 (T1)
+Last lint: 2026-04-21 (`/wiki lint` ×2) | Last ingest: 2026-04-21 (T1) | Last query: 2026-04-21 (Dual-Temple-Connection)
 
 ## Page Counts
 
@@ -17,11 +17,11 @@ Last lint: 2026-04-21 (`/wiki lint` ×2) | Last ingest: 2026-04-21 (T1)
 | NPCs | 9 | ✓ |
 | Factions | 3 | ✓ |
 | Sessions | 0 | ✓ |
-| Conspiracy | 2 | ✓ |
+| Conspiracy | 3 | ✓ |
 | World | 0 | ✓ |
 | Lore | 0 | ✓ |
 | State | 0 | ✓ |
-| **Total** | **20** | |
+| **Total** | **21** | |
 
 ## Health
 
