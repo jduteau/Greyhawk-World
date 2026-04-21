@@ -46,10 +46,15 @@ B2 serves as an introductory sandbox. The Keep provides a safe hub with merchant
 - [[Wiki/NPCs/The-Curate]]
 - [[Wiki/NPCs/Evil-Priest-Spy]]
 - [[Wiki/NPCs/Shrine-Evil-Cleric]]
+- [[Wiki/NPCs/Captain-of-the-Guard]]
+- [[Wiki/NPCs/The-Advisor]]
+- [[Wiki/NPCs/The-Minotaur]]
 
 ### Factions
 - [[Wiki/Factions/Keep-Garrison]]
 - [[Wiki/Factions/Temple-of-Evil-Chaos]]
+- [[Wiki/Factions/Hobgoblin-Tribe-F]]
+- [[Wiki/Factions/Gnoll-Warband-J]]
 
 ## Sequence
 
