@@ -6,6 +6,4 @@ updated: "2026-04-21"
 
 # Modules
 
-Add child pages below as your wiki grows.
-
-- [[Wiki/Modules/SubTopic]] -- Description of subtopic
+- [[Wiki/Modules/B2-Keep-on-the-Borderlands]] — Gary Gygax (1979), levels 1–3; frontier Keep + Caves of Chaos sandbox
