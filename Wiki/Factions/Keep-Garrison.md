@@ -29,11 +29,12 @@ A well-organized frontier garrison operating in layered defense: outer bailey wa
 ## Leadership
 
 - [[Wiki/NPCs/The-Castellan]] — Supreme commander, area 27; absolutely brave and honest
-- **Captain of the Guard** — Inner gatehouse (F3, AC 0, sword+2, spear+1, hp 24); kind, friendly, excellent leader; sometimes disguises as a mercenary in the Outer Bailey
+- [[Wiki/NPCs/Captain-of-the-Guard]] — Inner gatehouse (F3, AC 0, sword+2, spear+1, hp 24); kind, friendly, excellent leader; sometimes disguises as a mercenary in the Outer Bailey
 - **Bailiff** — Outer bailey superintendent (F3, magic plate+1 or sword+1, hp 22)
 - **Captain of the Watch** — Watch tower commander (F3, sword+2, dagger+1, hp 20)
 - **Corporal of the Watch** — Entry yard (F2, sword+1, hp 15, grouchy but respects brave fighters; susceptible to a pretty girl)
 - **Sergeant of the Guard** — Inner gatehouse (F2, Str 17, sword+1, dagger+1, potion of healing; loves drinking and brawling)
+- [[Wiki/NPCs/The-Advisor]] — Senior elf counselor, area 26 (E3, Dex 16, plate+1, charm/web spells)
 - [[Wiki/NPCs/The-Curate]] — Spiritual authority, not technically part of military chain but highly influential
 
 ## Goals
@@ -64,6 +65,8 @@ The garrison is a resource, not an obstacle — assuming the party behaves lawfu
 
 - [[Wiki/Locations/Keep-on-the-Borderlands]]
 - [[Wiki/NPCs/The-Castellan]]
+- [[Wiki/NPCs/Captain-of-the-Guard]]
+- [[Wiki/NPCs/The-Advisor]]
 - [[Wiki/NPCs/The-Curate]]
 - [[Wiki/Factions/Temple-of-Evil-Chaos]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]

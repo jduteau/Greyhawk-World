@@ -61,5 +61,7 @@ Alliance: if gnolls are losing, surviving gnolls reinforce orc areas and vice ve
 ## Cross-References
 
 - [[Wiki/Locations/Caves-of-Chaos]]
+- [[Wiki/Factions/Orc-Tribe-B]]
+- [[Wiki/Factions/Orc-Tribe-C]]
 - [[Wiki/Factions/Temple-of-Evil-Chaos]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]

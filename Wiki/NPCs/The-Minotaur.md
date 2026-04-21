@@ -19,7 +19,7 @@ updated: 2026-04-21
 
 # The Minotaur
 
-A uniquely powerful minotaur inhabiting a labyrinthine cave complex (Lair I) within [[Wiki/Locations/Caves-of-Chaos]]. A mercenary who serves the [[Wiki/Factions/Hobgoblin-Tribe-F]] bugbear clan in exchange for human slaves, it is arguably the most dangerous single creature in the Caves apart from the Shrine's evil priest.
+A uniquely powerful minotaur inhabiting a labyrinthine cave complex (Lair I) within [[Wiki/Locations/Caves-of-Chaos]]. A mercenary who serves the [[Wiki/Factions/Bugbear-Clan-H]] in exchange for human slaves, it is arguably the most dangerous single creature in the Caves apart from the Shrine's evil priest.
 
 ## Description
 
@@ -63,5 +63,5 @@ No session events yet.
 ## Cross-References
 
 - [[Wiki/Locations/Caves-of-Chaos]]
-- [[Wiki/Factions/Hobgoblin-Tribe-F]]
+- [[Wiki/Factions/Bugbear-Clan-H]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]

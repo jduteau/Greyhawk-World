@@ -6,7 +6,7 @@ updated: "2026-04-21"
 # Wiki Dashboard
 
 Overview and health status of your LLM Wiki.
-Last lint: 2026-04-21 (`/wiki lint` ×4) | Last ingest: 2026-04-21 (B2 extracted_1) | Last query: 2026-04-21 (Caves factions + approach plan)
+Last lint: 2026-04-21 (`/wiki lint --fix` ×1) | Last ingest: 2026-04-21 (B2 extracted_1) | Last query: 2026-04-21 (Caves factions + approach plan)
 
 ## Page Counts
 
@@ -25,8 +25,8 @@ Last lint: 2026-04-21 (`/wiki lint` ×4) | Last ingest: 2026-04-21 (B2 extracted
 
 ## Health
 
-- Critical: 1 — The-Minotaur links Hobgoblin-Tribe-F instead of Bugbear-Clan-H
-- Warnings: 5 — Keep-Garrison/Keep-on-the-Borderlands missing NPC links; Gnoll/Orc alliance links missing
+- Critical: 0
+- Warnings: 0
 - Info: 0
 
 ## Namespaces

@@ -65,6 +65,8 @@ Not yet visited by the party. All areas pristine.
 ## Known Inhabitants
 
 - [[Wiki/NPCs/The-Castellan]] — Commander, area 27
+- [[Wiki/NPCs/Captain-of-the-Guard]] — Inner gatehouse commander, area 18
+- [[Wiki/NPCs/The-Advisor]] — Senior elf counselor, area 26
 - [[Wiki/NPCs/The-Curate]] — Spiritual leader, area 17
 - [[Wiki/NPCs/Evil-Priest-Spy]] — Spy, area 7b
 - [[Wiki/Factions/Keep-Garrison]] — Military force throughout
@@ -89,6 +91,8 @@ No visits recorded.
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]
 - [[Wiki/Locations/Caves-of-Chaos]]
 - [[Wiki/NPCs/The-Castellan]]
+- [[Wiki/NPCs/Captain-of-the-Guard]]
+- [[Wiki/NPCs/The-Advisor]]
 - [[Wiki/NPCs/The-Curate]]
 - [[Wiki/NPCs/Evil-Priest-Spy]]
 - [[Wiki/Factions/Keep-Garrison]]

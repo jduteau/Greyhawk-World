@@ -56,4 +56,5 @@ Secret alliance with [[Wiki/Factions/Orc-Tribe-C]] — the two leaders meet priv
 
 - [[Wiki/Locations/Caves-of-Chaos]]
 - [[Wiki/Factions/Orc-Tribe-C]]
+- [[Wiki/Factions/Gnoll-Warband-J]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]

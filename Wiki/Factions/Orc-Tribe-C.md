@@ -58,4 +58,5 @@ Secret alliance with [[Wiki/Factions/Orc-Tribe-B]] via the shared Forgotten Room
 
 - [[Wiki/Locations/Caves-of-Chaos]]
 - [[Wiki/Factions/Orc-Tribe-B]]
+- [[Wiki/Factions/Gnoll-Warband-J]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]
