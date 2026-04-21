@@ -17,7 +17,7 @@ Last lint: 2026-04-21 (`/wiki lint`)
 | NPCs | 4 | ✓ |
 | Factions | 2 | ✓ |
 | Sessions | 0 | ✓ |
-| Conspiracy | 0 | ✓ |
+| Conspiracy | 1 | ✓ |
 | World | 0 | ✓ |
 | Lore | 0 | ✓ |
 | State | 0 | ✓ |
