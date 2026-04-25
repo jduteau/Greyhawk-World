@@ -1,11 +1,9 @@
 ---
 type: hub
 namespace: "Wiki/State"
-updated: "2026-04-21"
+updated: "2026-04-25"
 ---
 
 # State
 
-Add child pages below as your wiki grows.
-
-- [[Wiki/State/SubTopic]] -- Description of subtopic
+Current session state lives at `Wiki/State/Current-Session.md` (overwritten each session). No session has been played yet.

@@ -20,3 +20,4 @@ updated: "2026-04-25"
 - [[Wiki/NPCs/Jaroo-Ashstaff]] — Druid 7, Grove keeper; Gnarley Wood agent watching for ToEE resurgence (T1)
 - [[Wiki/NPCs/Rannos-Davi]] — Thief 10, chaotic evil trader; Temple of Elemental Evil primary spy (T1)
 - [[Wiki/NPCs/Gundigoot]] — F2 innkeeper + militia sergeant; community intelligence node; knows about Moat House (T1)
+- [[Wiki/NPCs/Lareth-the-Beautiful]] — CE cleric of Lolth; ToEE field operative commanding Moat House dungeon level (T1)

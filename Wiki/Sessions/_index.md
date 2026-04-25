@@ -1,11 +1,9 @@
 ---
 type: hub
 namespace: "Wiki/Sessions"
-updated: "2026-04-21"
+updated: "2026-04-25"
 ---
 
 # Sessions
 
-Add child pages below as your wiki grows.
-
-- [[Wiki/Sessions/SubTopic]] -- Description of subtopic
+No sessions recorded yet. Add pages here as play begins.

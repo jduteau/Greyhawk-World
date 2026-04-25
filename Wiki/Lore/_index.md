@@ -1,11 +1,9 @@
 ---
 type: hub
 namespace: "Wiki/Lore"
-updated: "2026-04-21"
+updated: "2026-04-25"
 ---
 
 # Lore
 
-Add child pages below as your wiki grows.
-
-- [[Wiki/Lore/SubTopic]] -- Description of subtopic
+In-world documents, rumors, legends, and inscriptions. Add pages as discovered in play.

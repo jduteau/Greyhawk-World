@@ -10,7 +10,7 @@ npc_scope: local
 last_location: "[[Wiki/Locations/Welcome-Wench-Inn]]"
 allegiance_known: "Neutral innkeeper and community pillar"
 allegiance_true: "Lawful good; active militia sergeant; covert cooperator with Elmo and Jaroo"
-faction: "[[Wiki/Factions/Temple-of-Elemental-Evil]]"
+faction: ""
 first_session: 0
 gm_only: true
 region: "Village of Hommlet, Viscounty of Verbobonc"

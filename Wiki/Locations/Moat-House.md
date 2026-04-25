@@ -47,7 +47,7 @@ Not yet visited by the party. The Moat House is actively occupied by a bandit co
 
 *gm_only*
 
-- **Lareth the Beautiful** — CE cleric of Lolth, Temple of Elemental Evil agent; commands the dungeon level; his true allegiance is unknown to the bandits above; strikingly handsome, utterly ruthless; key intelligence link to the Temple's reconstitution effort
+- [[Wiki/NPCs/Lareth-the-Beautiful]] — CE cleric of Lolth, Temple of Elemental Evil agent; commands the dungeon level; his true allegiance is unknown to the bandits above; strikingly handsome, utterly ruthless; key intelligence link to the Temple's reconstitution effort
 - **Bandit company** — garrisoned in the gatehouse and ground level towers; armed fighters loyal to coin, not cause
 - **Giant frogs** — in the moat; aggressive
 - **Undead** — scattered through the ruined upper works; remnants of the original Temple garrison
@@ -90,6 +90,7 @@ No visits recorded.
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Locations/Welcome-Wench-Inn]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]
+- [[Wiki/NPCs/Lareth-the-Beautiful]]
 - [[Wiki/NPCs/Gundigoot]]
 - [[Wiki/NPCs/Elmo]]
 - [[Wiki/NPCs/Rannos-Davi]]

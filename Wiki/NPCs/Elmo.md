@@ -10,11 +10,11 @@ npc_scope: local
 last_location: "[[Wiki/Locations/Welcome-Wench-Inn]]"
 allegiance_known: "Simple, jovial, slightly drunk ranger for hire"
 allegiance_true: "Lawful Good — undercover agent of the Viscount of Verbobonc"
-faction: "[[Wiki/Factions/Temple-of-Elemental-Evil]]"
+faction: ""
 first_session: 0
 gm_only: true
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-25
 ---
 
 # Elmo
