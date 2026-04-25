@@ -7,7 +7,7 @@ conspiracy_status: active
 party_awareness: unaware
 source: T1
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-25
 ---
 
 # Temple of Elemental Evil Spy Network — Hommlet
@@ -74,6 +74,16 @@ Discovery clues (easiest to hardest):
 ## Status
 
 Active. Party is unaware. No disruption yet.
+
+## Intelligence Gap — The Debrief Opportunity
+
+*gm_only*
+
+The three watchers ([[Wiki/NPCs/Elmo]], [[Wiki/NPCs/Jaroo-Ashstaff]], [[Wiki/NPCs/Burne]]) oppose the network but currently have zero knowledge of [[Wiki/NPCs/Lareth-the-Beautiful]] or the dungeon-level operation at the Moat House. The asymmetry is total: the Temple agents (Rannos Davi, Gremag) know Lareth exists and supply his raiding parties; the good-aligned watchers do not know the Moat House has a commander at all.
+
+The first party to reach the Moat House dungeon level becomes the only good-aligned source of Lareth intelligence. Reporting back to any of the three watchers converts this into an escalation event — Viscount channels activate (via Elmo and Burne), Gnarley Wood is alerted (via Jaroo). This is the moment T1 connects to the broader Greyhawk political structure.
+
+See debrief hook sections on each watcher's NPC page for specific outcomes.
 
 ## Cross-References
 

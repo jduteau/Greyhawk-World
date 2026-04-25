@@ -14,7 +14,7 @@ faction: ""
 first_session: 0
 gm_only: true
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-25
 ---
 
 # Jaroo Ashstaff
@@ -61,6 +61,17 @@ He does not know about the Temple spy network (Rannos Davi et al.) but is alert 
 - Decanter of endless water
 - Gems: 14 ×1,000 gp, 3 ×500 gp, 3 ×100 gp, 9 ×50 gp, 43 ×10 gp
 
+## Debrief Hooks
+
+*gm_only*
+
+Jaroo's specific mission is to confirm the Temple of Elemental Evil is destroyed and suppress any resurgence. A party that returns with Lareth intelligence feeds directly into that mandate:
+
+- **Lolth identification:** If the party describes Lareth's iconography, incense-burning quarters, or any symbol of the Demoness, Jaroo recognizes it immediately. He knows the ToEE deploys multiple demon patrons — a Lolth cleric commanding the Moat House is confirmation of active Temple rebuilding, not isolated banditry.
+- **Gnarley Wood escalation:** This is exactly what Jaroo was sent to find. He dispatches word to the Druids of Gnarley Wood via his potboy courier — bringing the broader druidical network into awareness of the resurgence for the first time.
+- **Personal aid unlocked:** A party Jaroo trusts — one that has demonstrated genuine anti-Temple action — may receive spells without the usual offering requirement. He may also offer access to his surveillance network (the woodcutter in area 3, potboy at the inn, herdsman in area 25) for intelligence operations within Hommlet itself.
+- **What he still won't do:** Accompany the party. His value is as a node, not a fighter.
+
 ## History
 
 Sent to Hommlet by the Druids of Gnarley Wood at an unspecified point after the Temple war.
@@ -68,5 +79,9 @@ Sent to Hommlet by the Druids of Gnarley Wood at an unspecified point after the 
 ## Cross-References
 
 - [[Wiki/Locations/Village-of-Hommlet]]
+- [[Wiki/Locations/Moat-House]]
+- [[Wiki/NPCs/Lareth-the-Beautiful]]
+- [[Wiki/NPCs/Brother-Smyth]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
+- [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]

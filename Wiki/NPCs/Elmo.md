@@ -58,6 +58,17 @@ Elmo is a plant. He reports to the Viscount of Verbobonc. His intelligence missi
 
 **Faction clarification:** Elmo opposes the Temple of Elemental Evil — his faction field references the enemy faction for tracking purposes. His true allegiance is to the Viscounty of Verbobonc and lawful good.
 
+## Debrief Hooks
+
+*gm_only*
+
+If the party reaches the Moat House dungeon level, they have gathered exactly the intelligence Elmo's mission requires. Whether he was embedded with them or learns of it afterward:
+
+- **First confirmation:** This is the Viscount's first confirmation that the Moat House reoccupation is commanded rather than opportunistic. Elmo escalates immediately through his normal channels.
+- **Lareth's identity:** If told Lareth's name, clerical allegiance (Lolth), or level — escalate further. A 5th-level CE Lolth cleric with 44 HP and a staff of striking is a Viscount-level threat, not a Moat House problem.
+- **The treasure as a tell:** If the party describes the fire opals, silver service, or the overall wealth of Lareth's quarters, Elmo recognizes this as Temple-grade resourcing. Ordinary bandits do not keep 45,000 gp necklaces in a dungeon room.
+- **Reward vector:** Elmo has no personal wealth to offer, but he can open the door to direct Viscount patronage — official recognition, castle resources, and the intelligence structure behind Burne and Rufus. This is the hook that brings T1 into the broader Greyhawk political arc.
+
 ## History
 
 No session events yet.
@@ -66,5 +77,9 @@ No session events yet.
 
 - [[Wiki/Locations/Welcome-Wench-Inn]]
 - [[Wiki/Locations/Village-of-Hommlet]]
+- [[Wiki/Locations/Moat-House]]
+- [[Wiki/NPCs/Burne]]
+- [[Wiki/NPCs/Rufus]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
+- [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]

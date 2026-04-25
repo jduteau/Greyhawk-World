@@ -14,7 +14,7 @@ faction: ""
 first_session: 0
 gm_only: false
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-25
 ---
 
 # Burne
@@ -57,6 +57,17 @@ Burne is a genuine lawful good ally — but he has no loyalty to adventurers who
 - 4th: Fumble, Wall of Fire
 - Also knows (available if needed): Comprehend Languages, Light, Read Magic, Darkness 15', Detect Invisibility, Strength, Gust of Wind, Infravision, Dimension Door, Plant Growth
 
+## Debrief Hooks
+
+*gm_only*
+
+Burne is the Hommlet node in the Viscount's intelligence chain. A party that reports Lareth's existence — by name, description, or hard evidence — triggers an escalation path:
+
+- **Full accounting:** INT 17 means pointed follow-up questions: how many guards, what level, what faction markers, what treasure. He is not just curious — he is filing a report.
+- **Physical evidence:** The TZGY scarab from the traders' locked coffer, Lareth's phylactery of action, or the fire opal necklace all constitute proof of Temple-grade operation. Any one of these dispatches a Viscount report immediately.
+- **Intelligence trade:** As a reward for earned trust, Burne may hint that the party has an unexpected ally watching the village — not naming Elmo, but signaling that Hommlet is not undefended. This is how he acknowledges a party that has done real work.
+- **Resource unlock:** A trusted party gains access to the tower's potions and scrolls, and Burne himself as a hireling at the standard 1/3 treasure share for a Moat House clearance expedition.
+
 ## History
 
 Came to Hommlet ~3 years ago with Rufus. Helped defeat bandit force plaguing Verbobonc. Rumored to have slain a green dragon in the Kron Hills. Was given Viscount and Archcleric funding to build the castle in exchange for holding the area and reporting.
@@ -64,6 +75,11 @@ Came to Hommlet ~3 years ago with Rufus. Helped defeat bandit force plaguing Ver
 ## Cross-References
 
 - [[Wiki/Locations/Village-of-Hommlet]]
+- [[Wiki/Locations/Moat-House]]
 - [[Wiki/NPCs/Rufus]]
+- [[Wiki/NPCs/Elmo]]
+- [[Wiki/NPCs/Lareth-the-Beautiful]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]
 - [[Wiki/Locations/Welcome-Wench-Inn]]
+- [[Wiki/Factions/Temple-of-Elemental-Evil]]
+- [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]
