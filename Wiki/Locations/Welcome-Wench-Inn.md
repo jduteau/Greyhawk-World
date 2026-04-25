@@ -9,7 +9,7 @@ region: "Village of Hommlet, Viscounty of Verbobonc"
 location_status: pristine
 layer: campaign
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-25
 ---
 
 # Inn of the Welcome Wench
@@ -79,7 +79,9 @@ No visits recorded.
 ## Cross-References
 
 - [[Wiki/Locations/Village-of-Hommlet]]
+- [[Wiki/Locations/Moat-House]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]
+- [[Wiki/NPCs/Gundigoot]]
 - [[Wiki/NPCs/Elmo]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]

@@ -46,6 +46,7 @@ Key dramatic tensions:
 ### Locations
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Locations/Welcome-Wench-Inn]]
+- [[Wiki/Locations/Moat-House]]
 
 ### NPCs
 - [[Wiki/NPCs/Elmo]]
@@ -53,6 +54,7 @@ Key dramatic tensions:
 - [[Wiki/NPCs/Rufus]]
 - [[Wiki/NPCs/Jaroo-Ashstaff]]
 - [[Wiki/NPCs/Rannos-Davi]]
+- [[Wiki/NPCs/Gundigoot]]
 
 ### Factions
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
@@ -70,5 +72,7 @@ Key dramatic tensions:
 
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Locations/Welcome-Wench-Inn]]
+- [[Wiki/Locations/Moat-House]]
+- [[Wiki/NPCs/Gundigoot]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]

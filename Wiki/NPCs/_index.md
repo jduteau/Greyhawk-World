@@ -1,7 +1,7 @@
 ---
 type: hub
 namespace: "Wiki/NPCs"
-updated: "2026-04-21"
+updated: "2026-04-25"
 ---
 
 # NPCs
@@ -19,3 +19,4 @@ updated: "2026-04-21"
 - [[Wiki/NPCs/Rufus]] — F6, overall militia commander; lawful good, will aid for 20% treasure (T1)
 - [[Wiki/NPCs/Jaroo-Ashstaff]] — Druid 7, Grove keeper; Gnarley Wood agent watching for ToEE resurgence (T1)
 - [[Wiki/NPCs/Rannos-Davi]] — Thief 10, chaotic evil trader; Temple of Elemental Evil primary spy (T1)
+- [[Wiki/NPCs/Gundigoot]] — F2 innkeeper + militia sergeant; community intelligence node; knows about Moat House (T1)
