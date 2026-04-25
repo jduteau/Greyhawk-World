@@ -6,7 +6,7 @@ updated: "2026-04-25"
 # Wiki Dashboard
 
 Overview and health status of your LLM Wiki.
-Last lint: 2026-04-25 (`/wiki lint --fix` ×1) | Last ingest: 2026-04-25 (Moat-House + Gundigoot + Lareth stub) | Last query: 2026-04-25 (innkeeper + moathouse)
+Last lint: 2026-04-25 (`/wiki lint --fix` ×1) | Last ingest: 2026-04-25 (T1 full text — 8 NPCs created/upgraded, Moat-House room key) | Last query: 2026-04-25 (innkeeper + moathouse)
 
 ## Page Counts
 
@@ -14,14 +14,14 @@ Last lint: 2026-04-25 (`/wiki lint --fix` ×1) | Last ingest: 2026-04-25 (Moat-H
 |-----------|--------------|-----|
 | Modules | 2 | ✓ |
 | Locations | 5 | ✓ |
-| NPCs | 15 | ✓ |
+| NPCs | 23 | ✓ |
 | Factions | 10 | ✓ |
 | Sessions | 0 | ✓ |
 | Conspiracy | 3 | ✓ |
 | World | 0 | ✓ |
 | Lore | 0 | ✓ |
 | State | 0 | ✓ |
-| **Total** | **35** (+ 10 hub/meta = **45**) | |
+| **Total** | **43** (+ 10 hub/meta = **53**) | |
 
 ## Health
 

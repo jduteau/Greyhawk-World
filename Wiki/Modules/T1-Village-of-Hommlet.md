@@ -54,7 +54,15 @@ Key dramatic tensions:
 - [[Wiki/NPCs/Rufus]]
 - [[Wiki/NPCs/Jaroo-Ashstaff]]
 - [[Wiki/NPCs/Rannos-Davi]]
+- [[Wiki/NPCs/Gremag]]
 - [[Wiki/NPCs/Gundigoot]]
+- [[Wiki/NPCs/Terjon]]
+- [[Wiki/NPCs/Zert]]
+- [[Wiki/NPCs/Spugnoir]]
+- [[Wiki/NPCs/Furnok-of-Ferd]]
+- [[Wiki/NPCs/Kobort-and-Turuko]]
+- [[Wiki/NPCs/Lareth-the-Beautiful]]
+- [[Wiki/NPCs/Lubash]]
 
 ### Factions
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]

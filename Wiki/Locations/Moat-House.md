@@ -85,14 +85,69 @@ No visits recorded.
 - Elmo knows more than he lets on about current activity at the Moat House. If the party develops trust with him, he can provide useful intelligence.
 - A pass scarab "TZGY" at [[Wiki/NPCs/Rannos-Davi]]'s traders' shop provides access to Temple areas — the traders are more dangerous than the Moat House.
 
+## Upper Level Room Key
+
+*gm_only*
+
+Random encounters: 1-in-12 per turn (giant rats, brigands, scraping noises, etc.)
+
+- **1. Giant Frogs (×6, HP 13/10/7/6/4/4):** In the moat weeds outside the main entrance. Voraciously hungry; surprise on 1–4 in d6. Two largest (150 lbs+) use tongues at range. Largest frog contains 100 gp gem.
+- **2. Rotting Drawbridge:** Bears a person; 50% chance horse breaks through (30% mule, 20% pony).
+- **3. Broken Gates:** One hanging open; boot prints lead to the building steps at area 5.
+- **4. Collapsed Tower:** A huge spider (HP 14, AC 6, HD 2+2) lurks on the remains of the upper floor 15' up; surprises on 1–5 in 6; 38 sp, 71 cp, and an ivory box (50 gp) on the floor.
+- **5. Littered Steps:** Human, animal, and possibly other traffic evident.
+- **6. Great Hall:** Destroyed; thoroughly looted. Cobwebs, leaves, dirt.
+- **7. Brigands (8 fighters + 2nd level leader):** Holed up in the "Black Chamber" behind a repaired, barred door. Leader: chain + shield, sword, spear, 17 HP. 8 fighters (various armor/weapons). Totally unaware of the secret door to the dungeon. Buried chest under rubble: 2,000 cp, 2 cloth bolts (60 gp each), crystal flagon + goblets (80 gp), inlaid box (45 gp), 4 × +1 magic arrows.
+- **8. Stairway Up:** Completely choked with rubble at the halfway landing; impassable.
+- **9. Littered Room:** Nothing of value except a fine broadsword wedged behind a splintered case.
+- **10. Empty Bed Chamber:** Total wreck.
+- **11. Salon:** Bats — 75% chance light source is dropped in confusion; 50% chance of striking a party member.
+- **12. Giant Snake (HP 23, AC 5, HD 4+2):** 12'+ adder; bite + poison (save: 1–3 hp, fail: 2–8 hp extra). Brigands avoid this entire corridor (one of their number was killed here). Jewelled dagger (850 gp) in nest litter.
+- **13. Storeroom + Stairs to Dungeon:** 13 giant rats (AC 7, HD ½). Overlooked jug of oil (10 flasks) on upper shelf. Gold ring (40 gp) on fifth stair down (5% per person to notice without active search).
+- **14. Empty Trophy Room:** Mangy pelts and shattered antlers. Nothing of value.
+- **15. Empty Room:** Former major-domo quarters. Wall cresset holds a silver baton (30 gp) disguised as a torch stub.
+- **16. Deserted Kitchen:** Giant tick (HP 19, AC 3, HD 3) hidden near a cask by the north fireplace; came in through the chimney; 1–4 hp bite + 1–6 hp blood drain per round thereafter.
+- **17. Partially Collapsed Chamber:** Giant lizard (HP 16, AC 5, HD 3+1; double damage on a 20). Intact chest: 33 cp, scale mail tunic, light crossbow, 24 crossbow bolts. +1 shield inside the lizard.
+
+## Dungeon Level Room Key
+
+*gm_only*
+
+Random encounters: 1-in-6 per turn (ogre patrol, zombie groups, bugbear patrol, gnoll patrol, etc.)
+
+Access via stairs in area 13 (upper level).
+
+- **1. Green Slime (×2, HP 10/7):** Placed above the central arch of the stairway; 75% chance of falling on anyone stepping off into the dungeon floor. Contact turns victim to green slime in 1–4 rounds.
+- **2. Locked Door (new lock):** 30 shields, 12 suits leather armor, barrels of salted meat, 2 kegs brandy (80 gp each).
+- **3. Locked Door:** 50 spears, 10 glaives, 6 guisarmes, 3 battleaxes, 70 black capes with yellow eye-of-fire emblem, provisions, 120 arrows, 200 crossbow bolts.
+- **4. Cell Corridor:** 12 zombies (HP 15/14/13/12/10/10/10/9/8/6/5/4) — pairs in cells, one more pair joining combat each round. 500 gp gem behind loose stone in last cell (50% per searcher per round to detect).
+- **5. Torture Chamber:** Recently used; blood trail leads south to a secret door in a pillar (90% undetectable without the blood trail; with it, normal chances). Inside: 30' shaft with iron rungs descending.
+- **6. Littered Storeroom:** Greased door hinges (50% chance to notice on examination). Silent door.
+- **7. Lubash's Room:** [[Wiki/NPCs/Lubash]] (HP 21, AC 5, bardiche 7–13). Guards with yellow-eye challenge; tosses prisoners to room 8. Elven cloak buried in nest debris.
+- **8. Lubash's Pantry:** 2 merchants (promise 100 sp each, paid via caravan 4 weeks after release) + 1 gnome spy (gives plain iron ring — gnomish alliance token).
+- **9. Grate Trap:** Iron grate falls from ceiling when false door (area 11) is triggered. Secret door leads to winch.
+- **10. Bugbears (×6, HP 17/14/12/11/11/9):** Recently recruited. Leader wears silver necklace (5 chrysoprase gems, 450 gp) as bracelet. 12 gp each. Will investigate lights from the south.
+- **11. False Door:** Opening it triggers the grate trap (area 9).
+- **12. Gnolls (×9, HP 14/12/10/10/10/9/9/9/7):** 2 armed with great longbows. Originally 14; 5 lost to raids. 3–18 sp each; leader has 10 gp gem + 11 gp. **Bribeable:** 75% inclined to parley if offered; will desert for 6+ gp each (3× for leader); if paid double, will guide party to "Master" and reveal there are human guards, then leave east and never return.
+- **13. Giant Crayfish Pool (HP 27, AC 4, HD 4+4):** 2 attacks for 2–12 each. Connected to underground stream. Treasure near pool edge: 19 gp, 30 sp, 17 cp, sword; on underwater ledge: platinum pin with ruby (2,000 gp), bone tube (watertight scroll: push, stinking cloud, fly).
+- **14. Burial Crypts:** 4 ghouls (HP 12/10/8/7). Ghouls receive corpse-food from "the Master." Den (area A via earth tunnel): 800 sp, 7 vials holy water, potion of undead control, scroll of protection from undead. Gold trail (1–4 gp per 10') leads into warrens (area B) that become hopelessly lost after 100+ feet.
+- **15. Escape Tunnel:** Slopes upward; exits 400' later amidst rocks and briars.
+- **16. Guard Post:** 6 guardsmen + 1 sergeant, all garbed in black with gold eyes of fire. Crossbow, 30 bolts, sword, dagger each. Sergeant: shield, morningstar, hammer, dagger; gold neckchain (50 gp). Alert response: low hooting summons remaining guards; howling brings Lareth + barracks guards.
+- **17. Guards Barracks:** 12 guards + 2 sergeants (double the stats of area 16 guards). Also the lieutenant (F4, HP 31, AC 1): 29 × 100 gp gems + 1,000 gp chain with topaz. Light warhorses stabled at end of room. Supply stores.
+- **18. [[Wiki/NPCs/Lareth-the-Beautiful]]'s Chamber:** Lavishly furnished. 5th level cleric of Lolth. HP 44, AC -1. Staff of striking, mace, phylactery of action. Treasure in plain sight: silver serving pieces (4,000 gp), alabaster unguent box (800 gp), fire opal necklace (45,000 gp).
+
 ## Cross-References
 
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Locations/Welcome-Wench-Inn]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]
 - [[Wiki/NPCs/Lareth-the-Beautiful]]
+- [[Wiki/NPCs/Lubash]]
 - [[Wiki/NPCs/Gundigoot]]
 - [[Wiki/NPCs/Elmo]]
 - [[Wiki/NPCs/Rannos-Davi]]
+- [[Wiki/NPCs/Gremag]]
+- [[Wiki/NPCs/Spugnoir]]
+- [[Wiki/NPCs/Kobort-and-Turuko]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]
