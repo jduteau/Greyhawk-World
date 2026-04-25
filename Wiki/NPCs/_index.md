@@ -28,3 +28,7 @@ updated: "2026-04-25"
 - [[Wiki/NPCs/Kobort-and-Turuko]] — Predatory fighter/monk pair; plan to rob survivors after using party as shields (T1)
 - [[Wiki/NPCs/Gremag]] — 7th-level assassin; Rannos Davi's partner; ToEE agent; far more dangerous than he appears (T1)
 - [[Wiki/NPCs/Terjon]] — 6th-level cleric of St. Cuthbert; acting chief priest; stern, unhappy about his posting (T1)
+- [[Wiki/NPCs/Calmert]] — 3rd-level cleric assistant; zealous contribution-collector; secretly channels funds to castle construction (T1)
+- [[Wiki/NPCs/Y-dey]] — Canoness 6th-level cleric; absent on quest; 10,000gp hidden cache in church fireplace (T1)
+- [[Wiki/NPCs/Nira-Melubb]] — 3rd-level thief (non-active); moneychanger; discreet, well-defended, heavily trapped treasure (T1)
+- [[Wiki/NPCs/Brother-Smyth]] — 3rd-level druid (village smith); assistant to Jaroo; druidical intelligence network node (T1)

@@ -64,6 +64,9 @@ No session history yet.
 ## Cross-References
 
 - [[Wiki/Locations/Village-of-Hommlet]]
+- [[Wiki/Locations/Church-of-St-Cuthbert]]
+- [[Wiki/NPCs/Calmert]]
+- [[Wiki/NPCs/Y-dey]]
 - [[Wiki/NPCs/Lareth-the-Beautiful]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]

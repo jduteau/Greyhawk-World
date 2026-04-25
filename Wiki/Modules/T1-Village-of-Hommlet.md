@@ -47,6 +47,8 @@ Key dramatic tensions:
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Locations/Welcome-Wench-Inn]]
 - [[Wiki/Locations/Moat-House]]
+- [[Wiki/Locations/Church-of-St-Cuthbert]]
+- [[Wiki/Locations/Burne-Rufus-Tower]]
 
 ### NPCs
 - [[Wiki/NPCs/Elmo]]
@@ -57,12 +59,16 @@ Key dramatic tensions:
 - [[Wiki/NPCs/Gremag]]
 - [[Wiki/NPCs/Gundigoot]]
 - [[Wiki/NPCs/Terjon]]
+- [[Wiki/NPCs/Calmert]]
+- [[Wiki/NPCs/Y-dey]]
 - [[Wiki/NPCs/Zert]]
 - [[Wiki/NPCs/Spugnoir]]
 - [[Wiki/NPCs/Furnok-of-Ferd]]
 - [[Wiki/NPCs/Kobort-and-Turuko]]
 - [[Wiki/NPCs/Lareth-the-Beautiful]]
 - [[Wiki/NPCs/Lubash]]
+- [[Wiki/NPCs/Nira-Melubb]]
+- [[Wiki/NPCs/Brother-Smyth]]
 
 ### Factions
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
@@ -81,6 +87,12 @@ Key dramatic tensions:
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Locations/Welcome-Wench-Inn]]
 - [[Wiki/Locations/Moat-House]]
+- [[Wiki/Locations/Church-of-St-Cuthbert]]
+- [[Wiki/Locations/Burne-Rufus-Tower]]
 - [[Wiki/NPCs/Gundigoot]]
+- [[Wiki/NPCs/Calmert]]
+- [[Wiki/NPCs/Y-dey]]
+- [[Wiki/NPCs/Nira-Melubb]]
+- [[Wiki/NPCs/Brother-Smyth]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]
