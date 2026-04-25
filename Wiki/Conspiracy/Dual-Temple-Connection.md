@@ -83,6 +83,7 @@ Unconfirmed. No in-game evidence has surfaced. Campaign has not begun.
 
 ## Cross-References
 
+- [[Wiki/Conspiracy/Lareth-Shrine-Command-Chain]] — specific implication: Lareth is the Shrine Cleric's ToEE regional superior
 - [[Wiki/Factions/Temple-of-Evil-Chaos]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Conspiracy/Temple-Spy-Thread]]

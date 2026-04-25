@@ -90,6 +90,8 @@ No session history yet.
 - [[Wiki/NPCs/Gremag]]
 - [[Wiki/NPCs/Terjon]]
 - [[Wiki/NPCs/Jaroo-Ashstaff]]
+- [[Wiki/NPCs/Shrine-Evil-Cleric]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]
+- [[Wiki/Conspiracy/Lareth-Shrine-Command-Chain]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]

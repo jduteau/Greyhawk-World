@@ -69,4 +69,7 @@ No session events yet.
 - [[Wiki/Locations/Caves-of-Chaos]]
 - [[Wiki/Factions/Temple-of-Evil-Chaos]]
 - [[Wiki/NPCs/Evil-Priest-Spy]]
+- [[Wiki/NPCs/Lareth-the-Beautiful]]
+- [[Wiki/Conspiracy/Lareth-Shrine-Command-Chain]]
+- [[Wiki/Conspiracy/Dual-Temple-Connection]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]
