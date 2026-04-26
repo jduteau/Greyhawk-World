@@ -62,6 +62,14 @@ Keys to Rooms 40 and 41 hang on the wall opposite the stairs in Room 39.
 
 **Room 37 (Spoils Room):** Locked with chieftain's key. Shield +1 (used as an herb tray), quality foodstuffs + leather hides + 3 barrels ale + tun wine + small keg oil. Total sale value at the Keep: 400 gp (excluding shield and oil).
 
+## Combat Behavior
+
+*gm_only*
+
+Ambush predators. Unnervingly quiet — they do not telegraph their presence until the moment of attack. Build dread through absence and sudden violence rather than visible threat.
+
+Other humanoids in the Caves fear the bugbears. They do not integrate into faction coordination — they are not allies of the goblins or orcs, they are simply more dangerous than those groups and everyone knows it. Play their attacks as sudden eruptions from darkness, not military engagements.
+
 ## Cross-References
 
 - [[Wiki/Locations/Caves-of-Chaos]]

@@ -52,6 +52,14 @@ Secret alliance with [[Wiki/Factions/Orc-Tribe-C]] — the two leaders meet priv
 
 **Room 13 — Forgotten Room:** Only the two orc leaders know of this place. Small table, 2 chairs, a chest (bow, 20 arrows, 2 swords, 2 daggers), 2 shields. Under an old bucket of stagnant water: 2 pouches (each: 1 gem worth 50 gp + 10 gp + 20 sp), guarded by 2 giant centipedes. The centipedes are a passive trap for anyone who blindly grabs the bucket.
 
+## Combat Behavior
+
+*gm_only*
+
+Aggressive and tribal. Orcs B and C are rivals — despite their secret planning room, they will not rush to assist each other in a fight. Don't expect word of combat in Lair B to bring Lair C orcs running. Each tribe treats fighting as its own problem.
+
+On a morale failure, orcs fight desperately rather than scattering — they push harder rather than breaking. Cornered orcs are more dangerous than open-field orcs.
+
 ## Cross-References
 
 - [[Wiki/Locations/Caves-of-Chaos]]

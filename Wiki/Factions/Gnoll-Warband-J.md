@@ -58,6 +58,14 @@ No direct link to the [[Wiki/Factions/Temple-of-Evil-Chaos]], but the secret doo
 
 Alliance: if gnolls are losing, surviving gnolls reinforce orc areas and vice versa. Factor this into encounter counts if both lairs have been hit.
 
+## Combat Behavior
+
+*gm_only*
+
+Pack predators. Patient and deliberate — they probe for weakness and target isolated characters before committing the group. More dangerous than their numbers suggest because they choose their engagements rather than accepting them.
+
+A lone character separated from the party is in real danger here. The gnolls will not pile in blindly; they wait for the weak moment. Play them as hunters, not warriors.
+
 ## Cross-References
 
 - [[Wiki/Locations/Caves-of-Chaos]]

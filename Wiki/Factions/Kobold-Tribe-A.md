@@ -56,6 +56,14 @@ No connection to [[Wiki/Factions/Temple-of-Evil-Chaos]] or any other cave factio
 
 **Silk piece** worth 150 gp is hidden in the litter of Room 6 — not found unless the party searches.
 
+## Combat Behavior
+
+*gm_only*
+
+Physically weak but cunningly prepared. Do not read a kobold retreat as defeat — they are luring the party through familiar territory toward kill zones. The deeper the party pushes into the warren, the more dangerous it becomes.
+
+In the open the kobolds seem almost pathetic. In their own tunnels, with the pit trap behind the party and the rat colony ahead, they are a genuine threat. The transition from pathetic to dangerous is the point of the encounter design — play it deliberately.
+
 ## Cross-References
 
 - [[Wiki/Locations/Caves-of-Chaos]]

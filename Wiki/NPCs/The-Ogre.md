@@ -65,6 +65,14 @@ The Ogre is the most straightforwardly negotiable combatant in the Caves — he 
 
 The bone heap treasure is the most valuable find in Lair E and is easily missed.
 
+## Combat Behavior
+
+*gm_only*
+
+Solitary and motivated by hunger and greed — not by tribal politics or ideological loyalty. Not tactical but physically overwhelming. Unlike any humanoid tribe, he can be negotiated with in ways that tribal creatures cannot: gold overrides hostility, at least temporarily.
+
+This distinction is useful in play: the party may find the Ogre manageable through bribery where no equivalent option exists with the goblin or orc tribes. He is dangerous but transactional.
+
 ## History
 
 No session events yet.

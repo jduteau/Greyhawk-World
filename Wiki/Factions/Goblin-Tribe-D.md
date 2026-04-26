@@ -54,6 +54,14 @@ Emergency mercenary relationship with the Ogre in Lair E (250 gp bribe hidden in
 
 **900 gp tapestry:** In the secret drawer under the chieftain's bench. Only found if the party specifically searches the furniture.
 
+## Combat Behavior
+
+*gm_only*
+
+Cowardly and disorganised. Rely on numbers and ambush rather than direct confrontation. Break morale quickly — goblins scatter rather than die. Cruel to the weak, craven before the strong.
+
+On a morale failure, individuals scatter in different directions rather than retreating as a unit. Do not expect a rallied last stand. The "Bree-Yark!" shouting is alarm and aggression simultaneously — they are calling for help while attacking, not organizing a defense.
+
 ## Cross-References
 
 - [[Wiki/Locations/Caves-of-Chaos]]

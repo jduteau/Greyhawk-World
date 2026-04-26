@@ -203,6 +203,17 @@ No visits recorded.
 
 - Monster losses are permanent. The Caves deplete with each party incursion.
 - Inter-lair alliances: Kobolds pay Ogre (250 gp in Room 18 barrel); Goblins flee east to Hobgoblins if losing; Orcs B and C share a secret meeting room (13); Gnolls and Orcs have a loose defensive pact. Only the Shrine (K) is truly coordinated.
+
+**Faction non-coordination:** Factions do not automatically aid each other. Rival groups may prepare defensively when they hear nearby fighting but will not rush to assist enemies. Combat noise in one lair does not trigger automatic reinforcement from others — only specific inter-faction relationships produce that (see Gnoll-Orc pact, Goblin-Hobgoblin flight path, Bugbear-Minotaur mercenary chain).
+
+**Morale failure behaviors are faction-specific — apply the appropriate one, not a generic "flee":**
+- Goblins scatter in all directions
+- Hobgoblins retreat in good order (repositioning, not breaking)
+- Orcs fight desperately, push harder when cornered
+- Bugbears break suddenly and violently when they do — but create dread through absence before that moment
+- Ogre flees or fights to the death if cornered (no middle ground)
+
+These distinctions matter for encounter feel and tactical consequences.
 - Bugbear clan survives until all are dead except the chieftain, who flees to the Minotaur for help.
 - The medusa in K-64 has a potion of stone to flesh (6 uses) — potentially powerful for a party that suffers stoning, but the medusa will not cooperate willingly.
 - The four cursed bronze relics (K-55): dispel magic + bless removes the curse (60% on day 1, −10%/day through day 6).

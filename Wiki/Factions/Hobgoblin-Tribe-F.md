@@ -60,6 +60,14 @@ Keys to prisoner chains hang in the SW corner of Room 24. Keys to Room 37 (Spoil
 
 If the chief is killed, survivors will flee unless opponents are clearly weak. 2 bugbears are out hunting and return the day after the party first enters Lair H — they can be placed on guard duty at Room 35.
 
+## Combat Behavior
+
+*gm_only*
+
+Militaristic and disciplined. Fight tactically — retreat in good order, call for reinforcements, fall back to defensible positions when losing. They do not stand and die out of pride; they yield ground to regroup. The only faction in the Caves that treats combat as a military problem rather than a brawl.
+
+On a morale failure, hobgoblins execute an organized withdrawal. The party should not assume a retreating hobgoblin is a defeated one — he may be repositioning crossbowmen.
+
 ## Cross-References
 
 - [[Wiki/Locations/Caves-of-Chaos]]

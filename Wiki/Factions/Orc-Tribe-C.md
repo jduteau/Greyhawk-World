@@ -54,6 +54,14 @@ Secret alliance with [[Wiki/Factions/Orc-Tribe-B]] via the shared Forgotten Room
 
 **Room 13 — Forgotten Room:** Shared with [[Wiki/Factions/Orc-Tribe-B]] leader. Under an old bucket of stagnant water: 2 pouches (each: 1 gem worth 50 gp + 10 gp + 20 sp), guarded by 2 giant centipedes.
 
+## Combat Behavior
+
+*gm_only*
+
+Aggressive and tribal. Rivals with Orc Tribe B — they will not coordinate willingly during a fight even if they can hear it nearby. The secret alliance is for planning and mutual benefit, not battlefield mutual aid.
+
+Like Tribe B, orcs C fight desperately under pressure rather than scattering. If the leader is killed, survivors don't scatter — they evacuate toward Lair B, which makes rapid sequential attacks on both lairs possible if the party can exploit the collapse window.
+
 ## Cross-References
 
 - [[Wiki/Locations/Caves-of-Chaos]]
