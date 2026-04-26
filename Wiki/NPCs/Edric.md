@@ -55,6 +55,14 @@ A live stake in the [[Wiki/Locations/Caves-of-Chaos]]. His capture was deliberat
 
 *No character-specific relationships established yet.*
 
+## Party Relationship
+
+Not yet met. If found alive in the Caves of Chaos, he is a rescued prisoner — grateful and cooperative, focused entirely on returning to Marta.
+
+## What the Party Knows
+
+Nothing yet. [[Wiki/NPCs/Marta]] can describe him to the party.
+
 ## GM Truth
 
 *gm_only*

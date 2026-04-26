@@ -78,7 +78,7 @@ Not yet met. He will be professionally distant and formal on first contact. He c
 
 Stern replacement cleric; the Canoness Y'dey is away on a quest and hasn't returned.
 
-## GM Notes
+## GM Truth
 
 *gm_only*
 

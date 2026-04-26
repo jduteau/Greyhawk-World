@@ -62,7 +62,15 @@ He will devour anyone he kills at the first opportunity. He tosses wounded and p
 
 *No character-specific relationships established yet.*
 
-## GM Notes
+## Party Relationship
+
+Not yet met.
+
+## What the Party Knows
+
+Nothing. He is not known to exist until the party reaches area 7 of the Moat House dungeon level.
+
+## GM Truth
 
 *gm_only*
 

@@ -23,6 +23,10 @@ updated: 2026-04-25
 
 Canoness of the Church of St. Cuthbert in [[Wiki/Locations/Village-of-Hommlet]]. 6th level cleric. Currently away on a quest; [[Wiki/NPCs/Terjon]] is her temporary replacement and is not pleased about it.
 
+## Description
+
+Not personally present in Hommlet during the T1 campaign. Known only by reputation and Terjon's visible resentment at being left in charge. Described as decisive and self-directed — she departed on her own initiative without waiting for sanction from the Archcleric of Veluna. No physical description established yet; her presence is felt through her absence.
+
 ## Role
 
 Canoness of the Church of St. Cuthbert in Hommlet — the highest-ranking St. Cuthbert cleric in the village. Currently absent: departed to investigate whether the Temple of Elemental Evil has survived or is being rebuilt. Terjon is her temporary replacement and is not pleased about it. Her personal cache is hidden in the church; only she knows it is there.
@@ -58,6 +62,14 @@ Her return (detailed in T2) may be triggered by the party's actions raising the 
 
 *No character-specific relationships established yet.*
 
+## Party Relationship
+
+Not yet met. She is absent from Hommlet for the entire T1 campaign. Any relationship is deferred to T2.
+
+## What the Party Knows
+
+Known by reputation: the Canoness of the Church of St. Cuthbert who departed unexpectedly on a quest. Both Terjon and Jaroo will mention her if asked about local allies.
+
 ## Current Status
 
 Absent from Hommlet. Traveling with:
@@ -79,7 +91,7 @@ Contents:
 - +1 mace
 - Scroll of protection from demons
 
-## GM Notes
+## GM Truth
 
 *gm_only*
 

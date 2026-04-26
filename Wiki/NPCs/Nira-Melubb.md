@@ -66,11 +66,15 @@ Professional moneychanger and gem dealer. The only financial services provider i
 
 *No character-specific relationships established yet.*
 
+## Party Relationship
+
+Not yet met.
+
 ## What the Party Knows
 
 Neutral, discreet moneychanger. Fair but not cheap. Good service, no questions. Well-defended.
 
-## GM Notes
+## GM Truth
 
 *gm_only*
 

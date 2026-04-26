@@ -6,7 +6,7 @@ updated: "2026-04-25"
 # Wiki Dashboard
 
 Overview and health status of your LLM Wiki.
-Last lint: 2026-04-25 (`/wiki lint`) | Last status: 2026-04-25 | Last ingest: 2026-04-25 (Lolth overarching conspiracy + NPC section expansion)
+Last lint: 2026-04-25 (`/wiki lint --fix`) | Last status: 2026-04-25 | Last ingest: 2026-04-25 (Lolth overarching conspiracy + NPC section expansion)
 
 ## Page Counts
 
@@ -27,31 +27,16 @@ By type: entity 48 · knowledge 14 · hub 10 · schema 1
 
 ## Health
 
-- Critical: 4 (false positives) + 0 real
-- Warnings: 10 NPCs missing standard sections (Party Relationship, What The Party Knows, GM Truth, Description)
-- Info: 4 (empty namespace hubs — expected)
+- Critical: 0
+- Warnings: 0
+- Info: 2 (false-positive credential rule on game text; empty namespace hubs — both expected)
 
 ## Open Issues
 
-**Critical (false positives — no action needed)**
-- Keep-on-the-Borderlands, Gnoll-Warband-J: "secret" keyword triggered cred-leak rule — game text, not credentials
-- Sessions, World, Lore, State _index: flagged as empty — expected for pre-campaign namespaces
-
-**Warnings — NPCs with missing standard sections**
-- `Lubash` — missing: Party Relationship, What The Party Knows, GM Truth
-- `Nira-Melubb` — missing: Party Relationship, GM Truth
-- `Calmert` — missing: Party Relationship, What The Party Knows
-- `Spugnoir` — missing: GM Truth
-- `Terjon` — missing: GM Truth
-- `Edric` — missing: Party Relationship, What The Party Knows
-- `Marta` — missing: GM Truth
-- `Furnok-of-Ferd` — missing: GM Truth
-- `Brother-Smyth` — missing: Party Relationship, What The Party Knows, GM Truth
-- `Y-dey` — missing: Description, Party Relationship, What The Party Knows, GM Truth
-- `Kobort-and-Turuko` — missing: Description, What The Party Knows, GM Truth
-
-**Info**
-- Schema.md has placeholder link `[[Wiki/Entity/Name]]` — expected (template example)
+**Info (no action needed)**
+- Keep-on-the-Borderlands, Gnoll-Warband-J: "secret" in game text triggers cred-leak rule — not actual credentials; suppress or tune regex
+- Sessions, World, Lore, State _index hubs are empty — expected for pre-campaign namespaces
+- Schema.md has placeholder link `[[Wiki/Entity/Name]]` — template example, not a real ref
 
 ## Namespaces
 

@@ -70,7 +70,15 @@ In no event will he leave his forge to go adventuring.
 
 *No character-specific relationships established yet.*
 
-## GM Notes
+## Party Relationship
+
+Not yet met. He is approachable and forthright — one of the more openly welcoming residents of Hommlet.
+
+## What the Party Knows
+
+Known as the village smith. His druidical calling is openly acknowledged in Hommlet and no secret.
+
+## GM Truth
 
 *gm_only*
 

@@ -72,7 +72,7 @@ The hidden catch: Furnok will pilfer from the party throughout the expedition. H
 
 Not yet revealed.
 
-## GM Notes
+## GM Truth
 
 *gm_only*
 

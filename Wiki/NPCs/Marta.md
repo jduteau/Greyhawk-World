@@ -67,7 +67,7 @@ Not yet met.
 
 Nothing yet. She is present at the Keep tavern during the party's first visit.
 
-## GM Notes
+## GM Truth
 
 *gm_only*
 

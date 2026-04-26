@@ -70,7 +70,7 @@ Not yet met. If approached and offered **all scrolls found**, he will join the p
 
 Not yet revealed.
 
-## GM Notes
+## GM Truth
 
 *gm_only*
 

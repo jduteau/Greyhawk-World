@@ -21,6 +21,10 @@ updated: 2026-04-25
 
 Occupants of upper room 9 at the [[Wiki/Locations/Welcome-Wench-Inn]]. A mismatched pair — a hulking fighter and a calculating monk — rooming together and watching for an opportunity.
 
+## Description
+
+A mismatched pair who share a room at the Welcome Wench. Kobort is large, loud, and obvious — splint mail, a warhorse in the stables, a broad grin and a readiness to talk to anyone. Turuko is small, quiet, and watchful — a lean Bakluni monk in plain travel clothes, asking careful questions and steering conversations back to the Moat House. They present as enthusiastic companions looking for a capable party.
+
 ## Kobort
 
 2nd level fighter, neutral (not bright enough to have a genuine alignment).
@@ -72,6 +76,10 @@ Kobort supplies the muscle; Turuko supplies the plan and the timing. Neither is 
 
 *No character-specific relationships established yet.*
 
+## What the Party Knows
+
+Not yet revealed. They appear to be a capable warrior pair looking for adventuring work and eager to join an expedition to the Moat House.
+
 ## The Plan
 
 *gm_only*
@@ -86,7 +94,7 @@ Turuko knows that there are monsters and treasure in the ruined [[Wiki/Locations
 
 Not yet met. They will present as capable and enthusiastic companions looking for action.
 
-## GM Notes
+## GM Truth
 
 *gm_only*
 

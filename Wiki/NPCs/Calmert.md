@@ -69,6 +69,14 @@ He is known throughout the village for his zeal in obtaining contributions.
 
 *No character-specific relationships established yet.*
 
+## Party Relationship
+
+Not yet met. He is the first person any party encounters at the Church of St. Cuthbert — courteous, procedural, and conspicuously attentive to the poorbox.
+
+## What the Party Knows
+
+Known as the zealous contribution-collector at the Church of St. Cuthbert. Friendly enough once the poorbox has been acknowledged. Gatekeeps access to Terjon.
+
 ## GM Truth
 
 *gm_only*
