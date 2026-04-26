@@ -49,6 +49,26 @@ Bravery and honesty are absolute — he cannot be corrupted and will not lie to 
 
 **In his armoire (area 27):** silver mirror (300 gp), malachite bowl (750 gp), fox robe (1,200 gp), small silver case (450 gp) containing 40 pp and 12 gems (100 gp each). Spear +1 by the door.
 
+## Sherlane's Briefing
+
+*gm_only*
+
+When the party first arrives at the Keep, Sherlane establishes the Caves as the immediate target. His briefing points:
+
+- Raids on travellers and farmsteads have increased and show unusual coordination across species
+- The [[Wiki/Locations/Caves-of-Chaos]] four miles east are the known concentration point
+- Several travellers have gone missing on the Hommlet–Keep road — taken, not killed
+- He offers standing pay for intelligence and use of the Keep between expeditions
+- He does not mention the Moat House unless the party raises it
+
+He is recommended by both [[Wiki/NPCs/Terjon]] and [[Wiki/NPCs/Jaroo-Ashstaff]] to the party before they leave Hommlet — Terjon specifically suggests speaking with him before acting.
+
+## What Sherlane Knows About the Moat House
+
+*gm_only*
+
+Sherlane knows the [[Wiki/Locations/Moat-House]] exists and that it was associated with evil in the past. He has heard it may be reoccupied but has no confirmed intelligence. He will mention it only if the party asks directly, and he will make clear that his intel is vague and unverified. He has been tracking humanoid movements for months but the trail points to the Caves, not south.
+
 ## History
 
 No session events yet.
@@ -58,4 +78,9 @@ No session events yet.
 - [[Wiki/Locations/Keep-on-the-Borderlands]]
 - [[Wiki/Factions/Keep-Garrison]]
 - [[Wiki/NPCs/The-Curate]]
+- [[Wiki/NPCs/Terjon]]
+- [[Wiki/NPCs/Jaroo-Ashstaff]]
+- [[Wiki/Locations/Caves-of-Chaos]]
+- [[Wiki/Locations/Moat-House]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]
+- [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]]

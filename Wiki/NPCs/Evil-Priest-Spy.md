@@ -56,6 +56,15 @@ Nothing yet.
 
 **Discovery clue:** [[Wiki/NPCs/The-Curate]] privately distrusts this priest — 50% chance to say so if asked by a trusted friend. The Curate's own acolytes contradict him and speak well of the spy, which the party can notice as suspicious once the Curate's distrust is known.
 
+**Lareth connection:**
+
+The spy receives monthly written instructions from [[Wiki/NPCs/Lareth-the-Beautiful]] ("the Shepherd") via a goblin courier who travels the road by night. He has been told that reinforcements will come from the south if the Caves operation faces a serious threat.
+
+**Physical evidence on his person / in the Shrine:**
+
+- A short coded note using merchant symbols from a Hommlet contact — references supply routes and "the shepherd to the south." Can be found by searching the priest's body or the Shrine chamber.
+- Among the Shrine's stores: crates bearing a trading post mark that matches the traders' establishment in [[Wiki/Locations/Village-of-Hommlet]]. Supplies are flowing from Hommlet to the Caves.
+
 ## History
 
 No session events yet.
@@ -66,4 +75,7 @@ No session events yet.
 - [[Wiki/Factions/Temple-of-Evil-Chaos]]
 - [[Wiki/NPCs/The-Curate]]
 - [[Wiki/NPCs/Shrine-Evil-Cleric]]
+- [[Wiki/NPCs/Lareth-the-Beautiful]]
+- [[Wiki/Locations/Village-of-Hommlet]]
+- [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]

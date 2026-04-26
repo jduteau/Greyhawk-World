@@ -6,7 +6,7 @@ updated: "2026-04-25"
 # Wiki Dashboard
 
 Overview and health status of your LLM Wiki.
-Last lint: 2026-04-25 (`/wiki lint --fix` ×1) | Last ingest: 2026-04-25 (T1 full text — pass 2: 4 NPCs + 2 Locations added) | Last query: 2026-04-25 (innkeeper + moathouse)
+Last lint: 2026-04-25 (`/wiki lint --fix` ×1) | Last ingest: 2026-04-25 (T1/B2 linking thread — 3 pages created, 13 pages updated) | Last query: 2026-04-25 (castellan rename → Sherlane)
 
 ## Page Counts
 
@@ -14,14 +14,14 @@ Last lint: 2026-04-25 (`/wiki lint --fix` ×1) | Last ingest: 2026-04-25 (T1 ful
 |-----------|--------------|-----|
 | Modules | 2 | ✓ |
 | Locations | 7 | ✓ |
-| NPCs | 27 | ✓ |
+| NPCs | 29 | ✓ |
 | Factions | 10 | ✓ |
 | Sessions | 0 | ✓ |
-| Conspiracy | 3 | ✓ |
+| Conspiracy | 5 | ✓ |
 | World | 0 | ✓ |
 | Lore | 0 | ✓ |
 | State | 0 | ✓ |
-| **Total** | **49** (+ 10 hub/meta = **59**) | |
+| **Total** | **51** (+ 10 hub/meta = **61**) | |
 
 ## Health
 

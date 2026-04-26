@@ -71,6 +71,16 @@ Nothing. He is not known to exist until the party reaches the dungeon level.
 
 **Lieutenant (area 17):** 4th level fighter — S 15, I 12, W 10, D 15, C 17, Ch 7 · HP 31 · AC 1 (plate + shield + Dex). Sword, hand axe, dagger. Stays near Lareth always. Treasure: 29 × 100 gp gems + gold chain with 500 gp topaz (1,000 gp total).
 
+**Code name:** Lareth is known to all his agents in Hommlet and the Caves only as "the Shepherd." No agent has met him in person. Communication runs through dead drops (Rannos/Gremag) and goblin courier (Shrine priest, Evil Priest Spy in the Keep).
+
+**Cross-module documents in his strongbox:**
+- A document listing humanoid clan strengths in the [[Wiki/Locations/Caves-of-Chaos]]: troop numbers, cave assignments, current dispositions. He is managing the Caves operation from the Moat House end.
+- A note fragment referencing "our friends in the village" and asking for a count of travellers using the Keep road — this is [[Wiki/NPCs/Rannos-Davi]] and [[Wiki/NPCs/Gremag]]'s reporting function made explicit.
+
+**Alert chain:**
+- If monthly report from the Shrine Priest stops: after two missed reports, Lareth sends a goblin scout to investigate. If the scout doesn't return, he knows the Caves operation is compromised and begins preparing to abandon the Moat House.
+- If Rannos or Gremag warn him that the party is investigating seriously: Lareth receives this within two days and raises the Moat House alert status.
+
 **If Lareth is slain:**
 - Temple agents in Hommlet (traders, Zert) make discreet inquiries
 - A 10th level assassin arrives within 3 weeks and targets the party
@@ -91,7 +101,10 @@ No session history yet.
 - [[Wiki/NPCs/Terjon]]
 - [[Wiki/NPCs/Jaroo-Ashstaff]]
 - [[Wiki/NPCs/Shrine-Evil-Cleric]]
+- [[Wiki/NPCs/Evil-Priest-Spy]]
+- [[Wiki/Locations/Caves-of-Chaos]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]
+- [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]]
 - [[Wiki/Conspiracy/Lareth-Shrine-Command-Chain]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]

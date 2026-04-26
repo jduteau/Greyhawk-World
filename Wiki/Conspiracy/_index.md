@@ -10,3 +10,4 @@ updated: "2026-04-21"
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]] — Temple of Elemental Evil multi-agent network in Hommlet; active, party unaware (T1)
 - [[Wiki/Conspiracy/Dual-Temple-Connection]] — Campaign hypothesis: Temple of Evil Chaos is a ToEE forward operation; confidence inferred; unconfirmed in play
 - [[Wiki/Conspiracy/Lareth-Shrine-Command-Chain]] — Campaign hypothesis: Lareth is the Shrine Evil Cleric's ToEE regional superior; escape route leads to the Moat House; confidence inferred
+- [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]] — T1/B2 cross-module operation: Lareth ("the Shepherd") links Moat House, Caves, and Hommlet agents through code names, dead drops, and goblin couriers

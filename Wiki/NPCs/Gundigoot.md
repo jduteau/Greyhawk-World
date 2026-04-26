@@ -68,6 +68,8 @@ He will add conversationally, if he likes the look of the party:
 - A current guest (upper room 5 — "a bookish fellow, travels light") has been asking similar questions; he does not know the man's name unless pressed, and will not give a room number
 - "People who go looking for old trouble sometimes find new trouble instead"
 
+**Recommending the Keep:** Gundigoot mentions the [[Wiki/Locations/Keep-on-the-Borderlands]] unprompted to adventurers who seem serious. Not as a lecture — he works it into conversation naturally. His framing: it's where serious adventurers base themselves; [[Wiki/NPCs/Sherlane]] knows the regional situation better than anyone; the Keep has resources and a tavern. He does this because he genuinely wants the party pointed toward the real problem before they wander into the Moat House unprepared.
+
 He will **not** volunteer:
 - That the Moat House may be reoccupied (he suspects activity but has no confirmed intelligence)
 - Anything about Zert or the traders as Temple agents
@@ -82,7 +84,10 @@ No session history yet.
 - [[Wiki/Locations/Welcome-Wench-Inn]]
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Locations/Moat-House]]
+- [[Wiki/Locations/Keep-on-the-Borderlands]]
 - [[Wiki/NPCs/Jaroo-Ashstaff]]
 - [[Wiki/NPCs/Elmo]]
+- [[Wiki/NPCs/Sherlane]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]
+- [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]]

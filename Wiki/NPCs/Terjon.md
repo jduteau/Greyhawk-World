@@ -53,6 +53,8 @@ Stern replacement cleric; the Canoness Y'dey is away on a quest and hasn't retur
 *gm_only*
 
 - Terjon is not a plot obstacle. He is a gruff but loyal St. Cuthbert cleric who knows his duty. If the party is genuinely fighting the Temple of Elemental Evil, he will aid them — more generously than his manner suggests.
+- **Directing the party to [[Wiki/NPCs/Sherlane]]:** Terjon suggests the party speak with [[Wiki/NPCs/Sherlane]] at the [[Wiki/Locations/Keep-on-the-Borderlands]] before acting. He explains that Sherlane has been tracking humanoid movements for months and has better situational intelligence than anyone in Hommlet.
+- **What Terjon knows about the Moat House:** He has heard reports from parishioners about humanoid activity near the Moathouse road. He is concerned but has no actionable intelligence. He will tell the party the Moat House was associated with evil in the past and that its reoccupation would be a serious matter — but he has no confirmed intelligence about current activity, specific defences, or occupants.
 - He keeps church funds in a locked iron coffer under his bed: 16 pp, 102 gp, 88 ep, 317 sp, 546 cp. He takes 20% salary; Calmert takes 10%.
 - The fireplace mantle in his chamber conceals Y'dey's personal cache: a bronze neck chain set with 6 × 1,000 gp rubies and an amber cudgel (total 10,000 gp), a +1 mace, and a scroll of protection from demons. **Only Y'dey knows this is here.** Terjon does not know the cache exists and has not opened the mantle.
 - If Lareth the Beautiful ([[Wiki/NPCs/Lareth-the-Beautiful]]) is slain: the module notes that Terjon will aid any party targeted by the consequent 10th level assassin.
@@ -65,8 +67,12 @@ No session history yet.
 
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Locations/Church-of-St-Cuthbert]]
+- [[Wiki/Locations/Keep-on-the-Borderlands]]
+- [[Wiki/Locations/Moat-House]]
 - [[Wiki/NPCs/Calmert]]
 - [[Wiki/NPCs/Y-dey]]
 - [[Wiki/NPCs/Lareth-the-Beautiful]]
+- [[Wiki/NPCs/Sherlane]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
+- [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]

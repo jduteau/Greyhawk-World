@@ -85,13 +85,35 @@ The first party to reach the Moat House dungeon level becomes the only good-alig
 
 See debrief hook sections on each watcher's NPC page for specific outcomes.
 
+## Dead Drop Operational Detail
+
+*gm_only*
+
+[[Wiki/NPCs/Rannos-Davi]] and [[Wiki/NPCs/Gremag]] communicate with [[Wiki/NPCs/Lareth-the-Beautiful]] entirely through dead drops on the road between Hommlet and the [[Wiki/Locations/Moat-House]]. Neither has ever met Lareth in person. They know him only as "the Shepherd."
+
+The dead drop arrangement means the party cannot intercept a live meeting between Hommlet agents and Lareth — they can only find physical evidence (the drops themselves, or the documents at either end).
+
+## Timing Consequences
+
+*gm_only*
+
+See [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]] for the full consequence chain. Summary:
+
+- Rannos or Gremag learn party is investigating the Caves seriously → warning to Lareth via dead drop within 2 days → Moat House alert raised
+- Party confronts Rannos with trading post mark evidence → he denies it but sends urgent warning to Lareth that night
+- These consequences make information security and expedition pacing meaningful for the party
+
 ## Cross-References
 
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/NPCs/Rannos-Davi]]
+- [[Wiki/NPCs/Gremag]]
+- [[Wiki/NPCs/Lareth-the-Beautiful]]
 - [[Wiki/NPCs/Elmo]]
 - [[Wiki/NPCs/Jaroo-Ashstaff]]
 - [[Wiki/NPCs/Burne]]
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Locations/Welcome-Wench-Inn]]
+- [[Wiki/Locations/Moat-House]]
 - [[Wiki/Conspiracy/Temple-Spy-Thread]]
+- [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]]

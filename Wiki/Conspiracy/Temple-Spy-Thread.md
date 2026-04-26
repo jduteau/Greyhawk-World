@@ -49,6 +49,19 @@ Nothing discovered by the party yet. Campaign has not begun.
 - [[Wiki/Factions/Temple-of-Evil-Chaos]] — parent organization; the conspiracy serves the Shrine's survival
 - The humanoid tribes in the Caves are not part of the conspiracy but function as a buffer layer beneath it — their continued existence protects the Shrine from early contact
 
+## Lareth Connection
+
+*gm_only*
+
+The spy [[Wiki/NPCs/Evil-Priest-Spy]] receives monthly written instructions from [[Wiki/NPCs/Lareth-the-Beautiful]] ("the Shepherd") via a goblin courier who travels the road by night. He has been told reinforcements will come from the south if the Caves operation faces serious threat.
+
+**Physical evidence in the Shrine / on the spy priest:**
+
+- A short coded note (merchant symbols) from a Hommlet contact — references supply routes and "the shepherd to the south." Found by searching the priest's body or Shrine chamber.
+- Crates in the Shrine stores bearing a trading post mark that matches the Rannos/Gremag traders' establishment in [[Wiki/Locations/Village-of-Hommlet]].
+
+These physical items connect B2 Caves evidence directly to the T1 Hommlet network. The party that finds both the Shrine note and the trading post crates has the thread in their hands. See [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]] for the full cross-module picture.
+
 ## Status
 
 Active. Party is unaware. No session disruption yet.
@@ -58,6 +71,9 @@ Active. Party is unaware. No session disruption yet.
 - [[Wiki/Factions/Temple-of-Evil-Chaos]]
 - [[Wiki/NPCs/Evil-Priest-Spy]]
 - [[Wiki/NPCs/Shrine-Evil-Cleric]]
+- [[Wiki/NPCs/Lareth-the-Beautiful]]
 - [[Wiki/NPCs/The-Curate]]
 - [[Wiki/Locations/Keep-on-the-Borderlands]]
 - [[Wiki/Locations/Caves-of-Chaos]]
+- [[Wiki/Locations/Village-of-Hommlet]]
+- [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]]

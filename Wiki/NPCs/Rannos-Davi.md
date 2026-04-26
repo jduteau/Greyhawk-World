@@ -47,6 +47,10 @@ Nothing suspicious yet. The traders are a known fixture. The carter (area 14) di
 
 Rannos and Gremag know about Zert (the Temple fighter at the Welcome Wench inn, upper room 1) — but Zert does not know about them. The party could potentially discover this asymmetry.
 
+**Connection to Lareth:** Rannos knows [[Wiki/NPCs/Lareth-the-Beautiful]] only as "the Shepherd" — a code name. He has never met Lareth in person. Communication runs entirely through dead drops on the road between Hommlet and the [[Wiki/Locations/Moat-House]]. Rannos passes intelligence (traveller counts on the Keep road, adventuring party movements) via these drops; Lareth passes operational instructions in return.
+
+**If confronted with evidence:** If the party recovers the trading post mark from the Caves and confronts Rannos, he denies it. But he becomes visibly frightened and sends an urgent warning to Lareth that same night via dead drop. The party should be able to read his fear even through the denial.
+
 **Rannos Davi statistics:** 10th level thief; hp 48; S 8, I 14, W 9, D 18, C 15, Ch 7. +1 magic leather armor, +1 dagger, +1 ring of protection, +2 short sword (under the counter), medallion vs. crystal balls and ESP (worn under his jerkin).
 
 **Hidden magical reserve** (brought out when personally following adventurers): additional devices not specified — assume significant.
@@ -70,6 +74,9 @@ No session events yet. Present in village when module begins.
 ## Cross-References
 
 - [[Wiki/Locations/Village-of-Hommlet]]
+- [[Wiki/NPCs/Lareth-the-Beautiful]]
+- [[Wiki/Locations/Moat-House]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]
+- [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]

@@ -29,6 +29,8 @@ Absent from Hommlet. Traveling with:
 - **Otis** — 10th level ranger; Elmo's elder brother (see [[Wiki/NPCs/Elmo]])
 - **Murfles** — elf fighter/thief 1st/2nd level
 
+**Campaign placement:** Y'dey has departed to investigate the [[Wiki/Factions/Temple-of-Elemental-Evil]] — specifically, whether the Temple proper has survived or is being rebuilt. Her absence is notable to [[Wiki/NPCs/Terjon]] and [[Wiki/NPCs/Jaroo-Ashstaff]], who will mention her matter-of-factly if asked about local allies. She may return later in the campaign if the party's actions draw enough attention to the Temple threat.
+
 The nature and destination of the quest are not detailed in T1 — see T2 (The Temple of Elemental Evil) for full information.
 
 ## Hidden Cache
@@ -60,4 +62,6 @@ No session history yet.
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/NPCs/Terjon]]
 - [[Wiki/NPCs/Elmo]]
+- [[Wiki/NPCs/Jaroo-Ashstaff]]
+- [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]

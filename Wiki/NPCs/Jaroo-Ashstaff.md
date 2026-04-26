@@ -47,6 +47,10 @@ Jaroo is a Gnarley Wood agent with a specific mission: determine if the Temple o
 
 He does not know about the Temple spy network (Rannos Davi et al.) but is alert to suspicious visitors. He can be a powerful ally if the party earns his trust and demonstrates opposition to the Temple.
 
+**Directing the party to the Keep:** Jaroo is direct with adventurers he judges ready. He will tell the party the [[Wiki/Locations/Moat-House]] is not ready for them yet — the humanoid activity is the more immediate problem, and the [[Wiki/Locations/Keep-on-the-Borderlands]] is the right place to understand its scope. [[Wiki/NPCs/Sherlane]] has been tracking humanoid movements for months; the party should speak with him first.
+
+**What Jaroo knows about the Moat House:** He senses something wrong in the forest toward the Moat House but has no specifics. He'll confirm it feels disturbed if asked directly, without volunteering more. He does not have confirmed intelligence about reoccupation.
+
 **Statistics:** 7th level druid; hp 44; S 11, I 14, W 18, D 9, C 15, Ch 15. Padded armor, cloak of protection +2, staff of the snake, +1 scimitar, ring of invisibility.
 
 **Spells:**
@@ -80,8 +84,11 @@ Sent to Hommlet by the Druids of Gnarley Wood at an unspecified point after the 
 
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Locations/Moat-House]]
+- [[Wiki/Locations/Keep-on-the-Borderlands]]
 - [[Wiki/NPCs/Lareth-the-Beautiful]]
+- [[Wiki/NPCs/Sherlane]]
 - [[Wiki/NPCs/Brother-Smyth]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]
+- [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]]

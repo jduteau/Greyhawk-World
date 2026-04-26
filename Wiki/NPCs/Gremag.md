@@ -49,6 +49,9 @@ Unpleasant business partner, possible fussbudget. Nothing alarming.
 
 - 7th level assassin with fully loaded kit. The dagger of venom and ice dust are not defensive weapons.
 - He and Rannos know about [[Wiki/NPCs/Zert]] (the ToEE spy at the Welcome Wench inn). Zert does not know about them.
+- **Joined for money, not ideology.** Gremag is increasingly uncomfortable with how large the operation has become. He did not sign on to run a supply chain for a Caves raiding network — he signed on for a quiet intelligence role with good pay. The scale of Lareth's operation is not what he expected.
+- **Pressure point:** Gremag is the more likely of the two to break under sustained pressure. He is nervous, and that nervousness is readable if the party pays attention. Rannos Davi is cold and calculating; Gremag flinches.
+- Like Rannos, he knows Lareth only as "the Shepherd" — has never met him in person; communication through dead drops on the Hommlet–Moat House road.
 - The TZGY scarab (Temple pass) is in the locked coffer in their back room, alongside 150 pp, 300 gp, 50 × 100 gp gems, and 2 potions of invisibility.
 - The traders' groom (rear barn) is secretly a CE bandit assigned to track party activity and report to the traders.
 - If the party becomes sufficiently threatening to Temple interests, Gremag is the one likely to act directly. Rannos Davi coordinates; Gremag executes.
@@ -61,7 +64,9 @@ No session history yet.
 
 - [[Wiki/NPCs/Rannos-Davi]]
 - [[Wiki/NPCs/Zert]]
+- [[Wiki/NPCs/Lareth-the-Beautiful]]
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]
+- [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]
