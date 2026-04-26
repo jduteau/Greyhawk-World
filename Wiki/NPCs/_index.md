@@ -9,6 +9,8 @@ updated: "2026-04-25"
 - [[Wiki/NPCs/Sherlane]] — F6, commander of the Keep; absolutely brave and honest (B2)
 - [[Wiki/NPCs/Marta]] — Farmer's wife at Keep tavern; husband Edric missing (emergent)
 - [[Wiki/NPCs/Edric]] — Farmer; prisoner in the Caves of Chaos; Marta's husband (emergent)
+- [[Wiki/NPCs/Eclavdra]] — Drow of House Eilservs; giant destabilization architect; first appears G3 (G-series)
+- [[Wiki/NPCs/Edralve]] — Drow intermediary for Brotherhood of Slave Lords; unknown to slavers as drow (A1-4)
 - [[Wiki/NPCs/The-Curate]] — C5, spiritual leader of the Keep; distrusts the spy priest (B2)
 - [[Wiki/NPCs/Evil-Priest-Spy]] — Chaotic evil cleric embedded in the Keep as a spy; will betray adventurers (B2)
 - [[Wiki/NPCs/Shrine-Evil-Cleric]] — C3, master of the Shrine of Evil Chaos in the Caves (B2)

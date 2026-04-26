@@ -81,8 +81,17 @@ These parallels are structural, not documentary. No physical letter, sigil, or N
 
 Unconfirmed. No in-game evidence has surfaced. Campaign has not begun.
 
+## Larger Context
+
+*gm_only*
+
+The Dual Temple Connection is itself a component of a deeper structure. See [[Wiki/Conspiracy/Lolth-Overarching-Conspiracy]] — both the Temple of Evil Chaos (B2) and the Temple of Elemental Evil (T1) are ultimately layers of Lolth's multi-front campaign. The structural parallels identified in this page (identical infiltration doctrine, cursed conversion relics, compartmentalized hierarchy) reflect shared training and direction from the same ultimate authority.
+
+The Dual Temple hypothesis argues these temples coordinate with each other. The overarching conspiracy explains why: they were both built from the same blueprint, by the same ultimate power.
+
 ## Cross-References
 
+- [[Wiki/Conspiracy/Lolth-Overarching-Conspiracy]] — the deeper layer this hypothesis is a component of
 - [[Wiki/Conspiracy/Lareth-Shrine-Command-Chain]] — specific implication: Lareth is the Shrine Cleric's ToEE regional superior
 - [[Wiki/Factions/Temple-of-Evil-Chaos]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]

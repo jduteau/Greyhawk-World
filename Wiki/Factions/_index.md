@@ -16,3 +16,4 @@ updated: "2026-04-21"
 - [[Wiki/Factions/Bugbear-Clan-H]] — Slave-keepers; rebel bugbear + evil hero in pens; chief flees to Minotaur when pressed (B2)
 - [[Wiki/Factions/Gnoll-Warband-J]] — Loose orc alliance; chieftain's room has secret back-door to Shrine storage (B2)
 - [[Wiki/Factions/Temple-of-Elemental-Evil]] — CE regional faction; defeated but active; spies in Hommlet (T1)
+- [[Wiki/Factions/Brotherhood-of-Slave-Lords]] — CE criminal slaver organization; directed by drow intermediary Edralve; unwitting Lolth tool (A1-4)

@@ -88,6 +88,14 @@ Nothing. He is not known to exist until the party reaches the dungeon level.
 
 **Trader connection:** Lareth's raiding parties travel in the traders' wagons. This is the operational link between area 13 (traders) and the Moat House dungeon. If the party discovers this, it implicates [[Wiki/NPCs/Rannos-Davi]] and [[Wiki/NPCs/Gremag]] directly.
 
+## Lolth Conspiracy Context
+
+*gm_only*
+
+Lareth is Layer 1 of [[Wiki/Conspiracy/Lolth-Overarching-Conspiracy]] — the party's first direct encounter with Lolth's infrastructure. He is capable and dangerous, but he reports upward through channels he himself doesn't fully understand. He knows the immediate hierarchy (Hommlet agents, Shrine priest below), but not what lies above.
+
+**Drow coin breadcrumb (T1 phase):** Lareth's locked strongbox contains a single piece of drow currency — a flat black disc stamped with a spider. The markings are in an unknown angular script. This is the first physical trace of something larger. A character with Read Magic can decipher the markings as a maker's mark — elegant and alien. A sage in Hommlet can identify it as coming from "deep below" but knows nothing more.
+
 ## History
 
 No session history yet.
@@ -107,4 +115,5 @@ No session history yet.
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]
 - [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]]
 - [[Wiki/Conspiracy/Lareth-Shrine-Command-Chain]]
+- [[Wiki/Conspiracy/Lolth-Overarching-Conspiracy]]
 - [[Wiki/Modules/T1-Village-of-Hommlet]]

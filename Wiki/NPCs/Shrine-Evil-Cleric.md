@@ -60,6 +60,16 @@ Nothing yet.
 
 **Coordination with spy:** [[Wiki/NPCs/Evil-Priest-Spy]] in the Keep (area 7b) serves as the cleric's field agent, feeding intelligence on adventuring parties.
 
+## Lolth Conspiracy Context
+
+*gm_only*
+
+The Shrine is Layer 2 of [[Wiki/Conspiracy/Lolth-Overarching-Conspiracy]]. Cultists know only their immediate handlers. The Shrine Evil Cleric himself does not know the full chain above him.
+
+**Spider amulet breadcrumb (B2 phase):** The Shrine Evil Cleric wears a silver amulet of unusual workmanship — a spider worked in dark metal, with tiny inscriptions around the rim. The amulet is cold to the touch regardless of ambient temperature, slightly heavier than it should be. It was a gift; he doesn't know from whom. He received it through a coastal merchant contact.
+
+A character with Read Magic can decipher the inscription — a name or title in the same angular script as the drow coin in Lareth's strongbox. These two clues, found in different locations, share a script. That recognition is the first thread.
+
 ## History
 
 No session events yet.
@@ -72,4 +82,5 @@ No session events yet.
 - [[Wiki/NPCs/Lareth-the-Beautiful]]
 - [[Wiki/Conspiracy/Lareth-Shrine-Command-Chain]]
 - [[Wiki/Conspiracy/Dual-Temple-Connection]]
+- [[Wiki/Conspiracy/Lolth-Overarching-Conspiracy]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]
