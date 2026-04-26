@@ -42,7 +42,7 @@ B2 serves as an introductory sandbox. The Keep provides a safe hub with merchant
 - [[Wiki/Locations/Caves-of-Chaos]]
 
 ### NPCs
-- [[Wiki/NPCs/The-Castellan]]
+- [[Wiki/NPCs/Sherlane]]
 - [[Wiki/NPCs/The-Curate]]
 - [[Wiki/NPCs/Evil-Priest-Spy]]
 - [[Wiki/NPCs/Shrine-Evil-Cleric]]

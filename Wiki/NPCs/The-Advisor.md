@@ -18,7 +18,7 @@ updated: 2026-04-21
 
 # The Advisor
 
-A 3rd-level elf serving as senior counselor to [[Wiki/NPCs/The-Castellan]] at [[Wiki/Locations/Keep-on-the-Borderlands]]. Quartered in the Central Towers (area 26). His high Dexterity and magic-enhanced armor make him the second most defensively capable person in the Keep after the Castellan.
+A 3rd-level elf serving as senior counselor to [[Wiki/NPCs/Sherlane]] at [[Wiki/Locations/Keep-on-the-Borderlands]]. Quartered in the Central Towers (area 26). His high Dexterity and magic-enhanced armor make him the second most defensively capable person in the Keep after the Castellan.
 
 ## Description
 
@@ -58,5 +58,5 @@ No session events yet.
 
 - [[Wiki/Locations/Keep-on-the-Borderlands]]
 - [[Wiki/Factions/Keep-Garrison]]
-- [[Wiki/NPCs/The-Castellan]]
+- [[Wiki/NPCs/Sherlane]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]

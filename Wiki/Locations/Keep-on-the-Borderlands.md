@@ -56,7 +56,7 @@ The Keep consists of an Outer Bailey and an Inner Bailey.
 - **24. Keep Fortress** — great hall, cavalry armory, meeting chambers; cellars with vast stores, cistern, dungeon (4 cells); Castellan holds audience here daily; 8 plate-armored crossbowmen on wall at all times + 8 inside
 - **25. Corner Towers (40')** — men-at-arms quarters
 - **26. Central Towers** — Castellan's assistants: Scribe (C2, plate+shield, hold person scroll, light spell, gold holy symbol 150 gp); Advisor (E3, Dex 16, plate+1, ring of fire resistance, short bow at +2, arrows+1, spells charm/read magic/web, jeweled pendant 1,000 gp)
-- **27. Castellan's Chamber** — private room of [[Wiki/NPCs/The-Castellan]]; silver mirror (300 gp), malachite bowl (750 gp), fox robe (1,200 gp), silver case (450 gp) with 40 pp + 12 gems (100 gp each); spear +1 by door
+- **27. Castellan's Chamber** — private room of [[Wiki/NPCs/Sherlane]]; silver mirror (300 gp), malachite bowl (750 gp), fox robe (1,200 gp), silver case (450 gp) with 40 pp + 12 gems (100 gp each); spear +1 by door
 
 ## Current Status
 
@@ -64,7 +64,7 @@ Not yet visited by the party. All areas pristine.
 
 ## Known Inhabitants
 
-- [[Wiki/NPCs/The-Castellan]] — Commander, area 27
+- [[Wiki/NPCs/Sherlane]] — Commander, area 27
 - [[Wiki/NPCs/Captain-of-the-Guard]] — Inner gatehouse commander, area 18
 - [[Wiki/NPCs/The-Advisor]] — Senior elf counselor, area 26
 - [[Wiki/NPCs/The-Curate]] — Spiritual leader, area 17
@@ -90,7 +90,7 @@ No visits recorded.
 
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]
 - [[Wiki/Locations/Caves-of-Chaos]]
-- [[Wiki/NPCs/The-Castellan]]
+- [[Wiki/NPCs/Sherlane]]
 - [[Wiki/NPCs/Captain-of-the-Guard]]
 - [[Wiki/NPCs/The-Advisor]]
 - [[Wiki/NPCs/The-Curate]]

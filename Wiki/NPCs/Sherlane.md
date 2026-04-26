@@ -1,7 +1,7 @@
 ---
 type: entity
 entity-type: npc
-name: "The Castellan"
+name: "Sherlane"
 status: active
 source: B2
 confidence: canon
@@ -14,10 +14,10 @@ faction: "[[Wiki/Factions/Keep-Garrison]]"
 first_session: 0
 gm_only: true
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-25
 ---
 
-# The Castellan
+# Sherlane
 
 Commander of [[Wiki/Locations/Keep-on-the-Borderlands]]. A 6th-level fighter of absolute bravery and honesty, though sometimes too hasty in his decisions.
 

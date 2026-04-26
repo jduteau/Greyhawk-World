@@ -55,5 +55,5 @@ No session events yet.
 
 - [[Wiki/Locations/Keep-on-the-Borderlands]]
 - [[Wiki/Factions/Keep-Garrison]]
-- [[Wiki/NPCs/The-Castellan]]
+- [[Wiki/NPCs/Sherlane]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]

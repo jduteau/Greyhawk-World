@@ -15,7 +15,7 @@ updated: 2026-04-21
 
 # Keep Garrison
 
-The military and administrative force that maintains and defends [[Wiki/Locations/Keep-on-the-Borderlands]]. A lawful-aligned frontier garrison under the command of [[Wiki/NPCs/The-Castellan]].
+The military and administrative force that maintains and defends [[Wiki/Locations/Keep-on-the-Borderlands]]. A lawful-aligned frontier garrison under the command of [[Wiki/NPCs/Sherlane]].
 
 ## Overview
 
@@ -28,7 +28,7 @@ A well-organized frontier garrison operating in layered defense: outer bailey wa
 
 ## Leadership
 
-- [[Wiki/NPCs/The-Castellan]] — Supreme commander, area 27; absolutely brave and honest
+- [[Wiki/NPCs/Sherlane]] — Supreme commander, area 27; absolutely brave and honest
 - [[Wiki/NPCs/Captain-of-the-Guard]] — Inner gatehouse (F3, AC 0, sword+2, spear+1, hp 24); kind, friendly, excellent leader; sometimes disguises as a mercenary in the Outer Bailey
 - **Bailiff** — Outer bailey superintendent (F3, magic plate+1 or sword+1, hp 22)
 - **Captain of the Watch** — Watch tower commander (F3, sword+2, dagger+1, hp 20)
@@ -64,7 +64,7 @@ The garrison is a resource, not an obstacle — assuming the party behaves lawfu
 ## Cross-References
 
 - [[Wiki/Locations/Keep-on-the-Borderlands]]
-- [[Wiki/NPCs/The-Castellan]]
+- [[Wiki/NPCs/Sherlane]]
 - [[Wiki/NPCs/Captain-of-the-Guard]]
 - [[Wiki/NPCs/The-Advisor]]
 - [[Wiki/NPCs/The-Curate]]

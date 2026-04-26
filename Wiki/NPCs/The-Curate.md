@@ -19,7 +19,7 @@ updated: 2026-04-21
 
 # The Curate
 
-5th-level cleric and spiritual center of [[Wiki/Locations/Keep-on-the-Borderlands]]. The most influential person in the Keep aside from [[Wiki/NPCs/The-Castellan]].
+5th-level cleric and spiritual center of [[Wiki/Locations/Keep-on-the-Borderlands]]. The most influential person in the Keep aside from [[Wiki/NPCs/Sherlane]].
 
 ## Description
 
@@ -27,7 +27,7 @@ Rarely wears armor unless the Keep is threatened. Always carries his ring of pro
 
 ## Role
 
-Leads the Chapel (area 17) with three acolytes. Empties the offering box each evening and deposits coins with the Banker. Holds the keys to the Chapel's secret compartment jointly with [[Wiki/NPCs/The-Castellan]]. Will only use cure spells on members of his congregation (officers, shopkeepers — not random adventurers).
+Leads the Chapel (area 17) with three acolytes. Empties the offering box each evening and deposits coins with the Banker. Holds the keys to the Chapel's secret compartment jointly with [[Wiki/NPCs/Sherlane]]. Will only use cure spells on members of his congregation (officers, shopkeepers — not random adventurers).
 
 ## Party Relationship
 
@@ -61,6 +61,6 @@ No session events yet.
 
 - [[Wiki/Locations/Keep-on-the-Borderlands]]
 - [[Wiki/NPCs/Evil-Priest-Spy]]
-- [[Wiki/NPCs/The-Castellan]]
+- [[Wiki/NPCs/Sherlane]]
 - [[Wiki/Factions/Keep-Garrison]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]
