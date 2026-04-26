@@ -6,33 +6,52 @@ updated: "2026-04-25"
 # Wiki Dashboard
 
 Overview and health status of your LLM Wiki.
-Last lint: 2026-04-25 (`/wiki lint --fix` ×1) | Last ingest: 2026-04-25 (Lolth overarching conspiracy — 10 pages created, 6 updated) | Last query: 2026-04-25 (castellan rename → Sherlane)
+Last lint: 2026-04-25 (`/wiki lint`) | Last status: 2026-04-25 | Last ingest: 2026-04-25 (Lolth overarching conspiracy + NPC section expansion)
 
 ## Page Counts
 
 | Namespace | Content Pages | Hub |
 |-----------|--------------|-----|
-| Modules | 10 | ✓ |
+| Modules | 8 | ✓ |
 | Locations | 7 | ✓ |
-| NPCs | 31 | ✓ |
+| NPCs | 30 | ✓ |
 | Factions | 11 | ✓ |
 | Sessions | 0 | ✓ |
 | Conspiracy | 6 | ✓ |
 | World | 0 | ✓ |
 | Lore | 0 | ✓ |
 | State | 0 | ✓ |
-| **Total** | **61** (+ 10 hub/meta = **71**) | |
+| **Total** | **62** (+ 11 hub/meta = **73**) | |
+
+By type: entity 48 · knowledge 14 · hub 10 · schema 1
 
 ## Health
 
-- Critical: 0
-- Warnings: 0
-- Info: 1
+- Critical: 4 (false positives) + 0 real
+- Warnings: 10 NPCs missing standard sections (Party Relationship, What The Party Knows, GM Truth, Description)
+- Info: 4 (empty namespace hubs — expected)
 
 ## Open Issues
 
+**Critical (false positives — no action needed)**
+- Keep-on-the-Borderlands, Gnoll-Warband-J: "secret" keyword triggered cred-leak rule — game text, not credentials
+- Sessions, World, Lore, State _index: flagged as empty — expected for pre-campaign namespaces
+
+**Warnings — NPCs with missing standard sections**
+- `Lubash` — missing: Party Relationship, What The Party Knows, GM Truth
+- `Nira-Melubb` — missing: Party Relationship, GM Truth
+- `Calmert` — missing: Party Relationship, What The Party Knows
+- `Spugnoir` — missing: GM Truth
+- `Terjon` — missing: GM Truth
+- `Edric` — missing: Party Relationship, What The Party Knows
+- `Marta` — missing: GM Truth
+- `Furnok-of-Ferd` — missing: GM Truth
+- `Brother-Smyth` — missing: Party Relationship, What The Party Knows, GM Truth
+- `Y-dey` — missing: Description, Party Relationship, What The Party Knows, GM Truth
+- `Kobort-and-Turuko` — missing: Description, What The Party Knows, GM Truth
+
 **Info**
-- Sessions, World, Lore, State namespaces are empty — expected for campaign not yet in play
+- Schema.md has placeholder link `[[Wiki/Entity/Name]]` — expected (template example)
 
 ## Namespaces
 
