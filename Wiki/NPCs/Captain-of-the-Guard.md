@@ -14,7 +14,7 @@ faction: "[[Wiki/Factions/Keep-Garrison]]"
 first_session: 0
 gm_only: true
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-25
 ---
 
 # Captain of the Guard
@@ -28,6 +28,35 @@ No physical description given in the text. Equipped with plate mail +1, shield +
 ## Role
 
 Commands all guards stationed in the Inner Gatehouse (area 18) and is responsible for security of the Inner Bailey. Sometimes moves through the Outer Bailey in disguise as a mercenary fighter — an unofficial intelligence habit.
+
+## Personality & Voice
+
+- Genuinely kind and friendly — not just professionally courteous; speaks to soldiers and travelers the same way, with direct eye contact and a slightly warmer tone than rank requires
+- Informal when off-duty (undercover patrols as a mercenary fighter); knows how to blend into the Outer Bailey tavern without revealing authority
+- Practical and action-oriented in speech — asks specific questions ("How many? Which approach? How were they armed?") rather than making speeches
+- Comfortable with silence; he listens more than he talks and remembers what he hears
+
+## Goals
+
+- Maintain security and discipline in the Inner Gatehouse and Inner Bailey
+- Gather informal intelligence on Outer Bailey visitors through his undercover patrols; develop a picture of who is trustworthy
+- Protect the Castellan (Sherlane) and the Keep from internal and external threats
+- Identify promising mercenaries and adventurers who might serve as useful assets in the Caves campaign
+
+## Knowledge
+
+- Knows the Inner Bailey and Gatehouse thoroughly; can advise on Keep security and protocol
+- Aware of the Caves of Chaos as the primary threat; knows the humanoid raid patterns that have been observed
+- Can confirm the Evil Priest Spy is a guest in area 7b if pressed (he has noticed the silent acolytes as unusual but has not yet flagged them to Sherlane)
+- Will share tactical assessments of the Caves approach if the party has demonstrated competence and lawful intent
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
 
 ## Party Relationship
 

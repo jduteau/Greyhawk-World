@@ -14,7 +14,7 @@ faction: "[[Wiki/Factions/Keep-Garrison]]"
 first_session: 0
 gm_only: true
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-25
 ---
 
 # The Curate
@@ -28,6 +28,35 @@ Rarely wears armor unless the Keep is threatened. Always carries his ring of pro
 ## Role
 
 Leads the Chapel (area 17) with three acolytes. Empties the offering box each evening and deposits coins with the Banker. Holds the keys to the Chapel's secret compartment jointly with [[Wiki/NPCs/Sherlane]]. Will only use cure spells on members of his congregation (officers, shopkeepers — not random adventurers).
+
+## Personality & Voice
+
+- Devout and measured in speech; conducts conversations in the Chapel with the same gravity he brings to services; no humor, but not unkind
+- Careful and principled — he will not cure random adventurers, only congregation members; he explains this without apology as a matter of duty allocation
+- Privately uneasy about the spy priest in area 7b — something about the silent acolytes bothers him; will share this if the party earns his trust and asks the right question
+- His snake staff is always at hand, even in pastoral conversation; he is a capable fighter who does not look like one at first glance
+
+## Goals
+
+- Serve the Keep's garrison congregation faithfully; spiritual care for the officers and shopkeepers under his pastoral charge
+- Maintain the Chapel's offering collection and the Chapel's resources securely
+- Resolve his unease about the spy priest — he has not yet acted on his suspicion but it is growing
+- Protect the Keep from internal spiritual corruption; this is the threat he is most alert to, even if he cannot name it yet
+
+## Knowledge
+
+- Knows the Chapel's layout, the secret compartment under the offering pedestal, and that the Castellan holds the other key
+- Has a private suspicion about the Evil Priest Spy in area 7b — 50% chance to share this if asked by someone he trusts; will note that his own acolytes contradict him on this, which he finds troubling
+- Knows the Keep's congregation well — can provide character assessments of officers and shopkeepers if the party earns his confidence
+- Will share the contents of the Chapel's secret store (potions, scroll) with a party facing a clear and present evil threat to the Keep
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
 
 ## Party Relationship
 

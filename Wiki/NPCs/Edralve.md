@@ -31,6 +31,35 @@ The drow insertion point into the slaver network. She launders drow direction as
 
 Her presence explains why the Brotherhood has access to drow-crafted items (manacles unlike anything surface smiths make) and why their operations route toward "the lower road" — a path into the Underdark.
 
+## Personality & Voice
+
+- Never speaks in company beyond the minimum — every slaver contact describes their interactions as brief, professional, and slightly unnerving; the hooded figure who smells of deep stone and pays in magic items
+- Communicates preference through delivery: a better magic item means more urgency; a lesser one means maintain current operations; silence means stop
+- No warmth whatsoever; nothing in her manner invites further inquiry; she leaves meetings feeling shorter than they were
+- Never eats in company, never removes the hood; the affectations are deliberate — she wants to be a mystery, not a person
+
+## Goals
+
+- Maintain the Brotherhood of Slave Lords as a functioning surface intelligence and supply network for drow purposes
+- Ensure the slavers' operations continue routing toward "the lower road" — the Underdark access corridor Lolth's network requires
+- Preserve her own anonymity — her value is as an invisible hand; direct discovery would end her effectiveness
+- Serve Eclavdra's (and ultimately Lolth's) broader conspiracy without understanding its full scope; she is a gear, not the clockmaker
+
+## Knowledge
+
+- Knows the Brotherhood's senior leadership, their operational routes, and their vulnerabilities — she has been their silent backer for years
+- Knows the Underdark access points she uses and can locate the "lower road" corridor
+- Knows that the manacles and equipment she supplies are drow-crafted; does not explain this to the slavers
+- Does not know Lareth or the Temple of Elemental Evil directly — she operates a parallel strand of Lolth's web, not the same thread
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## Party Relationship
 
 Not yet encountered. Unknown to exist.

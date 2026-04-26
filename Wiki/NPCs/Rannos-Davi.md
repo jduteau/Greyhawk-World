@@ -14,7 +14,7 @@ faction: "[[Wiki/Factions/Temple-of-Elemental-Evil]]"
 first_session: 0
 gm_only: true
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-25
 ---
 
 # Rannos Davi
@@ -32,6 +32,36 @@ Heavy, seemingly lethargic, placid demeanor. Charisma 7 — unimpressive appeara
 Runs the traders' establishment (area 13) — the only comprehensive equipment supplier in the village. Buys adventurers' finds at 40–70% of book value; sells at 110%+ minimum. Also has animals for sale in the rear barn.
 
 Secretly: reports all significant adventuring activity in Hommlet to a brigand courier. Aids all other evil creatures who come in Temple service. Monitors adventurers who find the Moat House; will follow them personally if they are particularly successful.
+
+## Personality & Voice
+
+- Slow, heavy, placid — moves as if conserving energy; speaks with careful pauses between thoughts; creates an impression of a man who is simply not very quick
+- Commercially minded in all conversations: everything is framed as a business proposition; he will buy your finds, sell you equipment, offer reasonable prices — the helpful merchant persona is practiced and complete
+- Charisma 7 means he doesn't charm anyone — he is simply inoffensive; the lack of presence is itself a camouflage
+- Alert eyes that don't match the slow body; if the party notices this, it's a tell — but you have to be watching
+
+## Goals
+
+- Maintain the Temple intelligence operation in Hommlet: monitor adventuring parties, report via dead drop, protect the trading post's cover
+- Protect his own skin; he is careful, calculating, and has an escape route literally built into the wall
+- Ensure Lareth receives timely warnings if the party is a genuine threat — he takes this seriously
+- Continue making money; the trading post is a real business; he does not want it disrupted
+
+## Knowledge
+
+- Knows Zert (Welcome Wench, upper room 1) is a Temple agent; Zert does not know about him — the asymmetry is exploitable
+- Knows "the Shepherd" (Lareth) by code name only; has never met him; all communication through dead drops on the Hommlet–Moat House road
+- Knows the raiding party routing (in traders' wagons) and the territory exclusion zone (no raids within 3-4 leagues of Hommlet)
+- Knows the TZGY scarab in the locked coffer is a Temple pass; knows what it represents; will not let it be found
+- Does not know anything about the Lolth conspiracy above Lareth's level
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
 
 ## Party Relationship
 

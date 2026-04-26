@@ -39,6 +39,36 @@ He is known throughout the village for his zeal in obtaining contributions.
 - Collects contributions and handles routine pastoral care
 - Quarters in area 13 of the church upper floor; one of his large black bell-rope beads is actually a 10 gp lump of platinum — his entire personal cache
 
+## Personality & Voice
+
+- Conspicuously pious in manner — lots of clasped hands, meaningful pauses, and references to St. Cuthbert's generosity; the performance is practiced but not insincere; he genuinely believes what he's doing is good
+- Asks visitors to sit on hard benches while he busies himself with small tasks that don't require him; steps out for a few minutes before returning; a slow, deliberate friction designed to sort serious petitioners from casual ones
+- Eager and optimistic in tone — he approaches contributions as a mutual opportunity rather than an extraction; "the poorbox is right there, friend, St. Cuthbert watches over those who give"
+- Will be warm and genuinely helpful once the formalities are satisfied; the stoniness is procedural, not personal
+
+## Goals
+
+- Serve as an effective gatekeeper so that Terjon's time is used for serious business only
+- Channel collected funds toward the castle construction (Burne and Rufus's project) — he considers this legitimate good works
+- Master the bell-ringing duty; the chimes are his technical pride and he practices the patterns
+- Earn eventual advancement in the church hierarchy, though he has no specific path planned
+
+## Knowledge
+
+- Knows all the basic St. Cuthbert pastoral services available and their contribution expectations
+- Can describe the schedule and process for seeing Terjon (no promises on availability)
+- Knows the church's public role in Hommlet history — the Temple war, St. Cuthbert's involvement — and will share it
+- If asked about Y'dey, confirms she is the canonical Canoness and is currently away; does not know where or why
+- Does not know that his collected funds go toward castle construction — he knows they go to "village fortification works" and believes this is fully appropriate
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## GM Truth
 
 *gm_only*

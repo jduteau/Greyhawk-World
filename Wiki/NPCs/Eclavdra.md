@@ -33,6 +33,35 @@ Her presence in G3 (Hall of the Fire Giant King) is the moment the conspiracy be
 - Physically present in G3; escapes when the party arrives, collapsing the entrance behind her
 - Represents House Eilservs — a minority faction within drow society; her operation was not sanctioned by all drow houses
 
+## Personality & Voice
+
+- Cold and aristocratic — speaks rarely in direct encounter, and when she does it is brief, precise, and contemptuous; she does not explain herself
+- Never appears rattled until the moment she decides the operation is lost — then she acts with sudden, efficient finality (escape) rather than defense
+- Projects absolute certainty of social superiority; adventurers are obstacles to be managed, not opponents worthy of her attention
+- Her silence is as deliberate as her speech — she withholds information as a matter of reflex, not strategy
+
+## Goals
+
+- Complete the giant destabilization campaign: Eclavdra's immediate goal is to destabilize the surface world by directing giant raids, forcing political realignment to benefit drow interests
+- Maintain House Eilservs's position within drow society; her surface operation is an unauthorized gamble for prestige
+- Escape the Hall of the Fire Giant King (G3) when the party arrives — the operation is expendable, she is not
+- Return to the Underdark and ensure the trail she leaves leads the party into D1-3 (this serves Lolth's deeper purposes, whether Eclavdra understands that or not)
+
+## Knowledge
+
+- Knows the full architecture of the giant campaign (G1-3): who was recruited, what was promised, what the enchanted weapons represent
+- Knows the Underdark routes from G3 downward; the hidden door she uses is the breadcrumb the party needs
+- Knows House Eilservs's standing within drow society and the factional risk she has taken — will not share this
+- Does not know whether Lolth has sanctioned her operation; she believes she acts independently; she does not
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## Party Relationship
 
 Not yet encountered. Unknown to exist.

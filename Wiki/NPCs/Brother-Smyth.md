@@ -41,6 +41,35 @@ He reports unusual events to Jaroo (as does the woodcutter at area 3 and others 
 
 In no event will he leave his forge to go adventuring.
 
+## Personality & Voice
+
+- Straightforward and unpretentious — speaks plainly, in short declarative sentences; no mystical affect or druidical ceremony when at the forge
+- Openly discusses both his smith's trade and his druidical faith without treating either as remarkable; he has made his peace with the contradiction
+- Cheerful and hardworking in manner; tends to continue working while talking, wiping hands on a leather apron, eyes flicking between visitor and workpiece
+- Warm but honest — will cheerfully admit when he can't do something (fine armoring), and applies the same candor to everything else; not a man who flatters
+
+## Goals
+
+- Keep the druidical community of Hommlet quietly informed; pass unusual events up to Jaroo promptly
+- Serve the village as smith — his forge is his vocation and he takes pride in it
+- Protect the village from the Temple's resurgence; he remembers the last war and wants no repeat of it
+- Accept his rank ceiling in the druidical hierarchy and find meaning in the community he can build here
+
+## Knowledge
+
+- Knows the druidical network in Hommlet: woodcutter (area 3) and others report to Jaroo, with Smyth as backup node when Jaroo is away
+- Can confirm Jaroo Ashstaff's role and how to approach the Grove (offerings expected)
+- Knows the general location and reputation of the Moat House; shares what the village knows about its past association with the Temple
+- If the party has made offerings at the Grove and treated the druidical community respectfully, he may mention that "the forest notices things" — a hint at the informal intelligence network without naming specific members
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## GM Notes
 
 *gm_only*

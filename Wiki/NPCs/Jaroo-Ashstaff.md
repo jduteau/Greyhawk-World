@@ -31,6 +31,36 @@ Spiritual leader of Hommlet's druidical community. Accepts offerings from all vi
 
 Will follow a suspicious group at a distance to observe what they're doing. Has assistant "Brother Smyth" at the smithy (area 8, 3rd level druid) who acts as religious advisor in Jaroo's absence.
 
+## Personality & Voice
+
+- Grizzled and economical — speaks in short, confident sentences; rarely wastes words; lets silences do work
+- Druidical gravity without mystical affectation; he treats the Grove and its offerings as serious business, not theater; expects the same seriousness from visitors
+- Watchful and assessing; he makes a judgment about strangers quickly and doesn't revise it without evidence; first impressions matter with Jaroo
+- Will follow a suspicious group at a distance without announcing himself; his surveillance is patient and unhurried
+
+## Goals
+
+- Confirm whether the Temple of Elemental Evil has been truly destroyed or is being rebuilt — this is his direct mandate from the Druids of Gnarley Wood
+- Protect Hommlet's druidical community and maintain the Grove as a functioning spiritual center
+- Identify and support adventuring parties who are genuinely working against Temple resurgence
+- Keep his intelligence network (woodcutter, potboy, herdsman) operational and discrete; escalate to the Gnarley Wood druids when evidence warrants
+
+## Knowledge
+
+- Knows something is wrong in the direction of the Moat House — a druidic sense of disturbance; no specifics
+- Knows the Temple of Elemental Evil's history, its multi-demon faction structure, and what Lolth iconography looks like; will recognize it if described
+- Knows the druidical community in Hommlet (woodcutter area 3, potboy at the inn, herdsman area 25) and can activate them as an intelligence network for a trusted party
+- Recommends the Keep and Sherlane as the right starting point — the humanoid problem needs addressing before the Moat House
+- Will recognize Lareth's Lolth symbols or incense-burning as confirmation of active Temple rebuilding; this triggers Gnarley Wood escalation
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## Party Relationship
 
 Not yet met.

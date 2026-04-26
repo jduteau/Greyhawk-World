@@ -23,6 +23,41 @@ updated: 2026-04-25
 
 Canoness of the Church of St. Cuthbert in [[Wiki/Locations/Village-of-Hommlet]]. 6th level cleric. Currently away on a quest; [[Wiki/NPCs/Terjon]] is her temporary replacement and is not pleased about it.
 
+## Role
+
+Canoness of the Church of St. Cuthbert in Hommlet — the highest-ranking St. Cuthbert cleric in the village. Currently absent: departed to investigate whether the Temple of Elemental Evil has survived or is being rebuilt. Terjon is her temporary replacement and is not pleased about it. Her personal cache is hidden in the church; only she knows it is there.
+
+Her return (detailed in T2) may be triggered by the party's actions raising the Temple threat level. When she returns, she outranks Terjon and resumes command of the church.
+
+## Personality & Voice
+
+- Not yet established through play — she is absent; Terjon and Jaroo describe her as someone with a real calling for action, which is why she left
+- Terjon's unhappiness implies she is decisive and self-directed: she made the call to go without waiting for permission
+- When she returns: expect someone comfortable with authority, used to making hard choices, and deeply committed to St. Cuthbert's active fight against evil — not its pastoral maintenance
+- Leaves caches rather than traveling light; practical and prepared
+
+## Goals
+
+- Investigate the Temple of Elemental Evil: determine whether it has survived or is being rebuilt; this is her active quest
+- Return to Hommlet when the intelligence warrants it or when the party's actions create a need for her presence
+- Recover or protect her hidden cache in the church fireplace mantle — this will matter if the party finds it before she returns
+- Support the anti-Temple effort at the highest available level; she is a 6th-level cleric with a Canoness's authority and she intends to use both
+
+## Knowledge
+
+- Knows the Temple of Elemental Evil's architecture, history, and the key personnel involved in the original campaign against it
+- Knows where her cache is hidden and what it contains (bronze chain with rubies, +1 mace, scroll of protection from demons)
+- Knows Otis (Elmo's brother) and Murfles as trusted allies who travel with her; knows Elmo's cover identity in Hommlet
+- Her T2 knowledge will be the authoritative source on the Temple's current state — she will arrive with confirmed intelligence the party has been working toward
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## Current Status
 
 Absent from Hommlet. Traveling with:

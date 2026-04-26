@@ -29,6 +29,32 @@ No physical description established yet.
 
 A live stake in the [[Wiki/Locations/Caves-of-Chaos]]. His capture was deliberate — part of the coordinated pattern of abductions the humanoid tribes have been conducting along the road. Drag marks on the road near the site of his disappearance confirm he was taken alive.
 
+## Personality & Voice
+
+- No established personality yet — his wife describes him as reliable, the kind of man who left when he said he would and should have arrived when he said he would
+- If encountered alive in the Caves: exhausted, frightened, but coherent; does not waste words; his first question will be about Marta
+- If the party finds him: gratitude that does not performatively overcorrect; he is a farmer, not a hero; he is simply very glad to see them
+
+## Goals
+
+- Survive captivity in the Caves of Chaos
+- Return to Marta — this is the only goal that matters to him
+- (Secondary) Understand why the road is no longer safe so it doesn't happen to others
+
+## Knowledge
+
+- Knows the market he was traveling to and the route taken — can confirm the ambush location if asked
+- If rescued, can describe what he observed in captivity: how many guards he saw, what the routine was, what he heard in adjacent cells (limited intelligence, but potentially useful for mapping humanoid activity)
+- Knows Marta is waiting at the Keep; confirms she reached safety if the party mentions it
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## GM Truth
 
 *gm_only*

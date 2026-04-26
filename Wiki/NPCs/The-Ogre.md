@@ -14,7 +14,7 @@ faction: ""
 first_session: 0
 gm_only: true
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-25
 ---
 
 # The Ogre
@@ -28,6 +28,35 @@ Enormous. Wears a thick bearskin as additional protection on top of his naturall
 ## Role
 
 Freelance muscle. The goblins keep a sack of 250 gp in a water barrel in Room 18 specifically to pay him in an emergency — tossed through a secret door to his lair with a request for help. He responds immediately for that fee. Has also been hired by the orcs and gnolls.
+
+## Personality & Voice
+
+- Responds to gold, not words; the mercenary relationship is the only form of social transaction available; a party that leads with coin speaks his language
+- Physically imposing but not immediately aggressive — he waits to see what the offer is; the pause before violence is an economic evaluation
+- No loyalty to anyone beyond the current payment; his cheerful lack of ideology is both his most useful and most dangerous quality — he can be hired against anyone, including the party
+- The stench and the bear-hide decor are not affectations; this is simply how he lives; he finds the cave comfortable
+
+## Goals
+
+- Accumulate wealth; his seven sacks represent years of mercenary work and he wants more
+- Maintain his profitable arrangement with the goblin tribe without exclusive commitment; multiple clients means more income
+- Eat well and stay comfortable in his lair; he is not ambitious beyond this
+- Avoid dying; he is fearless in the moment but not suicidal; he will take the gold and disappear if an encounter goes wrong
+
+## Knowledge
+
+- Knows the goblin tribe keeps 250 gp in the water barrel in Room 18 specifically to hire him; this is his standing rate for emergency service
+- Knows the Caves' general faction geography — which lairs are which, roughly — from years of mercenary service for multiple tribes
+- Has no knowledge of or interest in the Temple hierarchy, the Shrine, or the broader conspiracy
+- Will tell the party anything about the Caves' layout he knows in exchange for more gold than his current employers are paying — his loyalty is entirely price-dependent
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
 
 ## Party Relationship
 

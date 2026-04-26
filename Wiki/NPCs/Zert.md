@@ -31,6 +31,35 @@ Average-looking, unremarkable. Sociable at the bar, drinks heavily — or appear
 
 Temple of Elemental Evil field agent. His cover assignment is watching for "a caravan from the south" — a plausible reason to linger indefinitely. His real work is intelligence: observing who enters the village, noting anyone heading for the Moat House, and reporting back through Temple channels.
 
+## Personality & Voice
+
+- Sociable and approachable at the bar — buys rounds, listens well, asks interested questions about where people have been and what they've seen; good drinking company
+- Deliberately unremarkable; average height, average build, average dress; the cover is designed to leave no impression
+- Never appears drunk despite heavy drinking; 200% normal capacity makes him a useful intelligence tool — people talk to their drinking companion; he remembers everything
+- The "waiting for a caravan" story is smooth from practice; he does not elaborate unless pushed, and when pushed, has consistent detail ready
+
+## Goals
+
+- Monitor Hommlet for Temple-relevant activity: who arrives, who asks about the Moat House, who heads out with dungeon gear
+- Report intelligence through Temple channels; his position at the Welcome Wench is a listening post for the entire village's visitor traffic
+- Identify promising (dangerous) adventuring parties and join them for an "equal share" — with betrayal as the exit plan once they're weakened
+- Stay undetected; he is comfortable staying as long as needed; the cover holds well
+
+## Knowledge
+
+- Knows Lareth's operation exists and that the Moat House is reoccupied; does not know Lareth's name or identity
+- Does NOT know that Rannos Davi and Gremag at the traders are also Temple agents — the traders know about him but he does not know about them
+- Knows Temple channels and communication methods; can describe the reporting structure he uses if captured and broken
+- Has observed other long-term guests at the Welcome Wench; has noted Spugnoir's interest in the Moat House and Furnok's gambling operation
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## Party Relationship
 
 Not yet met.

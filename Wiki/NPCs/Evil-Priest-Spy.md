@@ -14,7 +14,7 @@ faction: "[[Wiki/Factions/Temple-of-Evil-Chaos]]"
 first_session: 0
 gm_only: true
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-25
 ---
 
 # Evil Priest (Spy)
@@ -28,6 +28,35 @@ Robust appearance (18 hp). Always wears his ring and carries his mace +1. When a
 ## Role
 
 Ostensibly: a visiting cleric discussing theology and converting travelers, stopping over between caravan routes. Actually: monitoring expeditions to the Caves of Chaos and sabotaging successful adventuring parties before they threaten the Shrine.
+
+## Personality & Voice
+
+- Professionally warm and hospitable — visitors are greeted with a cozy fire, ale, and wine; he makes everyone feel welcome immediately
+- Theologically curious in manner — asks leading questions about the party's faith, praises their victories, expresses sorrow over evil in the world with practiced sincerity
+- Never pushes too hard; his genius is patience; he volunteers information freely to build reciprocal disclosure
+- His two acolytes' silence is covered with a story about vows; he presents this with slight paternal pride, like a teacher whose students honor the tradition
+
+## Goals
+
+- Monitor all adventuring parties entering and exiting the Keep; feed intelligence on promising (i.e., dangerous) parties to the Shrine
+- Infiltrate a capable party headed to the Caves and betray them at the worst possible moment
+- Maintain his cover indefinitely — his value is in staying undetected; he prefers not to act unless a party is genuinely threatening the Shrine
+- Pass Lareth's monthly courier messages and respond in kind; keep the Hommlet-to-Shrine intelligence channel functioning
+
+## Knowledge
+
+- Knows the entry scribe's records (area 3) and reviews them regularly — he knows who has come and gone
+- Knows the general location of the Shrine in the Caves and its defensive structure; will not reveal this
+- Has a coded note from Lareth referencing supply routes and "the shepherd to the south" — physical evidence on his person or in the Shrine
+- Knows nothing about the full depth of the Lolth conspiracy; he receives instructions through the Shrine Cleric and believes this is a local Temple operation
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
 
 ## Party Relationship
 

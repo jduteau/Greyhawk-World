@@ -14,7 +14,7 @@ faction: "[[Wiki/Factions/Temple-of-Evil-Chaos]]"
 first_session: 0
 gm_only: true
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-25
 ---
 
 # Shrine Evil Cleric
@@ -28,6 +28,36 @@ Wears black cape and cowl with red robes beneath. Plate mail +1 and shield +1 be
 ## Role
 
 Absolute master of the Shrine. Commands zombie guards, acolytes, adepts, and the hall of undead warriors. Conducts evil rites at the three-altar temple (room K-58). Has captured a medusa (room K-64) and plans to sacrifice her at a special rite after removing her snakes and blinding her.
+
+## Personality & Voice
+
+- Ceremonial and authoritative in the Shrine — he speaks in the register of someone conducting rites, not having conversations; commands rather than requests
+- Calm under most threats because he has the undead forces to back it up; his confidence is not bluster — his defenses are real
+- Will not negotiate; will not parley; if the party enters the Shrine, they are enemies to be destroyed or driven out
+- The black cape and cowl are deliberate theater — he understands the effect of presentation on morale; both his own congregation and his enemies
+
+## Goals
+
+- Maintain the Shrine as a functioning Temple of Evil Chaos outpost; conduct rites, direct the undead forces, preserve the captured medusa for the planned sacrifice
+- Keep the intelligence pipeline to the Evil Priest Spy in the Keep operational; monthly reports on adventuring party activity are his early warning system
+- Receive and relay Lareth's coordination communications; he sits at Layer 2 of the Lolth conspiracy and serves that chain without knowing its full depth
+- Escape alive if the Shrine is truly threatened; the potion of gaseous form is his last resort
+
+## Knowledge
+
+- Knows the Shrine's full defensive layout: zombies, skeletons, acolytes, adepts, undead hall; can deploy them in response to the great bell
+- Knows the Evil Priest Spy in the Keep by function; knows his role is to monitor and betray adventuring parties
+- Knows Lareth by code name or through communication channels; knows the Shrine is part of a larger operation but not the full scope
+- Does not know the Lolth connection above his level; the spider amulet he wears was a gift from "a coastal merchant contact" and he does not know its full meaning
+- The inscription on his amulet matches the script on the drow coin in Lareth's strongbox — this is a breadcrumb the party can follow
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
 
 ## Party Relationship
 

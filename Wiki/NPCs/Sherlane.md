@@ -29,6 +29,36 @@ No physical description given in the text. Wears plate mail +1, shield +1, and e
 
 Absolute commander of the Keep and all its garrison. Holds audience daily in the Keep Fortress (area 24). Lives in his private chamber (area 27). If a guest asks him anything that does not compromise Keep security, he will answer honestly.
 
+## Personality & Voice
+
+- Absolutely honest — will answer any question that doesn't compromise Keep security, directly and without hedging; this is not chattiness, it's principle
+- Formal but not cold; he holds audience daily and treats every petitioner with respect; rank and class matter less to him than purpose
+- Occasionally too hasty — when presented with an urgent, convincing appeal, his decision-making can outpace his judgment; he acts, then reflects
+- Military bearing: posture, economy of movement, direct eye contact; he is exactly what he appears to be and comfortable with that
+
+## Goals
+
+- Keep the Keep and its surrounding region safe; the Caves of Chaos are the immediate priority
+- Gather actionable intelligence on the humanoid raids — the coordination across species is the detail that concerns him most
+- Support adventuring parties who work against the Caves; he pays for intelligence and provides the Keep as a base between expeditions
+- Maintain the Castellan's role as the region's lawful authority; the Keep is not just a fortress, it's the face of civilization on the frontier
+
+## Knowledge
+
+- Knows the Caves of Chaos are four miles east and are the known concentration point for humanoid activity
+- Has tracked humanoid movements for months; knows the pattern shows unusual coordination across species; suspects a command structure without confirmation
+- Knows several travelers have gone missing on the Hommlet-Keep road — taken, not killed — which is a different pattern than simple banditry
+- Knows the Moat House exists and has a dark history; suspects possible reoccupation but has no confirmed intelligence; will say so plainly if asked
+- Has been recommended by both Terjon and Jaroo Ashstaff to incoming adventuring parties
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## Party Relationship
 
 Not yet met.

@@ -40,6 +40,36 @@ His room (area 18) is lavishly furnished: thick rugs, wall hangings, soft chairs
 - Coordinates with the Hommlet traders ([[Wiki/NPCs/Rannos-Davi]] and [[Wiki/NPCs/Gremag]]) — raiding parties travel in traders' wagons, never raiding within 3–4 leagues of Hommlet; no survivors are ever left
 - Part of a larger Temple network (one of many such operatives — but regarded with "special favor and expectation")
 
+## Personality & Voice
+
+- Honeyed and controlled when he wants something; speaks slowly, almost melodically, with the confidence of someone who has been told he's special his whole life
+- Uses charm as a weapon — will assess the party's wants and offer them almost immediately; the offer is never quite what it seems
+- Genuinely dangerous when cornered: the beauty disappears and something cold and absolute takes its place; he is not the kind of man who begs
+- The incense, the luxury furnishings, the sweet wine — these are stage management; he has constructed an environment designed to signal power and comfort simultaneously
+
+## Goals
+
+- Rebuild a viable raiding force at the Moat House and generate enough wealth to restore Temple operations to their former scale
+- Avoid direct confrontation with any party that might be capable of defeating him; he is a strategist, not a berserker
+- Maintain the Hommlet intelligence network (Rannos, Gremag, Zert) and keep the dead drop system clean
+- Rise within the Temple hierarchy; he is regarded with "special favor and expectation" and wants to deserve that regard
+
+## Knowledge
+
+- Knows the full Hommlet spy network and their code name system (he is "the Shepherd")
+- Knows the Caves of Chaos humanoid clan strengths, assignments, and dispositions — he has a written document in his strongbox
+- Knows the Shrine Priest and the Evil Priest Spy in the Keep by function but not by name; communication is through dead drops and goblin couriers only
+- Does not know what lies above him in the hierarchy; he reports upward through channels he doesn't fully understand — the drow coin in his strongbox is a gift from that chain
+- Knows his tactical situation: AC -1, staff of striking, immune to hold/paralysis; he will not fight a party he cannot beat
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## Party Relationship
 
 Not yet met.

@@ -33,6 +33,35 @@ Confident, personable, and careful. He plays dice and cards daily in the common 
 
 Self-employed thief and gambler. No faction agenda, no quest. He is at the inn because there is a steady stream of merchants and travelers to fleece.
 
+## Personality & Voice
+
+- Confident and personable without being pushy — makes eye contact, laughs easily, asks about the other person first; classic charmer
+- Pitches himself as a pragmatist: "I don't ask questions, I do the job, I take my share" — the pitch is honest on its face and designed to preempt suspicion
+- Occasionally lets slip that he's good at cards or dice with a slight self-deprecating grin; this is how he introduces the gambling without advertising it
+- Calm in tense situations — he has been in worse; his equanimity reads as competence to those who don't know why he's so relaxed
+
+## Goals
+
+- Earn enough to sustain his comfortable lifestyle at the inn without drawing suspicion from Gundigoot
+- Join a promising party and earn a legitimate share — while quietly supplementing it with whatever he can lift
+- Acquire magic items specifically; the ring of invisibility on his finger is evidence of his priorities
+- Self-preservation is paramount; he will not sacrifice himself for anyone, but he will not cause anyone's death either
+
+## Knowledge
+
+- Knows the Welcome Wench's common room thoroughly — who sits where, who drinks with whom, who has been asking unusual questions (has noticed Spugnoir's behavior with the Moat House inquiries)
+- Knows dice and cards well enough to cheat at both; can teach the party about local gambling culture if asked
+- Has observed Zert at upper room 1 as another long-term guest with no obvious purpose — can confirm he seems to be watching the room as much as drinking
+- Knows how to move quietly and find things that aren't meant to be found; his 4th-level thief skills are operational, not theoretical
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## Party Relationship
 
 Not yet met. Furnok will offer to join an adventuring party for **equal share** of treasure, plus whatever he can quietly lift — especially magic items, which he covets. He will offer his **scroll of protection from magic** as a good-faith deposit to seal the deal. This is not a trick — the scroll is genuinely valuable and he considers it a real investment.

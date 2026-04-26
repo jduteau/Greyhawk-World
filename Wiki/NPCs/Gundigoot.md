@@ -34,6 +34,36 @@ His manner: **talks freely while saying little.** He is voluble on safe topics �
 - Militia sergeant: village defense responsibility; reports to the informal defense council
 - Intelligence node: passes information about suspicious visitors to [[Wiki/NPCs/Jaroo-Ashstaff]] via the first potboy (an aspiring druid); cooperates with [[Wiki/NPCs/Elmo]] informally; loyal to the village's defenders
 
+## Personality & Voice
+
+- Voluble on safe topics (food quality, road conditions, weather, tallow prices); conspicuously vague on anything touching village tensions or recent arrivals — the shift is subtle enough to miss on first contact
+- Efficient and competent behind the bar — gives every patron immediate attention; makes the inn feel well-run without effort; this is genuine, not performance
+- Dry wit deployed sparingly; a single understated comment at the right moment rather than jokes; the kind of humor that makes you think he's been watching longer than you realized
+- Never seems alarmed — reacts to unusual information with a slow nod and a redirect to safer conversation; his composure is professional armor
+
+## Goals
+
+- Keep the Welcome Wench running smoothly and maintain its reputation as the best inn in the region
+- Protect Hommlet from Temple resurgence; he survived the last war and has no interest in repeating it
+- Build the informal intelligence picture of current arrivals; flag dangerous visitors to Jaroo via the potboy pipeline before they become a problem
+- Steer capable adventurers toward productive targets (the Keep and Sherlane) rather than letting them wander into the Moat House underprepared
+
+## Knowledge
+
+- Knows the Moat House's location (east, 2-3 miles on the old track) and history as a Temple warpost; shares freely
+- Has flagged Zert (upper room 1) as suspicious — something off about the long-term wait; willing to share this with a party he trusts
+- Knows Spugnoir (upper room 5) has been asking about the Moat House — will mention this conversationally to parties asking the same question
+- Knows the cellar secret room exists and what it was; will not volunteer this unless the village is in serious danger
+- Can recommend the Keep and Sherlane by name to parties who seem serious about regional threats
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## Party Relationship
 
 Not yet met. Status: unknown.

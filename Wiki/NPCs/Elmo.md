@@ -31,6 +31,35 @@ Frequents the inn to observe all newcomers. Will insinuate himself into expediti
 
 **How to hire him:** He wants MONEY (for ale) and asks that the employer furnish him armor and a "BIG axe." If hired on these terms, he will secretly wear his own +1 chain mail in addition to (or in place of) whatever is purchased, and will use his hidden magic axe.
 
+## Personality & Voice
+
+- Cover voice is slow, halting, slightly slurred — lots of "uhh" and "my brudder Otis" volunteered without prompting; he repeats phrases and seems to be working through simple thoughts at speed
+- Genuinely jovial and easy to like in the cover persona; never hostile, always happy to share a drink; laughs at his own perceived simplicity
+- Under the cover: fast, precise, and tactically minded; if the mask ever slips (which it won't unless he chooses it), the contrast is jarring
+- Talks about money and ale with equal enthusiasm; the mercenary motivation is the loudest thing about him in public
+
+## Goals
+
+- Identify capable adventuring parties heading to the Moat House and embed himself as an observer and intelligence asset
+- Report Moat House findings to the Viscount of Verbobonc through established channels (Burne and Rufus are the node)
+- Confirm or deny rumors of Temple of Elemental Evil reoccupation — that is the core intelligence question he's been tasked with
+- Keep his cover intact; Hommlet's Temple spy network (Rannos, Gremag, Zert) must not identify him as an agent
+
+## Knowledge
+
+- Knows the basic layout and general character of the Moat House from prior observation; has not entered the dungeon level
+- Knows Burne and Rufus are the intelligence chain to the Viscount — will not name this connection until trust is established
+- Has observed Zert at the Welcome Wench and noted something off, but has not escalated; can confirm this suspicion to a trusted party
+- After a Moat House expedition: knows enough about the Temple hierarchy from the Viscount's briefings to contextualize what the party found; can confirm Lareth-level significance
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## Party Relationship
 
 Not yet met.

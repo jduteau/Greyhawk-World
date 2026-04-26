@@ -14,7 +14,7 @@ faction: ""
 first_session: 0
 gm_only: false
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-25
 ---
 
 # Rufus
@@ -33,6 +33,35 @@ Overall military commander of [[Wiki/Locations/Village-of-Hommlet]]. Co-builds t
 - Will serve a party for not less than 20% of total treasure
 - Will not risk his life or engage in foolish adventures
 - At 8th level, has been instructed to return to Verbobonc for special service
+
+## Personality & Voice
+
+- Blunt and economical in speech — low Charisma (4) means rough edges he doesn't bother to sand; he says what he means and expects the same in return
+- Evaluates by action rather than words; a party that has done something earns his time; a party that only talks does not
+- Practical rather than intellectual; where Burne reasons from principles, Rufus counts what he can see — bodies, wounds, treasure recovered, threats neutralized
+- Not unkind; just direct; if he likes a party he will say so plainly and offer what he can
+
+## Goals
+
+- Protect Hommlet and the surrounding region; the castle project is the physical expression of this commitment
+- Report unusual happenings to the Viscount of Verbobonc; he takes this duty seriously without being paranoid about it
+- Reach 8th level and return to Verbobonc for special service — this is his career arc; the village posting is a chapter, not a destination
+- Build the castle; every month of construction is progress he can measure
+
+## Knowledge
+
+- Knows the region's military situation: humanoid activity patterns, the Caves of Chaos as the primary threat vector, the Keep's role
+- Can confirm Burne's assessment of the Temple threat but approaches it from a tactical rather than political angle — he cares about troop counts, not court politics
+- Knows the village council's composition and who is reliable in a crisis
+- Will share his assessment of the party's capability frankly if asked — high praise from Rufus means something
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
 
 ## Party Relationship
 

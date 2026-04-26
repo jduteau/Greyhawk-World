@@ -40,6 +40,36 @@ Spiritual head of the St. Cuthbert congregation in Hommlet. Will dispense healin
 - 2nd: Hold Person ×2, Know Alignment, Silence 15' Radius, Slow Poison
 - 3rd: Cure Disease, Dispel Magic
 
+## Personality & Voice
+
+- Brusque and formal; does not smile on introduction; makes no effort to be liked; his manner communicates that his time is limited and the visitor should get to the point
+- Directs conversations through Calmert's contribution process without apology; he did not choose this posting and is not going to pretend he enjoys it
+- Becomes visibly animated when the Temple of Elemental Evil comes up — this is the fight he wants to be fighting; his flat affect shifts to something sharper and more engaged
+- Not unkind underneath; if the party demonstrates genuine anti-Temple action, he will give them more than they asked for; he cannot sustain the stoniness when the cause is real
+
+## Goals
+
+- Honor the Archcleric of Veluna's personal request to hold this posting; he has not left because he was asked not to by someone he respects
+- Fight the Temple of Elemental Evil somehow, from this chair in this village, with whatever tools he has; the posting frustrates him because the real war is elsewhere
+- Direct capable adventuring parties toward Sherlane and the Keep — that is where the fight is; Hommlet is the staging ground, not the battlefield
+- Maintain Y'dey's church in her absence without undermining her authority or appropriating her resources
+
+## Knowledge
+
+- Knows the Temple of Elemental Evil's history — the war, the destruction, the ongoing concern about resurgence
+- Has heard reports from parishioners about humanoid activity near the Moathouse road; is concerned but lacks specifics
+- Knows Y'dey is away investigating the Temple situation; can mention this if the party asks about local allies
+- Recommends Sherlane by name and describes his role tracking humanoid movements — he believes this strongly enough to volunteer it unprompted to serious parties
+- Does not know Y'dey's cache is hidden in the fireplace mantle of his own chamber
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## Party Relationship
 
 Not yet met. He will be professionally distant and formal on first contact. He can become an ally if the party demonstrates genuine commitment to fighting evil — that is a cause he cares about even if he would rather be fighting it elsewhere.

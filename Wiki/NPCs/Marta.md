@@ -31,6 +31,34 @@ Her husband [[Wiki/NPCs/Edric]] left three weeks ago to sell grain at the market
 
 The missing-person thread. Edric is a prisoner in the [[Wiki/Locations/Caves-of-Chaos]]. His fate follows from which caves the party explores and how quickly they move.
 
+## Personality & Voice
+
+- Quietly composed in the way of someone who has been frightened long enough that the fear has become ordinary; she does not perform distress
+- States facts and lets them speak: "He left three weeks ago. He has not arrived. No one has seen him." No embellishment, no plea — she is past the stage of begging
+- Does not apologize for approaching strangers; she has exhausted other options; this is what is left
+- If the party responds with kindness: a brief, genuine thank-you, nothing effusive; she has learned not to count on things
+
+## Goals
+
+- Find out what happened to Edric
+- Bring him home alive if possible; know his fate if not
+- Return to her farm eventually; right now she is here, at the Keep, because there is nowhere else to go while waiting for an answer
+
+## Knowledge
+
+- Knows Edric's route, the market he was traveling to, and the three-week timeline since his departure
+- Knows other travelers have gone missing on the same road — she has spoken to people at the Keep about this
+- Can describe Edric (plain appearance, reliable farmer, traveled with a grain wagon) in enough detail for the party to identify him if found
+- Does not know the Caves of Chaos are involved; she suspects something happened on the road; she does not know what
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## Party Relationship
 
 Not yet met.

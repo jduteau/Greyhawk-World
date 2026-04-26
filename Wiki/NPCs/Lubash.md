@@ -33,6 +33,35 @@ Guardian of the central dungeon passage. He has been instructed to allow only th
 
 He will devour anyone he kills at the first opportunity. He tosses wounded and prisoners into the adjoining room (area 8, his pantry) for later consumption. He will pursue fleeing parties, but no further than the stairs up (area 4, above).
 
+## Personality & Voice
+
+- Does not speak Common fluently — communicates primarily through posture and gesture when issuing challenges; the crossed-arms challenge sign is expected and he waits for it
+- Hungry and territorial; his entire disposition communicates that this passage is his and anything that enters is either welcome (correct sign) or food (incorrect sign)
+- Will pause before attacking — there is a brief, assessing moment where he waits for the sign; this can read as hesitation but is actually ritual
+- No ideology, no loyalty beyond the current arrangement; he is here because the food is regular; once the arrangement ends (Lareth is gone), he will leave or become entirely feral
+
+## Goals
+
+- Eat regularly; the arrangement with Lareth provides human flesh and he wants it to continue
+- Guard the central passage as instructed; he takes the challenge ritual seriously because it defines his role
+- Accumulate treasure in his nest; he covets shiny things without understanding their value
+- Survive; he will pursue fleeing parties but not past the stairs, which are the edge of his territory
+
+## Knowledge
+
+- Knows the correct challenge sign (crossed arms before the face) and the yellow eye of fire symbol
+- Knows "the Master" is somewhere to the south; no further detail
+- Knows his pantry (area 8) currently holds prisoners; will refer to them as food
+- Knows the dungeon's central passage layout but nothing about what lies beyond his territorial range
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## GM Notes
 
 *gm_only*

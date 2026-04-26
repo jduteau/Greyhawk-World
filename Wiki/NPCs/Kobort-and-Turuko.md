@@ -37,6 +37,41 @@ Big, strong, and simple. He met Turuko on the road and was convinced that Turuko
 
 Small, thin, and watchful. Believes himself to be highly clever. Has a specific plan and is anxious to execute it, as their funds are nearly exhausted (12 gp, 5 sp, 40 cp between both of them).
 
+## Role
+
+Predatory opportunists posing as a capable adventure-seeking pair. They present as enthusiastic companions at the Welcome Wench and will seek to join any party heading to the Moat House. Their actual role is to use adventurers as shields, let them clear the dungeon at cost to themselves, and then slay the survivors to claim everything.
+
+Kobort supplies the muscle; Turuko supplies the plan and the timing. Neither is useful without the other in this scheme.
+
+## Personality & Voice
+
+- **Kobort:** Loud, friendly, cheerfully boastful about his strength; straightforward in speech; genuinely happy to be in a tavern talking to adventurers; shows no sign of guile because there is none — he simply follows Turuko's lead
+- **Turuko:** Quieter, more watchful; asks specific practical questions (how many rooms, what did you fight, how much did you spend on equipment?); his manner is that of a careful planner who takes adventuring seriously; the calculation behind it is not visible unless you're looking for it
+- Together: Turuko speaks for both on logistical matters; Kobort speaks for both on everything social; they have an easy, comfortable rapport that reads as genuine friendship (it mostly is, from Kobort's side)
+- Turuko's urgency is visible as a slight restlessness — he is anxious to act because their funds are nearly gone; watch for small tells (checking his coin purse, steering conversation back to the Moat House)
+
+## Goals
+
+- **Turuko's plan:** Join a small party, stay safe during the dungeon clearance, eliminate the survivors when they're weakest, take all treasure and equipment
+- **Immediate priority:** Their funds are nearly exhausted (12 gp, 5 sp, 40 cp combined); something must happen soon
+- **Kobort's goal:** Do what Turuko says and get famous and wealthy; he believes in the plan because Turuko told him it would work
+- **Fallback:** If the party is obviously too powerful, shadow rather than join; wait for exhaustion to reduce them to a manageable state
+
+## Knowledge
+
+- Turuko knows the Moat House exists and contains monsters and treasure; he has this from prior intelligence (sources not established)
+- Kobort knows what Turuko has told him — essentially that they're going to get rich at the old ruin
+- Neither knows anything about the Temple of Elemental Evil, Lareth, or the deeper conspiracy
+- Neither knows about the village spy network; they are entirely focused on the immediate score
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## The Plan
 
 *gm_only*

@@ -34,6 +34,36 @@ Co-owner of the stone tower (area 31). Co-funder and builder (with Rufus) of the
 - Won't risk his life or be duped into a bad deal
 - Has odd potions and scrolls in the tower (specific items per tower key)
 
+## Personality & Voice
+
+- Careful and controlled — speaks in measured, considered sentences; never blurts; always seems to be evaluating what the other person knows before committing to an answer
+- Intellectually curious but not warm; conversations feel like interviews even when he's being sociable at the Welcome Wench
+- Slight undertone of avarice — money is mentioned early and often, framed as practicality; he genuinely believes the 1/3 share is fair
+- Follower of St. Cuthbert's bluntness: he will say what he thinks is true, but he says little he isn't sure of
+
+## Goals
+
+- Maintain the safety of Hommlet and the surrounding region on behalf of the Viscount of Verbobonc
+- Complete the new castle (area 30) — it is the physical evidence of his success in this posting
+- Gather actionable intelligence on the Temple of Elemental Evil's status; a confirmed resurgence is a report that goes directly to Verbobonc
+- Identify capable adventuring parties who can work as a force multiplier for his limited garrison resources
+
+## Knowledge
+
+- Can confirm the Moat House exists and has a dark history with the Temple; will share this openly with anyone asking in good faith
+- Has heard rumors of humanoid coordination in the region — the pattern concerns him but he lacks specifics
+- Knows the Viscount's interest in this area and can provide political context (Verbobonc's role, the Archcleric's funding) if trust is earned
+- If the party brings him the TZGY scarab or fire opal necklace, he can confirm these as Temple-grade intelligence and will explain their significance; this triggers his Viscount report
+- Can identify Lareth's phylactery of action if shown one — recognizes it as a Temple-tier protective device
+
+## Memories
+
+*Has not yet met the party. No shared history.*
+
+## Character Relationship
+
+*No character-specific relationships established yet.*
+
 ## Party Relationship
 
 Not yet met.
