@@ -68,7 +68,7 @@ Read `llm-wiki.yml` from the wiki root directory FIRST to determine:
 Phase 1 - Source Analysis:
   - Identify source type (URL -> WebFetch, file path -> Read, text -> parse directly)
   - Extract: entities, facts, relationships, dates, decisions
-  - Classify: business, technical, content, project, learning, reference
+  - Classify: Locations, PCs, NPCs, Factions, Sessions, Conspiracy, World, Lore, Modules, State
   - L1/L2 Check: Is this a quick rule/gotcha? -> Recommend Memory. Deep knowledge? -> Wiki
 
 Phase 2 - Wiki Scan:
@@ -78,7 +78,7 @@ Phase 2 - Wiki Scan:
   - Read existing target pages
   - Identify: pages to create, pages to update, cross-refs to add
 
-Phase 3 - Page Operations (target: 5-15 page touches):
+Phase 3 - Page Operations (target: 20-25 page touches):
   - Create new pages with all required properties (per Schema)
   - Update existing pages: append new facts as new blocks (NEVER overwrite existing content)
   - Update hub pages (list new child pages)
@@ -116,7 +116,7 @@ Phase 3 - Optional Write-Back:
   - User must confirm before any writes
 
 Phase 4 - Output:
-  - Answer with source pages: "Sources: [[Wiki/Tech/Deployment]], [[Wiki/Reference/Gotchas]]"
+  - Answer with source pages: "Sources: [[Wiki/Locations/Welcome-Wench-Inn]], [[Wiki/NPCs/Calmert]]"
   - Flag stale or low-confidence sources
   - Suggest related pages
 

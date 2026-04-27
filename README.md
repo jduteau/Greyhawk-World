@@ -1,27 +1,24 @@
 # Greyhawk World Wiki
 
-A structured campaign knowledge base for running AD&D adventures set in the **World of Greyhawk (576 CY)**. Built on the [llm-wiki](https://github.com/anthropics/llm-wiki) framework, this wiki serves two consumers simultaneously: the GM browsing notes in Obsidian, and an AI world arbiter agent querying during live play.
+A structured campaign knowledge base for running AD&D adventures set in the **World of Greyhawk (576 CY)**. Built on the [llm-wiki](https://github.com/MehmetGoekce/llm-wiki) framework, this wiki serves two consumers simultaneously: the GM browsing notes in Obsidian, and an AI world arbiter agent querying during live play.
 
 ## What's in here
 
-The wiki covers classic modules placed in the Greyhawk setting:
-
-- **B2 — The Keep on the Borderlands** — frontier Keep, Caves of Chaos, the Temple of Evil Chaos spy network
-- **T1 — The Village of Hommlet** — Hommlet, the Welcome Wench Inn, and the Temple of Elemental Evil conspiracy
 
 Content is organized into namespaces:
 
-| Namespace | Contents |
-|-----------|----------|
-| `Locations` | Named places: villages, dungeons, buildings, regions |
-| `NPCs` | Named characters the party has met or heard of |
-| `Factions` | Organizations, cults, military units, conspiracies |
-| `Sessions` | Individual play session records (append-only) |
-| `Conspiracy` | Synthesized analysis of conspiracy threads |
-| `Modules` | Module metadata and campaign placement notes |
-| `World` | Greyhawk canon: geography, politics, deities |
-| `Lore` | In-world documents, rumors, legends, inscriptions |
-| `State` | Current session state block (overwritten each session) |
+| Namespace    | Contents                                                                                 |
+| ------------ | ---------------------------------------------------------------------------------------- |
+| `Locations`  | Named places: villages, dungeons, buildings, regions                                     |
+| `PCs`        | Named player characters. One page per character. Includes living, dead, and retired PCs. |
+| `NPCs`       | Named characters the party has met or heard of                                           |
+| `Factions`   | Organizations, cults, military units, conspiracies                                       |
+| `Sessions`   | Individual play session records (append-only)                                            |
+| `Conspiracy` | Synthesized analysis of conspiracy threads                                               |
+| `Modules`    | Module metadata and campaign placement notes                                             |
+| `World`      | Greyhawk canon: geography, politics, deities                                             |
+| `Lore`       | In-world documents, rumors, legends, inscriptions                                        |
+| `State`      | Current session state block (overwritten each session)                                   |
 
 ## How it works
 

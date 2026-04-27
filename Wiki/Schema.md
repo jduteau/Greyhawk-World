@@ -1,6 +1,6 @@
 ---
-wiki-version: "1.0"
-last-updated: "2026-04-21"
+wiki-version: 1.1
+last-updated: 2026-04-26
 maintained-by: llm-wiki
 type: schema
 ---
@@ -12,7 +12,7 @@ agent (querying during play). Write every page to serve both.
 
 ## Namespace Conventions
 
-- Top-Level: Wiki/Locations, Wiki/NPCs, Wiki/Factions, Wiki/Sessions, Wiki/Conspiracy, Wiki/World, Wiki/Lore, Wiki/Modules, Wiki/State
+- Top-Level: Wiki/Locations, Wiki/NPCs, Wiki/PCs, Wiki/Factions, Wiki/Sessions, Wiki/Conspiracy, Wiki/World, Wiki/Lore, Wiki/Modules, Wiki/State
 - Page Naming: Title Case, hyphens for multi-word (`Wiki/Projects/My-Project`)
 - Max Depth: 3 levels (e.g., `Wiki/NPCs/Person/NPCName`)
 - Hub Pages: Every namespace level has a hub page listing its children
@@ -24,6 +24,7 @@ agent (querying during play). Write every page to serve both.
 |-----------|----------|-----------|
 | `Wiki/Locations` | Places: villages, dungeons, regions, buildings | entity |
 | `Wiki/NPCs` | Named characters the party has met or heard of | entity |
+| `Wiki/PCs` | Player characters, active and retired | entity |
 | `Wiki/Factions` | Organizations, cults, power groups, conspiracies | entity |
 | `Wiki/Sessions` | Individual play session records | project |
 | `Wiki/Conspiracy` | Synthesized analysis of conspiracy threads | knowledge |
@@ -58,12 +59,13 @@ knowledge. Subtype is determined by the domain field.
 ### Entity
 
 An entity is a named, persistent thing in the world: a person,
-place, or organization. Every named NPC, location, and faction
-gets its own entity page.
+place, or organization. Every named NPC, location, faction, and
+player character gets its own entity page.
 
 **How to classify during ingest:**
 
-- Named person, creature, or character → entity-type: npc
+- Named player character (controlled by a player, not the GM) → entity-type: pc
+- Named person, creature, or character (GM-controlled) → entity-type: npc
 - Named place (village, dungeon, room, region, building) → entity-type: location
 - Named group, cult, church, guild, army, conspiracy → entity-type: faction
 
@@ -71,14 +73,83 @@ gets its own entity page.
 
 ```yaml
 type: entity
-entity-type: npc | location | faction
+entity-type: pc | npc | location | faction
 name: [canonical name]
 status: active | dead | destroyed | cleared | unknown
-source: [module code e.g. "T1" | "emergent" | "world-canon"]
+source: [module code e.g. "T1" | "emergent" | "world-canon" | "player-created"]
 confidence: canon | established | inferred | emergent
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 ```
+
+---
+
+#### entity-type: pc
+
+Player characters. One page per character. Covers active, dead, and
+retired PCs. These pages are player-facing by default; use `gm_only:
+true` only for content the player themselves does not know (e.g., a
+dominated PC whose player is unaware of the compulsion).
+
+**Required YAML frontmatter (additional fields):**
+
+```
+player: [player name or handle]
+race: [AD&D race e.g. "Human", "Half-Elf"]
+class: [AD&D class or multi-class e.g. "Fighter", "Fighter/Magic-User"]
+level: [integer, or slash-separated for multi-class e.g. "3/2"]
+alignment: [AD&D alignment e.g. "Lawful Good"]
+deity: [patron deity, or omit if none]
+
+# Ability Scores
+str: [integer]
+str_exceptional: [integer 01-00, omit if not applicable]
+int: [integer]
+wis: [integer]
+dex: [integer]
+con: [integer]
+cha: [integer]
+
+# Combat Stats
+hp_current: [integer]
+hp_max: [integer]
+ac: [integer — descending AC; lower is better]
+thac0: [integer]
+
+# Advancement
+xp_current: [integer]
+xp_next_level: [integer]
+first_session: [integer]
+
+# Status
+pc_status: active | dead | missing | retired
+last_location: "[[Wiki/Locations/...]]"
+```
+
+**Required sections:**
+
+- **Description** — appearance, personality, notable traits
+- **Background** — origin, motivation, what drove them to adventure
+- **Saving Throws** — table of current saves; update on level-up:
+
+  | Save | Target |
+  |------|--------|
+  | Death / Poison | |
+  | Wands | |
+  | Paralysis / Petrify | |
+  | Breath Weapon | |
+  | Spells / Rods / Staves | |
+
+- **Equipment & Inventory** — weapons, armor, significant gear; update each session
+- **Spells Known / Memorized** — classes with spells only; for Magic-Users, list
+  spellbook contents separately from currently memorized spells; update each session
+- **Special Abilities** — class features, racial abilities, proficiencies,
+  anything non-standard; note source (class, race, magic item)
+- **Party Relationships** — how this PC relates to other PCs and significant NPCs;
+  tag changes [Session N]
+- **History** — significant events in session order; tag [Session N]
+- **Advancement Log** — level-ups, XP milestones, notable gains; tag [Session N]
+- **Cross-References**
 
 ---
 
@@ -334,8 +405,8 @@ confidence: established
 
 ```
 Party:
-- [Name] ([Class] [Level]) — [current HP]/[max HP]
-- [Name] ([Class] [Level]) — [current HP]/[max HP]
+- [[Wiki/PCs/Name]] (Class Level) — [current HP]/[max HP] HP, AC [n]
+- [[Wiki/PCs/Name]] (Class Level) — [current HP]/[max HP] HP, AC [n]
 
 Location: [[Wiki/Locations/...]]
 
@@ -383,6 +454,8 @@ gm_only: true       # GM-facing content only. Never exposed in player wiki.
                     # Apply to: allegiance_true, GM Notes, GM Truth,
                     # Hidden Evidence, unrevealed conspiracy tiers,
                     # module content not yet encountered by the party.
+                    # On PC pages: use only for content the player
+                    # themselves does not know (e.g., active charm/domination).
 
 player_known: true  # Explicitly revealed to characters in play.
                     # Appears in both GM wiki and player wiki.
@@ -390,9 +463,24 @@ player_known: true  # Explicitly revealed to characters in play.
 
 Default (no flag): GM wiki only, not yet in player wiki.
 
+PC pages are player-facing by default; `gm_only` is the exception,
+not the rule.
+
 ## Ingest Source Routing
 
 Identify the source type and apply these rules before extracting.
+
+**Character sheet / PC creation:**
+
+- Create a `Wiki/PCs/` entity page with `entity-type: pc`
+- Set `confidence: established`
+- Set `source: player-created`
+- Do NOT apply `gm_only` to ability scores, saves, class abilities,
+  inventory, or history — these are player-facing by default
+- Exception: apply `gm_only: true` to any section containing GM
+  knowledge the player does not have (rare; e.g., active domination)
+- Update the `Wiki/PCs` hub to include the new page
+- Update Wiki/State/Current-Session.md to link the new PC page
 
 **Module text (T1, B2, G1, etc.):**
 
@@ -406,8 +494,12 @@ Identify the source type and apply these rules before extracting.
 **Session transcript:**
 
 - Create a session (project) page
-- Update party_relationship on all NPCs encountered
-- Update location_status on all locations visited
+- Update `party_relationship` on all NPCs encountered
+- Update `location_status` on all locations visited
+- Update `hp_current`, `xp_current`, and `level` on all active PC pages
+- Append to **History** section on PC pages for significant events; tag [Session N]
+- Append to **Advancement Log** on PC pages for any level gained; tag [Session N]
+- Update `last_location` on all PC pages to match end-of-session location
 - Tag all new content [Session N]
 - Overwrite Wiki/State/Current-Session.md with updated state block
 - File World State Changes as update candidates for affected pages
@@ -474,11 +566,12 @@ Do not silently resolve contradictions. Surface them for human review.
 ### L1 equivalent = Wiki/State/Current-Session.md
 
 - Loaded explicitly at session start by the world arbiter.
-- Contains only: party status, current location, active threads, pointer to last session page.
+- Contains: party status (HP, AC, class, level, links to PC pages),
+  current location, active threads, pointer to last session page.
 
 ### L2 = Everything else in the wiki
 
-- Queried on demand. Locations, NPCs, Factions, Sessions, Conspiracy, World, Lore, Modules.
+- Queried on demand. Locations, NPCs, PCs, Factions, Sessions, Conspiracy, World, Lore, Modules.
 
 ### Boundary Rules
 
@@ -487,7 +580,7 @@ Do not silently resolve contradictions. Surface them for human review.
 
 ## Ingest Workflow
 
-1. Identify source type (module | session | linking thread | world canon)
+1. Identify source type (character sheet | module | session | linking thread | world canon)
 2. Apply source routing rules above
 3. Extract: named entities, facts, relationships, dates, decisions
 4. Classify each item by namespace and page type using definitions above
@@ -522,6 +615,11 @@ Do not silently resolve contradictions. Surface them for human review.
 - Session page missing World State Changes section → flag
 - Conspiracy page with fewer than 3 linked NPC or Faction pages → flag
 - NPC marked `npc_status: dead` appearing in sessions after their death session → flag
+- PC page missing `hp_current` or `ac` → flag
+- PC page missing **Saving Throws** section → flag
+- PC page with `pc_status: active` not updated within last 3 sessions → flag (character state may be stale)
+- PC page with `pc_status: dead` appearing in sessions after their death session → flag
+- State block listing a PC name with no corresponding `Wiki/PCs/` page → flag
 - Contradiction flags (⚠️) present → surface for human review
 - Pages with `confidence: inferred` not updated in 10+ sessions → flag as potentially stale
 - Module page with `campaign_status: active` and no linked Session pages → flag

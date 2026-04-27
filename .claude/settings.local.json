@@ -2,7 +2,13 @@
   "permissions": {
     "allow": [
       "Bash(git add *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(awk -F: '{print $1, $2}')",
+      "Read(//tmp/**)",
+      "Bash(git commit *)",
+      "Bash(git rm *)",
+      "Bash(xargs '-I{}' sh -c 'updated=$\\(grep \"^updated:\" \"{}\" | head -1 | sed \"s/updated: //\"\\); echo \"$updated {}\"')",
+      "Bash(python3 *)"
     ]
   }
 }
