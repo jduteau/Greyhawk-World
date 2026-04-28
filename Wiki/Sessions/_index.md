@@ -1,9 +1,9 @@
 ---
 type: hub
 namespace: "Wiki/Sessions"
-updated: "2026-04-25"
+updated: "2026-04-28"
 ---
 
 # Sessions
 
-No sessions recorded yet. Add pages here as play begins.
+- [[Wiki/Sessions/Session-01-The-Road-to-Hommlet]] — Party arrives in Hommlet from Veluna; humanoid/evil activity rumours (active)

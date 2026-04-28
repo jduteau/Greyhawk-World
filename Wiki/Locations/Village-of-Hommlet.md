@@ -6,10 +6,10 @@ status: active
 source: T1
 confidence: canon
 region: "Viscounty of Verbobonc, near the Kron Hills and Gnarley Wood, World of Greyhawk"
-location_status: pristine
+location_status: active
 layer: campaign
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-28
 ---
 
 # Village of Hommlet
@@ -76,7 +76,7 @@ The ruined Moat House 2–3 miles away on an overgrown track (area 33) is a remn
 
 ## Current Status
 
-Not yet visited. All locations pristine.
+[Session 1] — Party has arrived; village locations not yet explored. Temple spy network (traders at area 13, worker at area 32) remains undetected.
 
 ## Known Inhabitants
 
@@ -89,7 +89,7 @@ Not yet visited. All locations pristine.
 
 ## Party History
 
-No visits recorded.
+[Session 1] — [[Wiki/PCs/Thomas]], [[Wiki/PCs/Aldric]], [[Wiki/PCs/Conrad]], [[Wiki/PCs/Lance]], and [[Wiki/PCs/Michael]] arrived from [[Wiki/Locations/Veluna]] to investigate rumours of increased humanoid activity and evil goings-on in the region.
 
 ## GM Notes
 
@@ -113,3 +113,10 @@ No visits recorded.
 - [[Wiki/NPCs/Rannos-Davi]]
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]
+- [[Wiki/Locations/Veluna]]
+- [[Wiki/Sessions/Session-01-The-Road-to-Hommlet]]
+- [[Wiki/PCs/Thomas]]
+- [[Wiki/PCs/Aldric]]
+- [[Wiki/PCs/Conrad]]
+- [[Wiki/PCs/Lance]]
+- [[Wiki/PCs/Michael]]
