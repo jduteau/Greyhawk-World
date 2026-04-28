@@ -55,5 +55,4 @@ Party origin point. No active party presence after Session 1.
 - [[Wiki/PCs/Conrad]]
 - [[Wiki/PCs/Lance]]
 - [[Wiki/PCs/Michael]]
-- [[Wiki/Sessions/Session-01-The-Road-to-Hommlet]]
 - [[Wiki/World/Archclericy-of-Veluna]]

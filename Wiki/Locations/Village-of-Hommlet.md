@@ -114,7 +114,6 @@ The ruined Moat House 2–3 miles away on an overgrown track (area 33) is a remn
 - [[Wiki/Factions/Temple-of-Elemental-Evil]]
 - [[Wiki/Conspiracy/ToEE-Spy-Network-Hommlet]]
 - [[Wiki/Locations/Veluna]]
-- [[Wiki/Sessions/Session-01-The-Road-to-Hommlet]]
 - [[Wiki/PCs/Thomas]]
 - [[Wiki/PCs/Aldric]]
 - [[Wiki/PCs/Conrad]]

@@ -24,4 +24,4 @@ Active Threads:
 - Reports of evil activity — possible [[Wiki/Factions/Temple-of-Elemental-Evil]] reactivation
 - [[Wiki/Locations/Moat-House]] — former Temple warpost, current status unknown
 
-Last Session: [[Wiki/Sessions/Session-01-The-Road-to-Hommlet]]
+Last Session: None — Session 1 not yet played.

@@ -84,7 +84,6 @@ TBD.
 
 ## Cross-References
 
-- [[Wiki/Sessions/Session-01-The-Road-to-Hommlet]]
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Locations/Veluna]]
 - [[Wiki/PCs/Thomas]]
