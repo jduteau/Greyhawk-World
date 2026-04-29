@@ -44,7 +44,7 @@ Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to invest
 
 ## Saving Throws
 
-Class defaults for Cleric Level 1. Verify against sheet.
+Confirmed correct.
 
 | Save | Target |
 |------|--------|
@@ -58,16 +58,16 @@ Class defaults for Cleric Level 1. Verify against sheet.
 
 Mace, sling, 15 sling stones, chain mail, shield, holy symbol (St. Cuthbert), backpack, waterskin.
 
-AC 4 inferred from chain mail + shield (not recorded on sheet); THAC0 and saving throws not provided — class defaults used.
+AC 4 inferred from chain mail + shield (not recorded on sheet). THAC0 20 and saving throws confirmed correct.
 
 ## Spells Known / Memorized
 
-**Memorized (Level 1 — 1 spell):** TBD at session start.
+**Memorized (Level 1 — 3 spells):** TBD at session start. (1 base + 2 bonus from WIS 15)
 
 ## Special Abilities
 
 - **Turn Undead:** Turns undead as Cleric Level 1
-- **Spells:** 1 first-level spell per day at Level 1
+- **Spells:** 3 first-level spells per day at Level 1 (1 base + 2 bonus from WIS 15)
 
 ## Party Relationships
 
