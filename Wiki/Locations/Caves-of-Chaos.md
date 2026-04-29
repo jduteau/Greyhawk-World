@@ -5,11 +5,11 @@ name: "Caves of Chaos"
 status: active
 source: B2
 confidence: canon
-region: "Wilderness near the Keep on the Borderlands"
+region: "Kron Hills / Gnarley Wood borderlands, Viscounty of Verbobonc"
 location_status: pristine
 layer: campaign
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-29
 ---
 
 # Caves of Chaos
@@ -224,6 +224,7 @@ These distinctions matter for encounter feel and tactical consequences.
 
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]
 - [[Wiki/Locations/Keep-on-the-Borderlands]]
+- [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Factions/Temple-of-Evil-Chaos]]
 - [[Wiki/NPCs/Shrine-Evil-Cleric]]
 - [[Wiki/Factions/Kobold-Tribe-A]]

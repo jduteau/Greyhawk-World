@@ -20,7 +20,7 @@ A prosperous frontier village in the Viscounty of Verbobonc, situated near the K
 
 Hommlet recovered from the Temple of Elemental Evil war and is thriving. Two religious communities coexist: followers of St. Cuthbert (newer arrivals, associated with the Viscount's backing) and druidical faithful (older, long-established families). The village is governed by an informal council and has a well-organized militia.
 
-The ruined Moat House 2–3 miles away on an overgrown track (area 33) is a remnant warpost of the Temple and the primary dungeon accessible from the village.
+The ruined Moat House 2–3 miles away on an overgrown track (area 33) is a remnant warpost of the Temple and the primary dungeon accessible from the village. [[Wiki/Locations/Keep-on-the-Borderlands]] is within a day's travel — the party can use Hommlet as a base for Keep and Caves of Chaos expeditions.
 
 ## Geography
 
@@ -105,6 +105,8 @@ The ruined Moat House 2–3 miles away on an overgrown track (area 33) is a remn
 ## Cross-References
 
 - [[Wiki/Modules/T1-Village-of-Hommlet]]
+- [[Wiki/Locations/Keep-on-the-Borderlands]]
+- [[Wiki/Locations/Caves-of-Chaos]]
 - [[Wiki/Locations/Welcome-Wench-Inn]]
 - [[Wiki/NPCs/Elmo]]
 - [[Wiki/NPCs/Burne]]

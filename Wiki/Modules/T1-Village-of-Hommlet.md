@@ -8,11 +8,11 @@ module_author: "Gary Gygax"
 published: 1979
 level_range: "1-3"
 canonical_placement: "Viscounty of Verbobonc, near Kron Hills and Gnarley Wood, World of Greyhawk"
-campaign_placement: "TBD"
+campaign_placement: "Viscounty of Verbobonc — canonical placement used; Hommlet also serves as base for B2 Keep on the Borderlands (within a day's travel)"
 campaign_status: not-started
 party_progress: "Not yet begun"
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-29
 ---
 
 # T1 — The Village of Hommlet
@@ -80,11 +80,13 @@ Key dramatic tensions:
 
 - **Before:** No prerequisite. T1 is the entry point for the T1–T4 Temple of Elemental Evil series.
 - **After:** T2 (The Temple of Elemental Evil) — the Moat House leads to the Temple proper.
+- **Concurrent:** [[Wiki/Modules/B2-Keep-on-the-Borderlands]] — the Keep is within a day's travel of Hommlet; both modules are active simultaneously in this campaign.
 - **Cross-setting note:** The Temple of Elemental Evil (T1/T2) is a distinct organization from the Temple of Evil Chaos in [[Wiki/Modules/B2-Keep-on-the-Borderlands]].
 
 ## Cross-References
 
 - [[Wiki/Locations/Village-of-Hommlet]]
+- [[Wiki/Modules/B2-Keep-on-the-Borderlands]]
 - [[Wiki/Locations/Welcome-Wench-Inn]]
 - [[Wiki/Locations/Moat-House]]
 - [[Wiki/Locations/Church-of-St-Cuthbert]]

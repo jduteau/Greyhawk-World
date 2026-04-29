@@ -5,11 +5,11 @@ name: "The Keep on the Borderlands"
 status: active
 source: B2
 confidence: canon
-region: "Borderlands frontier (campaign placement TBD)"
+region: "Kron Hills / Gnarley Wood borderlands, Viscounty of Verbobonc"
 location_status: pristine
 layer: campaign
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-29
 ---
 
 # The Keep on the Borderlands
@@ -23,6 +23,8 @@ The Keep is a lawful-aligned stronghold guarding the borderlands against the hum
 The Keep harbors a dangerous secret: the jovial Priest in the private apartments (area 7b) is actually a chaotic spy working to undermine expeditions to the Caves of Chaos.
 
 ## Geography
+
+**Campaign Placement:** Located in the Kron Hills / Gnarley Wood borderlands within the Viscounty of Verbobonc — close enough to [[Wiki/Locations/Village-of-Hommlet]] that the party can travel between town and Keep within a single day. This diverges from the module's generic frontier setting; treat all module references to "the road" as leading toward Hommlet.
 
 The Keep consists of an Outer Bailey and an Inner Bailey.
 
@@ -90,6 +92,7 @@ No visits recorded.
 
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]
 - [[Wiki/Locations/Caves-of-Chaos]]
+- [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/NPCs/Sherlane]]
 - [[Wiki/NPCs/Captain-of-the-Guard]]
 - [[Wiki/NPCs/The-Advisor]]

@@ -44,25 +44,21 @@ Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to invest
 
 ## Saving Throws
 
-Confirmed correct.
-
-| Save | Target |
-|------|--------|
-| Aimed Magic Items | 10 |
-| Breath Weapons | 14 |
-| Death / Paralysis / Poison | 13 |
-| Petrification / Polymorph | 16 |
-| Spells / Unlisted | 15 |
+| Save                       | Target |
+| -------------------------- | ------ |
+| Aimed Magic Items          | 14     |
+| Breath Weapons             | 16     |
+| Death / Paralysis / Poison | 10     |
+| Petrification / Polymorph  | 13     |
+| Spells / Unlisted          | 15     |
 
 ## Equipment & Inventory
 
 Mace, sling, 15 sling stones, chain mail, shield, holy symbol (St. Cuthbert), backpack, waterskin.
 
-AC 4 inferred from chain mail + shield (not recorded on sheet). THAC0 20 and saving throws confirmed correct.
-
 ## Spells Known / Memorized
 
-**Memorized (Level 1 — 3 spells):** TBD at session start. (1 base + 2 bonus from WIS 15)
+**Memorized (Level 1 — 3 spells):** Cure Light Wounds (1d8 HP) x 2, Bless (+1 to hit and +5% to morale)
 
 ## Special Abilities
 

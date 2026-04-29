@@ -8,11 +8,11 @@ module_author: "Gary Gygax"
 published: 1979
 level_range: "1-3"
 canonical_placement: "Generic frontier borderlands"
-campaign_placement: "TBD"
+campaign_placement: "Kron Hills / Gnarley Wood borderlands — within a day's travel of Hommlet (Viscounty of Verbobonc)"
 campaign_status: not-started
 party_progress: "Not yet begun"
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-29
 ---
 
 # B2 — The Keep on the Borderlands
@@ -64,12 +64,14 @@ B2 serves as an introductory sandbox. The Keep provides a safe hub with merchant
 
 ## Sequence
 
-- **Before:** No prerequisite module. B2 is a standalone introductory adventure.
+- **Before:** [[Wiki/Modules/T1-Village-of-Hommlet]] — T1 serves as the gateway; the party is based in Hommlet and travels to the Keep within a day.
 - **After:** Higher-level content following resolution of the Caves of Chaos.
 
 ## Cross-References
 
 - [[Wiki/Locations/Keep-on-the-Borderlands]]
 - [[Wiki/Locations/Caves-of-Chaos]]
+- [[Wiki/Locations/Village-of-Hommlet]]
+- [[Wiki/Modules/T1-Village-of-Hommlet]]
 - [[Wiki/Factions/Temple-of-Evil-Chaos]]
 - [[Wiki/Factions/Keep-Garrison]]

@@ -60,7 +60,7 @@ Dagger, spellbook, backpack, lantern, tinderbox, waterskin.
 
 **Spellbook:** Read Magic, Magic Missile, Sleep, Shield.
 
-**Memorized (Level 1 — 1 spell):** TBD at session start.
+**Memorized (Level 1 — 1 spell):** Sleep
 
 ## Special Abilities
 
