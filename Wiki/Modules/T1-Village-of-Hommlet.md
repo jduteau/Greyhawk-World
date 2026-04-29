@@ -17,7 +17,7 @@ updated: 2026-04-29
 
 # T1 — The Village of Hommlet
 
-A detailed village sourcebook set in the World of Greyhawk, featuring 33 village locations with named NPCs, faction intrigue, and a connection to the larger Temple of Elemental Evil arc. The village serves as the entry point and home base for the T1–T4 series.
+A detailed village sourcebook set in the World of Greyhawk, featuring 33 village locations with named NPCs, faction intrigue, and a Temple of Elemental Evil spy network. Used in this campaign for the village and Moat House content only — the T2–T4 continuation is not part of this campaign's module path.
 
 ## Campaign Role
 
@@ -78,10 +78,10 @@ Key dramatic tensions:
 
 ## Sequence
 
-- **Before:** No prerequisite. T1 is the entry point for the T1–T4 Temple of Elemental Evil series.
-- **After:** T2 (The Temple of Elemental Evil) — the Moat House leads to the Temple proper.
+- **Before:** No prerequisite. T1 is the entry point for this campaign.
+- **After:** [[Wiki/Modules/A0-Danger-at-Darkshelf-Quarry]] → [[Wiki/Modules/A1-4-Scourge-of-the-Slavelords]] — once Hommlet and the Moat House are resolved, the campaign moves to the slavers arc. T2 (The Temple of Elemental Evil) is not used in this campaign.
 - **Concurrent:** [[Wiki/Modules/B2-Keep-on-the-Borderlands]] — the Keep is within a day's travel of Hommlet; both modules are active simultaneously in this campaign.
-- **Cross-setting note:** The Temple of Elemental Evil (T1/T2) is a distinct organization from the Temple of Evil Chaos in [[Wiki/Modules/B2-Keep-on-the-Borderlands]].
+- **Cross-setting note:** The Temple of Elemental Evil (T1) is a distinct organization from the Temple of Evil Chaos in [[Wiki/Modules/B2-Keep-on-the-Borderlands]].
 
 ## Cross-References
 
