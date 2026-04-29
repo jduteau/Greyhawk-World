@@ -6,21 +6,20 @@ status: active
 source: player-created
 confidence: established
 player: TBD
-race: TBD
+race: Human
 class: "Thief"
 level: 1
-alignment: TBD
-deity: TBD
-str: 0
-str_exceptional: 0
-int: 0
-wis: 0
-dex: 0
-con: 0
-cha: 0
-hp_current: 0
-hp_max: 0
-ac: 0
+alignment: "True Neutral"
+deity: ""
+str: 12
+int: 12
+wis: 10
+dex: 17
+con: 15
+cha: 10
+hp_current: 5
+hp_max: 5
+ac: 5
 thac0: 20
 xp_current: 0
 xp_next_level: 1250
@@ -28,59 +27,55 @@ first_session: 1
 pc_status: active
 last_location: "[[Wiki/Locations/Village-of-Hommlet]]"
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 
 # Conrad
 
-> ⚠️ STUB: Ability scores, HP, AC, equipment, and thief skill percentages not yet recorded. Update from character sheet.
-
-Level 1 Thief. Member of the party investigating evil activity around [[Wiki/Locations/Village-of-Hommlet]].
+Level 1 Thief (Human, True Neutral). Member of the party investigating evil activity around [[Wiki/Locations/Village-of-Hommlet]].
 
 ## Description
 
-TBD.
+Reads people instinctively and chooses words accordingly — he sounds different talking to a nervous merchant than to a guard than to a fellow criminal, because he's always selecting the register most likely to get him what he wants. This isn't dishonesty exactly, it's fluency. Underneath it he's more straightforward than he appears — when he says something directly it means he's decided the performance isn't worth it. Occasionally something genuine surfaces and he covers it quickly with a practical observation or a slight deflection. He notices what others miss — who's watching the room, where the valuables are, what the real negotiation is underneath the stated one, whether the person across from him is telling the truth.
 
 ## Background
 
-TBD. Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to investigate rumours of increased humanoid activity and evil goings-on.
+Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to investigate rumours of increased humanoid activity and evil goings-on.
 
 ## Saving Throws
 
-Class defaults for Thief Level 1. Verify against sheet.
-
 | Save | Target |
 |------|--------|
-| Death / Poison | 13 |
-| Wands | 14 |
-| Paralysis / Petrify | 12 |
-| Breath Weapon | 16 |
-| Spells / Rods / Staves | 15 |
+| Death / Poison | 14 |
+| Wands | 16 |
+| Paralysis / Petrify | 13 |
+| Breath Weapon | 12 |
+| Spells / Rods / Staves | 13 |
 
 ## Equipment & Inventory
 
-TBD.
+Short sword, sling, 20 sling stones, leather armour, backpack, crowbar, hammer, 10' pole, 30' rope, thieves' tools, waterskin.
 
 ## Special Abilities
 
-**Thief Skills (base percentages — adjust for race/Dex):**
-
 | Skill | % |
 |-------|---|
-| Pick Pockets | 30 |
-| Open Locks | 25 |
-| Find/Remove Traps | 20 |
-| Move Silently | 15 |
-| Hide in Shadows | 10 |
-| Hear Noise | 10 |
-| Climb Walls | 85 |
-| Read Languages | 0 |
+| Backstab (to-hit bonus) | +4 |
+| Backstab (extra damage) | +1 die |
+| Climb Walls | 90% |
+| Hide in Shadows | 15% |
+| Hear Noise | 10% |
+| Pick Locks | 40% |
+| Pick Pockets | 35% |
+| Read Languages | 1% |
+| Move Silently | 20% |
+| Find/Remove Traps | 25% |
 
-- **Backstab:** ×2 damage when attacking from surprise/rear
+- **Backstab:** +4 to hit against unaware target; +1 extra damage die
 
 ## Party Relationships
 
-TBD.
+Friends with [[Wiki/PCs/Lance]], [[Wiki/PCs/Thomas]], and [[Wiki/PCs/Michael]]. Closest with [[Wiki/PCs/Thomas]], despite different motives and alignments.
 
 ## History
 

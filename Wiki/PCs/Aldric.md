@@ -6,21 +6,20 @@ status: active
 source: player-created
 confidence: established
 player: TBD
-race: TBD
+race: Human
 class: "Cleric"
 level: 1
-alignment: TBD
-deity: TBD
-str: 0
-str_exceptional: 0
-int: 0
-wis: 0
-dex: 0
-con: 0
-cha: 0
-hp_current: 0
-hp_max: 0
-ac: 0
+alignment: "Neutral Good"
+deity: "St. Cuthbert"
+str: 15
+int: 8
+wis: 15
+con: 12
+dex: 10
+cha: 13
+hp_current: 7
+hp_max: 7
+ac: 4
 thac0: 20
 xp_current: 0
 xp_next_level: 1500
@@ -28,22 +27,20 @@ first_session: 1
 pc_status: active
 last_location: "[[Wiki/Locations/Village-of-Hommlet]]"
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 
 # Aldric
 
-> ⚠️ STUB: Ability scores, HP, AC, equipment, deity, alignment, and spells not yet recorded. Update from character sheet.
-
-Level 1 Cleric. Member of the party investigating evil activity around [[Wiki/Locations/Village-of-Hommlet]].
+Level 1 Cleric of St. Cuthbert (Human, Neutral Good). Member of the party investigating evil activity around [[Wiki/Locations/Village-of-Hommlet]].
 
 ## Description
 
-TBD.
+Dry, sardonic, quietly devout. He is not a hero — he is a healer who happens to work with heroes. He complains about his feet, his back, the quality of the ale, and the party's tactical decisions (especially when they are correct). He will occasionally express genuine warmth and immediately undercut it with a complaint. Short, dry observations rather than speeches. Tends toward the deflating remark — the one that punctures heroic inflation without being cruel. His faith is real but he wears it lightly in conversation, surfacing in occasional wry references to St. Cuthbert's practical wisdom rather than sermonic delivery. He asks pointed questions when something doesn't add up. When he's genuinely worried he goes quieter rather than louder, which the party will learn to read over time.
 
 ## Background
 
-TBD. Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to investigate rumours of increased humanoid activity and evil goings-on.
+Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to investigate rumours of increased humanoid activity and evil goings-on. Aldric served at a St. Cuthbert chantry in the same region where [[Wiki/PCs/Thomas]] trained — the two know each other through shared faith. When Thomas was dispatched to Hommlet, Aldric came with him on the grounds that the pay was acceptable and that Thomas, whatever his faults, was unlikely to get him killed through sheer stupidity.
 
 ## Saving Throws
 
@@ -59,11 +56,13 @@ Class defaults for Cleric Level 1. Verify against sheet.
 
 ## Equipment & Inventory
 
-TBD.
+Mace, sling, 15 sling stones, chain mail, shield, holy symbol (St. Cuthbert), backpack, waterskin.
+
+AC 4 inferred from chain mail + shield (not recorded on sheet); THAC0 and saving throws not provided — class defaults used.
 
 ## Spells Known / Memorized
 
-**Memorized (Level 1 — 1 spell):** TBD.
+**Memorized (Level 1 — 1 spell):** TBD at session start.
 
 ## Special Abilities
 
@@ -72,7 +71,7 @@ TBD.
 
 ## Party Relationships
 
-TBD.
+He and [[Wiki/PCs/Thomas]] have known each other through their shared devotion to St. Cuthbert — Aldric served at a St. Cuthbert chantry in the same region where Thomas trained. When Thomas was dispatched to Hommlet, Aldric came with him — on the grounds that the pay was acceptable and that Thomas, whatever his faults, was unlikely to get him killed through sheer stupidity.
 
 ## History
 

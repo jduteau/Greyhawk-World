@@ -3,17 +3,17 @@ type: knowledge
 domain: state
 confidence: established
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 
 # Current Session State
 
 Party:
-- [[Wiki/PCs/Thomas]] (Paladin 1) — TBD/TBD HP, AC TBD
-- [[Wiki/PCs/Aldric]] (Cleric 1) — TBD/TBD HP, AC TBD
-- [[Wiki/PCs/Conrad]] (Thief 1) — TBD/TBD HP, AC TBD
-- [[Wiki/PCs/Lance]] (Ranger 1) — TBD/TBD HP, AC TBD
-- [[Wiki/PCs/Michael]] (Magic-User 1) — TBD/TBD HP, AC TBD
+- [[Wiki/PCs/Thomas]] (Paladin 1) — 4/4 HP, AC 4
+- [[Wiki/PCs/Aldric]] (Cleric 1) — 7/7 HP, AC 4
+- [[Wiki/PCs/Conrad]] (Thief 1) — 5/5 HP, AC 5
+- [[Wiki/PCs/Lance]] (Ranger 1) — 10/10 HP, AC 5
+- [[Wiki/PCs/Michael]] (Magic-User 1) — 5/5 HP, AC 9
 
 Location: [[Wiki/Locations/Village-of-Hommlet]]
 

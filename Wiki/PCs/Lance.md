@@ -6,21 +6,20 @@ status: active
 source: player-created
 confidence: established
 player: TBD
-race: TBD
+race: Human
 class: "Ranger"
 level: 1
-alignment: TBD
-deity: TBD
-str: 0
-str_exceptional: 0
-int: 0
-wis: 0
-dex: 0
-con: 0
-cha: 0
-hp_current: 0
-hp_max: 0
-ac: 0
+alignment: "Lawful Neutral"
+deity: ""
+str: 13
+int: 13
+wis: 14
+dex: 15
+con: 16
+cha: 8
+hp_current: 10
+hp_max: 10
+ac: 5
 thac0: 20
 xp_current: 0
 xp_next_level: 2250
@@ -28,50 +27,46 @@ first_session: 1
 pc_status: active
 last_location: "[[Wiki/Locations/Village-of-Hommlet]]"
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 
 # Lance
 
-> ⚠️ STUB: Ability scores, HP, AC, equipment, and favoured enemy not yet recorded. Update from character sheet.
-
-Level 1 Ranger. Member of the party investigating evil activity around [[Wiki/Locations/Village-of-Hommlet]].
+Level 1 Ranger (Human, Lawful Neutral). Member of the party investigating evil activity around [[Wiki/Locations/Village-of-Hommlet]].
 
 ## Description
 
-TBD.
+Economical. Says what needs saying and stops. Notices things others miss — exits, positions, the way someone is standing, what the ground says about recent traffic — and reports them as plain facts without editorialising. Not unfriendly, just built for the field rather than the room. His CHA 8 shows as a slight bluntness rather than rudeness — he doesn't modulate for social comfort. In conversations he's often the one who asks the question everyone else was dancing around. Outdoors he's confident and grounded; underground and in cities he's subtly less himself, reaching for reference points that aren't there.
 
 ## Background
 
-TBD. Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to investigate rumours of increased humanoid activity and evil goings-on. A ranger with wilderness skills is well-suited to scouting the Kron Hills and Gnarley Wood region around Hommlet.
+Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to investigate rumours of increased humanoid activity and evil goings-on. A ranger with wilderness skills is well-suited to scouting the Kron Hills and Gnarley Wood region around Hommlet.
 
 ## Saving Throws
 
-Class defaults for Ranger Level 1 (as Fighter). Verify against sheet.
-
 | Save | Target |
 |------|--------|
-| Death / Poison | 14 |
-| Wands | 16 |
-| Paralysis / Petrify | 15 |
-| Breath Weapon | 17 |
+| Death / Poison | 16 |
+| Wands | 17 |
+| Paralysis / Petrify | 14 |
+| Breath Weapon | 15 |
 | Spells / Rods / Staves | 17 |
 
 ## Equipment & Inventory
 
-TBD.
+Long bow, 24 arrows, long sword, studded leather armour, shield, backpack, grappling hook, 50' rope, iron spikes ×8, waterskin.
+
+AC 5 with shield (long sword); AC 6 without shield (long bow).
 
 ## Special Abilities
 
-- **Surprise:** Surprised only on 1 in 6; surprises enemies on 1–3 in 6 in wilderness
-- **Tracking:** Wilderness tracking ability
-- **Spells:** Gains druid spells at Level 8, magic-user spells at Level 9
-- **Followers:** Attracts 2–24 followers at Level 10
-- **Good Alignment Required**
+- **Alert and Stealthy:** −1 to own surprise roll; +1 to others' surprise roll
+- **Cunning Tracker:** 90% tracking success in rural/wilderness; 65% in urban/dungeon
+- **Fell Handed:** +1 per level to damage against evil humanoids and giants
 
 ## Party Relationships
 
-TBD.
+Friends with [[Wiki/PCs/Conrad]], [[Wiki/PCs/Thomas]], and [[Wiki/PCs/Michael]]. Closest with [[Wiki/PCs/Michael]]; has a competitive dynamic with [[Wiki/PCs/Thomas]].
 
 ## History
 

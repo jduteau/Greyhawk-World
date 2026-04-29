@@ -6,21 +6,20 @@ status: active
 source: player-created
 confidence: established
 player: TBD
-race: TBD
+race: Human
 class: "Paladin"
 level: 1
 alignment: "Lawful Good"
-deity: TBD
-str: 0
-str_exceptional: 0
-int: 0
-wis: 0
-dex: 0
-con: 0
-cha: 0
-hp_current: 0
-hp_max: 0
-ac: 0
+deity: "St. Cuthbert"
+str: 15
+int: 9
+wis: 15
+con: 12
+dex: 10
+cha: 17
+hp_current: 4
+hp_max: 4
+ac: 4
 thac0: 20
 xp_current: 0
 xp_next_level: 2750
@@ -28,51 +27,46 @@ first_session: 1
 pc_status: active
 last_location: "[[Wiki/Locations/Village-of-Hommlet]]"
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 
 # Thomas
 
-> ⚠️ STUB: Ability scores, HP, AC, equipment, and spells not yet recorded. Update from character sheet.
-
-Level 1 Paladin. Member of the party investigating evil activity around [[Wiki/Locations/Village-of-Hommlet]].
+Level 1 Paladin of St. Cuthbert (Human, Lawful Good). Member of the party investigating evil activity around [[Wiki/Locations/Village-of-Hommlet]]. Brother to [[Wiki/PCs/Michael]].
 
 ## Description
 
-TBD.
+Speaks in plain, direct sentences — no rhetorical flourish, no hedging. When he disagrees he says so clearly and without apology. His WIS 15 means he often reads situations and people accurately despite his INT 9 — he's not clever but he's perceptive, and there's a difference. Gets quietly terse when frustrated rather than loud. His faith surfaces naturally in how he frames things — duty, obligation, what's right — without sounding preachy. He means everything he says. This occasionally makes him uncomfortable in situations that require social flexibility, where [[Wiki/PCs/Conrad]] or [[Wiki/PCs/Michael]] would simply adjust.
 
 ## Background
 
-TBD. Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to investigate rumours of increased humanoid activity and evil goings-on.
+Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to investigate rumours of increased humanoid activity and evil goings-on. Brother to [[Wiki/PCs/Michael]]. His relationship with [[Wiki/PCs/Aldric]] predates the party's formation — both men served in the same St. Cuthbert chantry region. When Thomas was dispatched to Hommlet, Aldric came with him.
 
 ## Saving Throws
 
-Class defaults for Paladin Level 1 (Cleric base +2 to all saves). Verify against sheet.
-
 | Save | Target |
 |------|--------|
-| Death / Poison | 8 |
-| Wands | 12 |
-| Paralysis / Petrify | 11 |
-| Breath Weapon | 14 |
-| Spells / Rods / Staves | 13 |
+| Death / Poison | 14 |
+| Wands | 15 |
+| Paralysis / Petrify | 12 |
+| Breath Weapon | 13 |
+| Spells / Rods / Staves | 15 |
 
 ## Equipment & Inventory
 
-TBD.
+Sword, chain mail, shield, holy symbol (St. Cuthbert), lantern, tinderbox, backpack, waterskin.
 
 ## Special Abilities
 
-- **Detect Evil:** 60' radius at will
-- **Protection from Evil:** 10' radius aura (continuous)
-- **Lay on Hands:** Heal 2 HP per day (2 × level)
-- **Immune to Disease**
-- **Saving Throw Bonus:** +2 to all saves (already reflected above)
-- **Warhorse:** May call a special warhorse at level 4
+- **Boon of Health:** Immune to disease
+- **Curing Touch:** Cast Cure Disease on one living creature once per week
+- **Detect Evil:** Cast Detect Evil at will
+- **Protection from Evil 10':** Continuous 10' radius aura
+- **Lay on Hands:** Heal 2 HP per level (2 HP total) once per day
 
 ## Party Relationships
 
-TBD.
+Friends with [[Wiki/PCs/Lance]] and [[Wiki/PCs/Conrad]]. Brother to [[Wiki/PCs/Michael]]. Works closely with [[Wiki/PCs/Aldric]] — the two have known each other through their shared devotion to St. Cuthbert, Aldric having served at a chantry in the same region where Thomas trained. A competitive dynamic exists with [[Wiki/PCs/Lance]].
 
 ## History
 

@@ -6,21 +6,20 @@ status: active
 source: player-created
 confidence: established
 player: TBD
-race: TBD
+race: Human
 class: "Magic-User"
 level: 1
-alignment: TBD
-deity: TBD
-str: 0
-str_exceptional: 0
-int: 0
-wis: 0
-dex: 0
-con: 0
-cha: 0
-hp_current: 0
-hp_max: 0
-ac: 0
+alignment: "Neutral Good"
+deity: ""
+str: 10
+int: 18
+wis: 10
+dex: 11
+con: 15
+cha: 10
+hp_current: 5
+hp_max: 5
+ac: 9
 thac0: 20
 xp_current: 0
 xp_next_level: 2500
@@ -28,53 +27,50 @@ first_session: 1
 pc_status: active
 last_location: "[[Wiki/Locations/Village-of-Hommlet]]"
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 
 # Michael
 
-> ⚠️ STUB: Ability scores, HP, AC, spellbook contents, and equipment not yet recorded. Update from character sheet.
-
-Level 1 Magic-User. Member of the party investigating evil activity around [[Wiki/Locations/Village-of-Hommlet]].
+Level 1 Magic-User (Human, Neutral Good). Member of the party investigating evil activity around [[Wiki/Locations/Village-of-Hommlet]]. Brother to [[Wiki/PCs/Thomas]].
 
 ## Description
 
-TBD.
+Slightly formal register that relaxes when something genuinely interests him, which is often. Has the academic's habit of thinking out loud and occasionally finishing a thought that started in his head rather than in the conversation. Genuinely curious about people as well as ideas — warmer than the stereotype. His Neutral Good alignment means he'll bend rules without guilt when the situation calls for it, and he's honest about doing so. When working through a problem he gets quieter and more precise. When excited about a discovery he gets slightly more verbose than the situation requires.
 
 ## Background
 
-TBD. Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to investigate rumours of increased humanoid activity and evil goings-on.
+Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to investigate rumours of increased humanoid activity and evil goings-on. Brother to [[Wiki/PCs/Thomas]].
 
 ## Saving Throws
 
-Class defaults for Magic-User Level 1. Verify against sheet.
-
 | Save | Target |
 |------|--------|
-| Death / Poison | 14 |
-| Wands | 11 |
-| Paralysis / Petrify | 13 |
-| Breath Weapon | 15 |
+| Death / Poison | 11 |
+| Wands | 15 |
+| Paralysis / Petrify | 14 |
+| Breath Weapon | 13 |
 | Spells / Rods / Staves | 12 |
 
 ## Equipment & Inventory
 
-TBD.
+Dagger, spellbook, backpack, lantern, tinderbox, waterskin.
 
 ## Spells Known / Memorized
 
-**Spellbook:** TBD (Magic-User begins with Read Magic + 1d4 additional spells determined by DM or player choice).
+**Spellbook:** Read Magic, Magic Missile, Sleep, Shield.
 
-**Memorized (Level 1 — 1 spell):** TBD.
+**Memorized (Level 1 — 1 spell):** TBD at session start.
 
 ## Special Abilities
 
-- **Spell Research:** Can research new spells and create magic items at higher levels
+- **INT 18:** Maximum spell level access; exceptional chance to learn any spell; no limit on spells per level in spellbook
 - **Scroll Use:** Can use magic-user scrolls
+- **Spell Research:** Can research new spells and create magic items at higher levels
 
 ## Party Relationships
 
-TBD.
+Friends with [[Wiki/PCs/Lance]] and [[Wiki/PCs/Conrad]]. Brother to [[Wiki/PCs/Thomas]].
 
 ## History
 
