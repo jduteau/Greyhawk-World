@@ -48,11 +48,11 @@ Confirmed correct.
 
 | Save | Target |
 |------|--------|
-| Death / Poison | 10 |
-| Wands | 14 |
-| Paralysis / Petrify | 13 |
-| Breath Weapon | 16 |
-| Spells / Rods / Staves | 15 |
+| Aimed Magic Items | 10 |
+| Breath Weapons | 14 |
+| Death / Paralysis / Poison | 13 |
+| Petrification / Polymorph | 16 |
+| Spells / Unlisted | 15 |
 
 ## Equipment & Inventory
 

@@ -134,11 +134,11 @@ last_location: "[[Wiki/Locations/...]]"
 
   | Save | Target |
   |------|--------|
-  | Death / Poison | |
-  | Wands | |
-  | Paralysis / Petrify | |
-  | Breath Weapon | |
-  | Spells / Rods / Staves | |
+  | Aimed Magic Items | |
+  | Breath Weapons | |
+  | Death / Paralysis / Poison | |
+  | Petrification / Polymorph | |
+  | Spells / Unlisted | |
 
 - **Equipment & Inventory** — weapons, armor, significant gear; update each session
 - **Spells Known / Memorized** — classes with spells only; for Magic-Users, list

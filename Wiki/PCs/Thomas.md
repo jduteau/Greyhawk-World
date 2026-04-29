@@ -46,11 +46,11 @@ Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to invest
 
 | Save | Target |
 |------|--------|
-| Death / Poison | 14 |
-| Wands | 15 |
-| Paralysis / Petrify | 12 |
-| Breath Weapon | 13 |
-| Spells / Rods / Staves | 15 |
+| Aimed Magic Items | 14 |
+| Breath Weapons | 15 |
+| Death / Paralysis / Poison | 12 |
+| Petrification / Polymorph | 13 |
+| Spells / Unlisted | 15 |
 
 ## Equipment & Inventory
 
