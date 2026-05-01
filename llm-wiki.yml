@@ -9,6 +9,7 @@ memory_path:
 namespaces:
   - Locations
   - NPCs
+  - PCs
   - Factions
   - Sessions
   - Conspiracy
