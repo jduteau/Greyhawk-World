@@ -9,10 +9,10 @@ published: 1979
 level_range: "1-3"
 canonical_placement: "Viscounty of Verbobonc, near Kron Hills and Gnarley Wood, World of Greyhawk"
 campaign_placement: "Viscounty of Verbobonc — canonical placement used; Hommlet also serves as base for B2 Keep on the Borderlands (within a day's travel)"
-campaign_status: not-started
-party_progress: "Not yet begun"
+campaign_status: active
+party_progress: "[Session 1] Party completed Hommlet intelligence pass — Gundigoot, Terjon, Burne/Rufus, Jaroo all consulted; Moat House identified as priority after Caves; Zert flagged as suspicious"
 created: 2026-04-21
-updated: 2026-04-29
+updated: 2026-05-03
 ---
 
 # T1 — The Village of Hommlet

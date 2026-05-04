@@ -14,7 +14,7 @@ faction: "[[Wiki/Factions/Temple-of-Elemental-Evil]]"
 first_session: 0
 gm_only: true
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-03
 ---
 
 # Zert
@@ -54,19 +54,27 @@ Temple of Elemental Evil field agent. His cover assignment is watching for "a ca
 
 ## Memories
 
-*Has not yet met the party. No shared history.*
+*[Session 1 — NPC perspective]*
+
+Met Conrad, a thief from a newly arrived party of armed adventurers at the Welcome Wench. He mentioned they came seeking 'opportunities' after hearing rumours, but stayed cagey on details. Planted the seed by mentioning the old moat house east of here and that locals get twitchy about it. Asked how many travel with him, framing myself as a lone caravan guard who wouldn't dare explore ruins alone. Trying to learn their plans.
+
+[MAJOR] Spoke with Conrad again. He confirmed his group is five — four old friends and one who isn't as close. They're interested in the moat house and asked if locals are twitchy because of the Temple. I played helpful, shared public knowledge about the Temple being destroyed years ago and the moat house being a possible outpost. Hinted I might be useful as someone who knows local terrain. Asked if he thinks there's something worth finding there.
+
+Conrad confirmed their party includes a priest of St. Cuthbert who is close to someone named Thomas. I probed about their combat strength, questioning who stands where when swords come out. Offered to buy the next round to build rapport.
+
+Conrad was leaving to rejoin his companions. I offered my sword arm for any venture to the moat house — mentioned growing boredom waiting for the caravan and dwindling coin. Told him to talk it over with his group. Watched his group as he walked away, taking their measure.
 
 ## Character Relationship
 
-*No character-specific relationships established yet.*
+*[Session 1]* Cultivated Conrad as a contact — bought drinks, built rapport. Conrad accepted conversation easily; hard to read whether he suspected anything. The party then left for the Keep without recruiting me, which suggests Burne or Rufus warned them off.
 
 ## Party Relationship
 
-Not yet met.
+[Session 1] Met Conrad at the Welcome Wench. Offered to join a Moat House expedition. The party did not recruit him — Burne apparently warned them about him.
 
 ## What the Party Knows
 
-Nothing suspicious. He is a friendly, drink-loving traveller at the inn.
+[Session 1] A friendly mercenary waiting on a caravan from the south. Conrad sensed he was gathering information as much as giving it. Burne explicitly warned the party that Zert is suspicious — a stranger taking pointed interest in adventurers heading to the Moat House fits the pattern of Temple surveillance.
 
 ## GM Truth
 
@@ -80,7 +88,7 @@ Nothing suspicious. He is a friendly, drink-loving traveller at the inn.
 
 ## History
 
-No session history yet.
+[Session 1] First contact with the party. Targeted Conrad at the Welcome Wench, extracted party composition (five members, includes a paladin of St. Cuthbert and his brother a mage, plus cleric, ranger, thief). Offered to join a Moat House expedition. Party departed for the Keep without recruiting him — Burne warned them off. Zert's cover may be partially compromised with this party.
 
 ## Cross-References
 

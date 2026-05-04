@@ -25,9 +25,9 @@ xp_current: 0
 xp_next_level: 1250
 first_session: 1
 pc_status: active
-last_location: "[[Wiki/Locations/Village-of-Hommlet]]"
+last_location: "[[Wiki/Locations/Keep-on-the-Borderlands]]"
 created: 2026-04-28
-updated: 2026-04-29
+updated: 2026-05-03
 ---
 
 # Conrad
@@ -79,7 +79,7 @@ Friends with [[Wiki/PCs/Lance]], [[Wiki/PCs/Thomas]], and [[Wiki/PCs/Michael]]. 
 
 ## History
 
-[Session 1] — Arrived at [[Wiki/Locations/Village-of-Hommlet]] after travelling from [[Wiki/Locations/Veluna]] to investigate humanoid activity and evil rumours.
+[Session 1] — Arrived at [[Wiki/Locations/Village-of-Hommlet]] after travelling from [[Wiki/Locations/Veluna]] to investigate humanoid activity and evil rumours. Engaged [[Wiki/NPCs/Zert]] in conversation at the [[Wiki/Locations/Welcome-Wench-Inn]]; sensed the man was extracting information as much as giving it. Reported Zert to [[Wiki/NPCs/Burne]], who confirmed the suspicion. Traveled to [[Wiki/Locations/Keep-on-the-Borderlands]] with party; party now in Keep's inner bailey.
 
 ## Advancement Log
 

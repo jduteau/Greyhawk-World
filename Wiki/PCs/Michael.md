@@ -25,9 +25,9 @@ xp_current: 0
 xp_next_level: 2500
 first_session: 1
 pc_status: active
-last_location: "[[Wiki/Locations/Village-of-Hommlet]]"
+last_location: "[[Wiki/Locations/Keep-on-the-Borderlands]]"
 created: 2026-04-28
-updated: 2026-04-29
+updated: 2026-05-03
 ---
 
 # Michael
@@ -74,7 +74,7 @@ Friends with [[Wiki/PCs/Lance]] and [[Wiki/PCs/Conrad]]. Brother to [[Wiki/PCs/T
 
 ## History
 
-[Session 1] — Arrived at [[Wiki/Locations/Village-of-Hommlet]] after travelling from [[Wiki/Locations/Veluna]] to investigate humanoid activity and evil rumours.
+[Session 1] — Arrived at [[Wiki/Locations/Village-of-Hommlet]] after travelling from [[Wiki/Locations/Veluna]] to investigate humanoid activity and evil rumours. Spotted seven figures on the road pre-dawn during the overnight camp between Hommlet and the Keep (observation roll 8 — noticed them but no further detail). Traveled to [[Wiki/Locations/Keep-on-the-Borderlands]]; party now in Keep's inner bailey preparing to investigate [[Wiki/Locations/Caves-of-Chaos]].
 
 ## Advancement Log
 

@@ -14,7 +14,7 @@ faction: "[[Wiki/Factions/Keep-Garrison]]"
 first_session: 0
 gm_only: true
 created: 2026-04-21
-updated: 2026-04-25
+updated: 2026-05-03
 ---
 
 # Sherlane
@@ -53,19 +53,29 @@ Absolute commander of the Keep and all its garrison. Holds audience daily in the
 
 ## Memories
 
-*Has not yet met the party. No shared history.*
+*[Session 1 — NPC perspective]*
+
+[MAJOR] First meeting with an adventuring party from Hommlet: Thomas (paladin of St. Cuthbert), Aldric (cleric), Conrad (thief), Lance (ranger), and Michael (magic-user). Sent by the church in Veluna to investigate rumours, told to consult with me. I briefed them on the coordinated humanoid raids, the Caves of Chaos four miles east, and the troubling pattern of travelers being taken — not killed — on the Hommlet-Keep road. Asked what they heard in Hommlet and their specific mission.
+
+[MAJOR] Thomas told me the church sent them due to increased humanoid activity and rumors around town. They met with Canon Terjon, Druid Jaroo, and Burne and Rufus in Hommlet — all agree something is happening at the Moat House. I shared that I know of the Moat House and its dark Temple history, but my intelligence points to the Caves, not south. I asked whether the Moat House and Caves troubles might be connected.
+
+[MAJOR] Thomas and his party declared they will explore the Caves of Chaos. I briefed them: caves are four miles east in a ravine, at least half a dozen cave mouths housing different tribes — kobolds, goblins, orcs, gnolls. Warned them the tribes may coordinate and reinforce each other. Offered the Keep as their base between expeditions. Gave them a coin pouch and promised payment for intelligence about cave layouts, numbers, leadership, and whoever directs the coordination.
+
+Thomas asked if the Keep has healing potions for sale. I told him we have no dedicated apothecary — this is a frontier outpost. Directed him to the Curate at the Chapel for healing services, and mentioned the Trader and Provisioner for other supplies. Hinted that I carry a healing potion myself and might discuss arrangements beyond coin if they bring me intelligence of exceptional value.
+
+I concluded my audience with the adventuring party. We have an accord: they will scout the Caves of Chaos and bring me intelligence. I emphasized that I need evidence of what coordinates the humanoid tribes — a leader, temple, or symbol. Guards know they are my guests and should report day or night upon their return.
 
 ## Character Relationship
 
-*No character-specific relationships established yet.*
+*[Session 1]* Thomas and Sherlane: straightforward soldier-to-soldier accord. Thomas answered Sherlane's questions directly; Sherlane responded with full briefing and generous terms. No games. Sherlane's hasty-decision trait noted: he committed to "exceptional value" potion arrangements without specifying the threshold.
 
 ## Party Relationship
 
-Not yet met.
+[Session 1] First meeting. Full briefing given, accord made — party to scout Caves of Chaos and return intelligence on who coordinates the humanoids. Sherlane offered coin, Keep as base, and possible healing potion for exceptional intelligence. Relationship: employer and allied agents.
 
 ## What the Party Knows
 
-Nothing yet.
+[Session 1] Full briefing received: Caves of Chaos are four miles east in a ravine, multiple humanoid tribes (kobolds, goblins, orcs, gnolls) acting with unnatural coordination, travelers being taken not killed on the Hommlet-Keep road. Sherlane offers pay for intelligence and the Keep as a base. Has a personal healing potion he may trade for exceptional intelligence. Absolutely honest — confirmed he knows the Moat House exists and may be reoccupied but his intel points to the Caves.
 
 ## GM Truth
 
@@ -101,7 +111,7 @@ Sherlane knows the [[Wiki/Locations/Moat-House]] exists and that it was associat
 
 ## History
 
-No session events yet.
+[Session 1] First meeting with the party. Gave full Caves of Chaos briefing. Made accord: party scouts Caves and returns intelligence; Sherlane provides coin and Keep hospitality. Party committed. Now standing by for their first foray into the Caves.
 
 ## Cross-References
 

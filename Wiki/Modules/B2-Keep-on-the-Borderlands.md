@@ -9,10 +9,10 @@ published: 1979
 level_range: "1-3"
 canonical_placement: "Generic frontier borderlands"
 campaign_placement: "Kron Hills / Gnarley Wood borderlands — within a day's travel of Hommlet (Viscounty of Verbobonc)"
-campaign_status: not-started
-party_progress: "Not yet begun"
+campaign_status: active
+party_progress: "[Session 1] Party met Sherlane; committed to scouting Caves of Chaos; party standing by in Keep's inner bailey"
 created: 2026-04-21
-updated: 2026-04-29
+updated: 2026-05-03
 ---
 
 # B2 — The Keep on the Borderlands

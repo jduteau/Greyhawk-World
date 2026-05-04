@@ -14,7 +14,7 @@ faction: ""
 first_session: 0
 gm_only: false
 created: 2026-04-21
-updated: 2026-04-25
+updated: 2026-05-03
 ---
 
 # Rufus
@@ -57,19 +57,21 @@ Overall military commander of [[Wiki/Locations/Village-of-Hommlet]]. Co-builds t
 
 ## Memories
 
-*Has not yet met the party. No shared history.*
+*[Session 1 — NPC perspective]*
+
+Gave practical advice to a green party from Veluna about the moathouse — warned them about rotted floors in the upper levels that could kill them before any fight starts. Told them if they find more than bandits down there, to come back and report rather than play heroes. Dead adventurers don't tell us anything useful. Burne had already warned them about Zert and endorsed Elmo.
 
 ## Character Relationship
 
-*No character-specific relationships established yet.*
+*[Session 1]* Brief encounter during the tower meeting. Supplemented Burne's briefing with practical tactical advice. No individual relationships established.
 
 ## Party Relationship
 
-Not yet met.
+[Session 1] Met the party during Burne's briefing at the tower. Gave practical warnings about Moat House structural hazards. No strong relationship established — Burne did most of the talking.
 
 ## What the Party Knows
 
-Known as the partner of Burne. Both came to Hommlet ~3 years ago. Together they defeated a large bandit force and reportedly killed a green dragon in the Kron Hills. Rufus leads the militia squad and has been appointed overall commander of village troops.
+[Session 1] Solid, practical fighter. Warned them about rotted upper floors in the Moat House. Told them to report back rather than get killed being heroes. Partner to Burne.
 
 ## GM Truth
 
@@ -84,6 +86,8 @@ At 8th level he will leave Hommlet — this could affect long-running campaigns 
 ## History
 
 Came to Hommlet ~3 years ago with Burne. Helped defeat bandit force plaguing Verbobonc. Rumored to have slain a green dragon in the Kron Hills. Received Viscount and Archcleric funding for the new castle in exchange for holding the area.
+
+[Session 1] Brief meeting with party during Burne's intake. Warned them about Moat House structural hazards. Party then departed for the Keep.
 
 ## Cross-References
 

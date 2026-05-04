@@ -14,7 +14,7 @@ faction: ""
 first_session: 0
 gm_only: false
 created: 2026-04-21
-updated: 2026-04-25
+updated: 2026-05-03
 ---
 
 # Burne
@@ -58,19 +58,27 @@ Co-owner of the stone tower (area 31). Co-funder and builder (with Rufus) of the
 
 ## Memories
 
-*Has not yet met the party. No shared history.*
+*[Session 1 — NPC perspective]*
+
+[MAJOR] A party of five armed travelers arrived at the tower — including a paladin named Thomas and a cleric. Thomas revealed they were sent by the church in Veluna to investigate rumors of increased humanoid activity and evil tidings. Gundigoot directed them to us. I confirmed we've noticed patterns — coordinated goblins, bandits with unexplained coin. I asked them to identify themselves, their capabilities, and whether they have authority to act or merely report back to Veluna.
+
+[MAJOR] Met a party sent by the church: Thomas (paladin of St. Cuthbert), Aldric (cleric), Michael (young mage, Thomas's brother), Lance (ranger), and Conrad (jack of all trades — likely a thief). Green adventurers, first level by my assessment. I told them about the moat house east of Hommlet — signs of movement and campfire smoke where there should be none. Asked them to scout it and bring back intelligence about any Temple activity.
+
+[MAJOR] Thomas agreed to share intelligence from the Moat House investigation. I explained why the Moat House takes priority over the Keep — the Keep has a garrison and known threats, while the Moat House is quiet, uninvestigated since the Temple fell, and may connect to humanoid coordination. He mentioned a stranger at the inn waiting for a caravan who pointed them toward the Moat House. I pressed for details — appearance, name, whether the stranger asked about their intentions or volunteered information.
+
+[MAJOR] Conrad told me a stranger named Zert asked about their intentions regarding the Moat House and offered to accompany them. Elmo also offered to join. I encouraged them to take Elmo without revealing his true role, describing him as loyal and more capable than he appears. I warned them about Zert — a stranger taking pointed interest in adventurers heading to the Moat House fits the pattern of Temple surveillance.
 
 ## Character Relationship
 
-*No character-specific relationships established yet.*
+*[Session 1]* Conducted a thorough intake interview — assessed party capability and intentions, extracted intelligence about Zert, endorsed Elmo. Gave them a map. Typical Burne: generous with information to parties who prove serious, but always gathering at least as much as he gives.
 
 ## Party Relationship
 
-Not yet met.
+[Session 1] Met the full party at the tower. Assessed them as green but legitimate. Warned them about Zert, endorsed Elmo, provided a map of the area. Tasked them to scout the Moat House and return intelligence. Relationship: conditional ally — trust proportional to performance.
 
 ## What the Party Knows
 
-Well-known around the village as the mage who helped defeat a large bandit force plaguing Verbobonc, and reportedly slew a green dragon in the Kron Hills (with Rufus). Openly discussed; he's a village fixture.
+[Session 1] Confirmed patterns of humanoid coordination and unexplained bandit coin in the region. Told them the Moat House shows signs of activity and is a higher intelligence priority than the Keep (which has a garrison). Warned them explicitly that Zert is suspicious. Endorsed Elmo. Provided a map.
 
 ## GM Truth
 
@@ -101,6 +109,8 @@ Burne is the Hommlet node in the Viscount's intelligence chain. A party that rep
 ## History
 
 Came to Hommlet ~3 years ago with Rufus. Helped defeat bandit force plaguing Verbobonc. Rumored to have slain a green dragon in the Kron Hills. Was given Viscount and Archcleric funding to build the castle in exchange for holding the area and reporting.
+
+[Session 1] First meeting with the party. Conducted full intake assessment, confirmed Zert's suspicious behavior, warned the party, endorsed Elmo, provided a map. Tasked them to scout the Moat House and report back. Party then went to the Keep instead — Sherlane's referral from Terjon and Jaroo overrode Burne's Moat House priority recommendation.
 
 ## Cross-References
 

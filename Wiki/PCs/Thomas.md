@@ -25,9 +25,9 @@ xp_current: 0
 xp_next_level: 2750
 first_session: 1
 pc_status: active
-last_location: "[[Wiki/Locations/Village-of-Hommlet]]"
+last_location: "[[Wiki/Locations/Keep-on-the-Borderlands]]"
 created: 2026-04-28
-updated: 2026-04-29
+updated: 2026-05-03
 ---
 
 # Thomas
@@ -70,7 +70,7 @@ Friends with [[Wiki/PCs/Lance]] and [[Wiki/PCs/Conrad]]. Brother to [[Wiki/PCs/M
 
 ## History
 
-[Session 1] — Arrived at [[Wiki/Locations/Village-of-Hommlet]] after travelling from [[Wiki/Locations/Veluna]] to investigate humanoid activity and evil rumours.
+[Session 1] — Arrived at [[Wiki/Locations/Village-of-Hommlet]] after travelling from [[Wiki/Locations/Veluna]] to investigate humanoid activity and evil rumours. Consulted [[Wiki/NPCs/Gundigoot]], [[Wiki/NPCs/Terjon]], [[Wiki/NPCs/Burne]], [[Wiki/NPCs/Rufus]], and [[Wiki/NPCs/Jaroo-Ashstaff]]. Led party to [[Wiki/Locations/Keep-on-the-Borderlands]]; secured accord with [[Wiki/NPCs/Sherlane]] to scout [[Wiki/Locations/Caves-of-Chaos]]. Carrying Burne's map of the area. Party now in Keep's inner bailey.
 
 ## Advancement Log
 

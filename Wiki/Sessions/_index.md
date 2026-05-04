@@ -1,9 +1,11 @@
 ---
 type: hub
 namespace: "Wiki/Sessions"
-updated: "2026-04-28"
+updated: "2026-05-03"
 ---
 
 # Sessions
 
-No sessions recorded yet. Add pages here as play begins.
+## Session Log
+
+- [[Wiki/Sessions/Session-1-Hommlet-to-the-Keep]] — Session 1: Hommlet and the Keep (2026-05-04)

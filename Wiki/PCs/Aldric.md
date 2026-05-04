@@ -25,9 +25,9 @@ xp_current: 0
 xp_next_level: 1500
 first_session: 1
 pc_status: active
-last_location: "[[Wiki/Locations/Village-of-Hommlet]]"
+last_location: "[[Wiki/Locations/Keep-on-the-Borderlands]]"
 created: 2026-04-28
-updated: 2026-04-29
+updated: 2026-05-03
 ---
 
 # Aldric
@@ -71,7 +71,7 @@ He and [[Wiki/PCs/Thomas]] have known each other through their shared devotion t
 
 ## History
 
-[Session 1] — Arrived at [[Wiki/Locations/Village-of-Hommlet]] after travelling from [[Wiki/Locations/Veluna]] to investigate humanoid activity and evil rumours.
+[Session 1] — Arrived at [[Wiki/Locations/Village-of-Hommlet]] after travelling from [[Wiki/Locations/Veluna]] to investigate humanoid activity and evil rumours. Accompanied Thomas to Church of St. Cuthbert; met [[Wiki/NPCs/Terjon]], learned of missing [[Wiki/NPCs/Y-dey]]. Traveled to [[Wiki/Locations/Keep-on-the-Borderlands]] with party; party now in Keep's inner bailey preparing to investigate [[Wiki/Locations/Caves-of-Chaos]].
 
 ## Advancement Log
 

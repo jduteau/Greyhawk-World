@@ -14,7 +14,7 @@ faction: ""
 first_session: 0
 gm_only: true
 created: 2026-04-21
-updated: 2026-04-25
+updated: 2026-05-03
 ---
 
 # Jaroo Ashstaff
@@ -55,19 +55,23 @@ Will follow a suspicious group at a distance to observe what they're doing. Has 
 
 ## Memories
 
-*Has not yet met the party. No shared history.*
+*[Session 1 — NPC perspective]*
+
+A party of five came to the Grove seeking counsel about evil tidings in the area. A ranger named Lance spoke for them and presented proper offerings. I told them I sense something wrong toward the Moat House but have no specifics. Directed them to the Keep on the Borderlands and to Sherlane for intelligence on the humanoid problem — that's where they should start, not the Moat House.
+
+Thomas the paladin mentioned Canon Terjon gave the same advice about going to the Keep first. I acknowledged respect for Terjon — we don't share faith but share the village, and when we agree on something it matters. I asked them to pay attention to symbols and markings on whoever they fight — who gives orders and what they wear. Bring me back something useful and we'll talk further.
 
 ## Character Relationship
 
-*No character-specific relationships established yet.*
+*[Session 1]* Lance presented proper offerings and spoke for the party — the ranger's approach to the Grove showed appropriate respect and earned a genuine response from Jaroo. First promising contact.
 
 ## Party Relationship
 
-Not yet met.
+[Session 1] Met the party at the Grove. Proper offerings were made. Directed them to the Keep/Sherlane. Asked them to collect symbols and markings for him from whatever they encounter. Relationship: neutral-positive first meeting; will develop if they return with useful intelligence.
 
 ## What the Party Knows
 
-Known as the Druid of the Grove. Respected figure, member of the village council. Visitors to the Grove must make an offering.
+[Session 1] Senses something wrong in the direction of the Moat House — druidic instinct, no specifics. Agreed with Terjon's advice to see Sherlane first. Requested symbols and markings from enemies encountered. Respected figure who takes the Temple threat seriously; acknowledged he and Terjon rarely agree, which makes the consensus notable.
 
 ## GM Truth
 
@@ -109,6 +113,8 @@ Jaroo's specific mission is to confirm the Temple of Elemental Evil is destroyed
 ## History
 
 Sent to Hommlet by the Druids of Gnarley Wood at an unspecified point after the Temple war.
+
+[Session 1] First meeting with the party. Lance presented proper offerings; Jaroo received them. Gave druidic assessment (something wrong at Moat House, no specifics), directed to Sherlane. Requested symbols/markings from enemies encountered. Party departed for the Keep.
 
 ## Cross-References
 

@@ -14,7 +14,7 @@ faction: ""
 first_session: 0
 gm_only: false
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-03
 ---
 
 # Terjon
@@ -64,19 +64,25 @@ Spiritual head of the St. Cuthbert congregation in Hommlet. Will dispense healin
 
 ## Memories
 
-*Has not yet met the party. No shared history.*
+*[Session 1 — NPC perspective]*
+
+[MAJOR] Thomas, a paladin from Veluna, arrived at the church with his party. The church sent them to investigate humanoid activity and Temple resurgence. I dismissed Calmert and spoke plainly with them. Told them about reports of humanoid activity near the Moat House road, that [[Wiki/NPCs/Y-dey]] left to investigate the Temple and hasn't returned, and directed them to speak with [[Wiki/NPCs/Sherlane]] at the Keep on the Borderlands for intelligence. Finally — a party that might actually fight.
+
+[MAJOR] I told Thomas about the Moat House — a league east, once held by the Temple's forces. Parishioners have reported activity there lately: movement on the road, humanoid shapes at odd hours. Nothing confirmed, but enough mentions to take seriously. I also admitted something I haven't told anyone in the village: Canoness Y'dey left to investigate the Temple situation and hasn't returned. No word from her. I asked Thomas to bring me any word of her — told him I'd consider it a personal debt.
+
+Thomas and Aldric thanked me before heading to the Keep. Thomas asked my assessment of Burne and Rufus. I told them the pair are capable — fought at Emridy Meadows — but political and ambitious. They watch the village closely. I counseled the adventurers to listen more than they share until they've taken Burne and Rufus's measure. I noted that Y'dey briefed me before leaving, not them.
 
 ## Character Relationship
 
-*No character-specific relationships established yet.*
+*[Session 1]* Thomas and Aldric: clerics to paladin introduction. Terjon dropped his stoniness when Thomas's purpose became clear — genuine anti-Temple work unlocks his cooperation. The personal request about Y'dey marks a significant trust extension.
 
 ## Party Relationship
 
-Not yet met. He will be professionally distant and formal on first contact. He can become an ally if the party demonstrates genuine commitment to fighting evil — that is a cause he cares about even if he would rather be fighting it elsewhere.
+[Session 1] Met Thomas and Aldric. Gave them full intelligence briefing on Moat House reports and Y'dey's disappearance. Directed them to Sherlane. Counseled them privately to take Burne and Rufus's measure carefully. Relationship: cautious ally with a personal stake (Y'dey).
 
 ## What the Party Knows
 
-Stern replacement cleric; the Canoness Y'dey is away on a quest and hasn't returned.
+[Session 1] Stern but genuinely troubled by the Temple situation. Confirmed parishioner reports of Moat House activity. Told them [[Wiki/NPCs/Y-dey]] left to investigate the Temple and has not returned — Terjon has no word of her and considers it a personal matter. Recommended Sherlane. Cautioned them about Burne and Rufus's political ambitions.
 
 ## GM Truth
 
@@ -91,7 +97,7 @@ Stern replacement cleric; the Canoness Y'dey is away on a quest and hasn't retur
 
 ## History
 
-No session history yet.
+[Session 1] First meeting with the party (Thomas and Aldric). Provided full briefing: Moat House activity reports, Y'dey's disappearance, referral to Sherlane. Made personal request — bring word of Y'dey if found. Cautioned them privately about Burne and Rufus's political nature. Party departed for the Keep.
 
 ## Cross-References
 
