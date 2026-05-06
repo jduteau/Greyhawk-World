@@ -27,7 +27,7 @@ first_session: 1
 pc_status: active
 last_location: "[[Wiki/Locations/Keep-on-the-Borderlands]]"
 created: 2026-04-28
-updated: 2026-05-03
+updated: 2026-05-06
 ---
 
 # Thomas
@@ -54,7 +54,9 @@ Party originated in [[Wiki/Locations/Veluna]] and travelled to Hommlet to invest
 
 ## Equipment & Inventory
 
-Sword, chain mail, shield, holy symbol (St. Cuthbert), lantern, tinderbox, backpack, waterskin.
+Sword, chain mail, shield, holy symbol (St. Cuthbert), lantern, tinderbox, backpack, waterskin, 5 pints lamp oil.
+
+**Special items:** Castellan Sherlane's sealed writ of authority [acquired Session 2] — identifies the bearer as acting with the Castellan's knowledge; will be recognized by Keep patrols.
 
 ## Special Abilities
 
@@ -72,6 +74,8 @@ Friends with [[Wiki/PCs/Lance]] and [[Wiki/PCs/Conrad]]. Brother to [[Wiki/PCs/M
 
 [Session 1] — Arrived at [[Wiki/Locations/Village-of-Hommlet]] after travelling from [[Wiki/Locations/Veluna]] to investigate humanoid activity and evil rumours. Consulted [[Wiki/NPCs/Gundigoot]], [[Wiki/NPCs/Terjon]], [[Wiki/NPCs/Burne]], [[Wiki/NPCs/Rufus]], and [[Wiki/NPCs/Jaroo-Ashstaff]]. Led party to [[Wiki/Locations/Keep-on-the-Borderlands]]; secured accord with [[Wiki/NPCs/Sherlane]] to scout [[Wiki/Locations/Caves-of-Chaos]]. Carrying Burne's map of the area. Party now in Keep's inner bailey.
 
+[Session 2] — Consulted [[Wiki/NPCs/The-Curate]] at the Chapel; shared intelligence about the Moat House and cave coordination; Curate recognized signs of Temple of Elemental Evil. Secured two healing potions and a sealed writ from [[Wiki/NPCs/Sherlane]] with the Curate's advocacy. Led party to [[Wiki/Locations/Caves-of-Chaos]]. Chose to negotiate with kobold tribe rather than fight; presented himself as party leader. Persuaded the kobold shaman by appealing to their shared fear of the deep threat. Stabilized [[Wiki/PCs/Conrad]] with a healing potion after the pit trap. Reported intelligence to Sherlane; received 50 gp. Hired [[Wiki/NPCs/Eckhardt]] and [[Wiki/NPCs/Marten]]. Returned to the Caves at dawn. Now carries Sherlane's writ of authority.
+
 ## Advancement Log
 
 [Session 1] — Starting: Level 1 Paladin, 0 XP.
@@ -80,7 +84,14 @@ Friends with [[Wiki/PCs/Lance]] and [[Wiki/PCs/Conrad]]. Brother to [[Wiki/PCs/M
 
 - [[Wiki/Locations/Village-of-Hommlet]]
 - [[Wiki/Locations/Veluna]]
+- [[Wiki/Locations/Keep-on-the-Borderlands]]
+- [[Wiki/Locations/Caves-of-Chaos]]
 - [[Wiki/PCs/Aldric]]
 - [[Wiki/PCs/Conrad]]
 - [[Wiki/PCs/Lance]]
 - [[Wiki/PCs/Michael]]
+- [[Wiki/NPCs/Sherlane]]
+- [[Wiki/NPCs/The-Curate]]
+- [[Wiki/NPCs/Eckhardt]]
+- [[Wiki/NPCs/Marten]]
+- [[Wiki/Sessions/Session-2-The-Caves-and-the-Kobold-Parley]]

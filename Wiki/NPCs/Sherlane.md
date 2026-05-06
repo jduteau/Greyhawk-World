@@ -14,7 +14,7 @@ faction: "[[Wiki/Factions/Keep-Garrison]]"
 first_session: 0
 gm_only: true
 created: 2026-04-21
-updated: 2026-05-03
+updated: 2026-05-06
 ---
 
 # Sherlane
@@ -65,17 +65,31 @@ Thomas asked if the Keep has healing potions for sale. I told him we have no ded
 
 I concluded my audience with the adventuring party. We have an accord: they will scout the Caves of Chaos and bring me intelligence. I emphasized that I need evidence of what coordinates the humanoid tribes — a leader, temple, or symbol. Guards know they are my guests and should report day or night upon their return.
 
+*[Session 2 — NPC perspective]*
+
+[MAJOR] The Curate brought Thomas's party to my chamber again — same day, but the Curate vouched for them personally and that carries weight. Thomas reported suspicions: the Moat House reoccupied, travelers missing and taken rather than killed, something coordinating the Caves tribes. No firsthand evidence yet — only pieced-together rumours from Hommlet. I cannot commit resources to chasing shadows. I offered a bargain: scout the Caves, bring back concrete proof (symbols, documents, prisoners who can name their masters), and I will be a generous ally with the Keep's full resources. I authorized two healing potions from the Chapel's secret store — the Curate's proposal, and a sound one — plus a signed writ bearing my seal identifying them as acting with my knowledge.
+
+[MAJOR] Thomas's party returned the same day, one man down (Conrad, stake trap, recovering at Chapel). Their intelligence: goblin and orc tribes have stopped their ancient fighting and now work under unified command. Prisoners are being taken alive into the deep caves — not for eating or ransom, for unknown purpose. The kobolds heard chanting at night and fear something old in the deepest cave. This is not proof of the Temple itself, but it is proof that something is very wrong. I gave Thomas fifty gold pieces for supplies and committed to doubling road patrols on the roads near the Caves and sending a formal preliminary report to the Viscount's court. I need harder proof of what commands those tribes.
+
+I directed Thomas to the tavern and the corporal of the watch to find men-at-arms. Warned him not to speak of the Temple or dark powers to hirelings — no point spreading panic before we know what we're facing. Concluded our meeting with a warrior's handclasp. Told them to report directly to me upon return, day or night.
+
 ## Character Relationship
 
 *[Session 1]* Thomas and Sherlane: straightforward soldier-to-soldier accord. Thomas answered Sherlane's questions directly; Sherlane responded with full briefing and generous terms. No games. Sherlane's hasty-decision trait noted: he committed to "exceptional value" potion arrangements without specifying the threshold.
+
+*[Session 2]* Relationship deepening. The Curate's vouching was the key. Sherlane was cautious about the lack of firsthand evidence but backed the Curate's judgment. When the party returned with solid intelligence from the kobolds, Sherlane rewarded them promptly and upgraded his commitment (doubled patrols, Viscount report). Thomas is earning genuine confidence.
 
 ## Party Relationship
 
 [Session 1] First meeting. Full briefing given, accord made — party to scout Caves of Chaos and return intelligence on who coordinates the humanoids. Sherlane offered coin, Keep as base, and possible healing potion for exceptional intelligence. Relationship: employer and allied agents.
 
+[Session 2] Relationship solidified. Curate vouched; Sherlane authorized potions and writ. Party returned same day with kobold intelligence. Sherlane responded with 50 gp, doubled patrols, and formal Viscount report. Active partnership now established. Next threshold: concrete proof (symbols, documents, named prisoners) to commit the Keep's full military resources.
+
 ## What the Party Knows
 
 [Session 1] Full briefing received: Caves of Chaos are four miles east in a ravine, multiple humanoid tribes (kobolds, goblins, orcs, gnolls) acting with unnatural coordination, travelers being taken not killed on the Hommlet-Keep road. Sherlane offers pay for intelligence and the Keep as a base. Has a personal healing potion he may trade for exceptional intelligence. Absolutely honest — confirmed he knows the Moat House exists and may be reoccupied but his intel points to the Caves.
+
+[Session 2] Proved to be a man of his word — rewarded the kobold intelligence with 50 gp and doubled patrols on the roads nearest the Caves. Will send a preliminary report to the Viscount's court. His stated requirement for full resource commitment: concrete proof (symbols, documents, prisoners who can name dark masters). The sealed writ is now in Thomas's possession and will identify them to Keep patrols.
 
 ## GM Truth
 
@@ -111,7 +125,9 @@ Sherlane knows the [[Wiki/Locations/Moat-House]] exists and that it was associat
 
 ## History
 
-[Session 1] First meeting with the party. Gave full Caves of Chaos briefing. Made accord: party scouts Caves and returns intelligence; Sherlane provides coin and Keep hospitality. Party committed. Now standing by for their first foray into the Caves.
+[Session 1] First meeting with the party. Gave full Caves of Chaos briefing. Made accord: party scouts Caves and returns intelligence; Sherlane provides coin and Keep hospitality. Party committed.
+
+[Session 2] Second meeting (same day, with Curate in attendance). Authorized two healing potions and sealed writ — contingent on proof. Party returned that afternoon with kobold intelligence. Sherlane responded with 50 gp, doubled patrols, and Viscount report commitment. Now formally engaged; will escalate to full military commitment on receipt of hard evidence.
 
 ## Cross-References
 
@@ -124,3 +140,4 @@ Sherlane knows the [[Wiki/Locations/Moat-House]] exists and that it was associat
 - [[Wiki/Locations/Moat-House]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]
 - [[Wiki/Conspiracy/T1-B2-Cross-Module-Thread]]
+- [[Wiki/Sessions/Session-2-The-Caves-and-the-Kobold-Parley]]

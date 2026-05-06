@@ -7,10 +7,10 @@ source: B2
 confidence: canon
 alignment: CE
 scale: local
-known_to_party: false
+known_to_party: true
 faction_type: other
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-05-06
 ---
 
 # Kobold Tribe A
@@ -25,7 +25,8 @@ Small tribe with an elaborate layered defense: outside ambush, pit trap, and gua
 
 ## Leadership
 
-- **Kobold Chieftain** — Room 5. AC 5, HD 2, hp 8, battle axe (D 2-8). Key to the food storage (Room 3). Large gem on golden chain (1,200 gp). Hidden 50 gp sewn into hem of a wall-hanging blanket. Locked chest: 203 cp + 61 sp + 22 ep.
+- **[[Wiki/NPCs/Chief-Ishka]]** — Named in Session 2. Room 5. AC 5, HD 2, hp 8, battle axe (D 2-8). Key to the food storage (Room 3). Large gem on golden chain (1,200 gp). Hidden 50 gp sewn into hem of a wall-hanging blanket. Locked chest: 203 cp + 61 sp + 22 ep.
+- **[[Wiki/NPCs/Kobold-Shaman]]** — Unnamed. Speaks Common. Serves as translator and pragmatic advisor. Primary intelligence source in Session 2.
 
 ## Goals
 
@@ -33,7 +34,7 @@ Survival and defense of the lair. Keep the giant rat colony fed. Avoid the orcs 
 
 ## Party Relationship
 
-Not yet encountered.
+[Session 2] First contact. Party entered Lair A and parlayed rather than fighting. Chief Ishka was hostile; the shaman overrode his preference for silence and shared key intelligence about the deep caves threat. An implicit deal was struck: the party deals with the threat in the deep caves; the Keep leaves the kobold tribe alone. Tribe is aware of the party and cautiously expectant. Relationship is transactional and fragile — tribal memory is long.
 
 ## Conspiracy Connections
 
@@ -68,3 +69,7 @@ In the open the kobolds seem almost pathetic. In their own tunnels, with the pit
 
 - [[Wiki/Locations/Caves-of-Chaos]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]
+- [[Wiki/NPCs/Chief-Ishka]]
+- [[Wiki/NPCs/Kobold-Shaman]]
+- [[Wiki/PCs/Thomas]]
+- [[Wiki/Sessions/Session-2-The-Caves-and-the-Kobold-Parley]]

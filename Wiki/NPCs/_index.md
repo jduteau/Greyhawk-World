@@ -36,3 +36,7 @@ updated: "2026-04-25"
 - [[Wiki/NPCs/Y-dey]] — Canoness 6th-level cleric; absent on quest; 10,000gp hidden cache in church fireplace (T1)
 - [[Wiki/NPCs/Nira-Melubb]] — 3rd-level thief (non-active); moneychanger; discreet, well-defended, heavily trapped treasure (T1)
 - [[Wiki/NPCs/Brother-Smyth]] — 3rd-level druid (village smith); assistant to Jaroo; druidical intelligence network node (T1)
+- [[Wiki/NPCs/Chief-Ishka]] — Kobold chieftain, Lair A; named Session 2; made deal with party (B2/emergent)
+- [[Wiki/NPCs/Kobold-Shaman]] — Unnamed kobold shaman; speaks Common; primary intelligence source Session 2 (B2/emergent)
+- [[Wiki/NPCs/Eckhardt]] — Former Keep garrison spearman; hired as man-at-arms Session 2 (emergent)
+- [[Wiki/NPCs/Marten]] — Former Keep garrison swordsman; hired as man-at-arms Session 2 (emergent)

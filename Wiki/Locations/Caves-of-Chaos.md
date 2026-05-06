@@ -6,10 +6,10 @@ status: active
 source: B2
 confidence: canon
 region: "Kron Hills / Gnarley Wood borderlands, Viscounty of Verbobonc"
-location_status: pristine
+location_status: active
 layer: campaign
 created: 2026-04-21
-updated: 2026-04-29
+updated: 2026-05-06
 ---
 
 # Caves of Chaos
@@ -177,10 +177,14 @@ Foul draft at entrance. Worn, echoing corridors (+2 chance of being surprised). 
 
 ## Current Status
 
-Not yet visited. All lairs pristine.
+[Session 2] Party entered Lair A (kobold caves) and parlayed with [[Wiki/NPCs/Chief-Ishka]] and [[Wiki/NPCs/Kobold-Shaman]]. No combat; no lairs cleared. Intelligence obtained: cave tribes are being coordinated by an unknown force; prisoners are being taken alive to the deep caves; something old dwells in the large northern cave (Lair K area); kobolds hear chanting at night from the deep. Party retreated when [[Wiki/PCs/Conrad]] was critically wounded by the Lair A pit trap.
+
+[Session 2] Party returned at dawn the following day with two hired men-at-arms. Currently at the ravine rim preparing to assault Lair D (goblin cave).
 
 ## Known Inhabitants
 
+- [[Wiki/NPCs/Chief-Ishka]] — Kobold chieftain, Lair A; contacted Session 2; made implicit deal with party
+- [[Wiki/NPCs/Kobold-Shaman]] — Kobold shaman, Lair A; primary intelligence source Session 2
 - [[Wiki/Factions/Temple-of-Evil-Chaos]] — Commands the Shrine (K)
 - [[Wiki/NPCs/Shrine-Evil-Cleric]] — Shrine master (room K-59)
 - [[Wiki/Factions/Kobold-Tribe-A]] — Lair A; pit trap entrance; isolated
@@ -195,7 +199,7 @@ Not yet visited. All lairs pristine.
 
 ## Party History
 
-No visits recorded.
+[Session 2] First visit. Lance scouted from the ravine rim and identified all major lairs: two orc caves on the west wall (Lairs B and C), fortified hobgoblin cave with barred door (Lair F), kobold and goblin caves on the east wall (Lairs A and D), a suspiciously welcoming multi-language cave (Lair H — bugbears), and the large northern cave from which cold air emanated (Lair K — Shrine of Evil Chaos). Party descended to Lair A (kobold cave), parlayed instead of fighting, and obtained key intelligence from [[Wiki/NPCs/Kobold-Shaman]]. [[Wiki/PCs/Conrad]] fell into the Lair A pit trap (10 ft, sharpened stakes) on exit; party retreated to the Keep. Returned at dawn the following day; 6-person party now at rim preparing to assault goblin lair (Lair D).
 
 ## GM Notes
 
@@ -228,6 +232,8 @@ These distinctions matter for encounter feel and tactical consequences.
 - [[Wiki/Factions/Temple-of-Evil-Chaos]]
 - [[Wiki/NPCs/Shrine-Evil-Cleric]]
 - [[Wiki/Factions/Kobold-Tribe-A]]
+- [[Wiki/NPCs/Chief-Ishka]]
+- [[Wiki/NPCs/Kobold-Shaman]]
 - [[Wiki/Factions/Orc-Tribe-B]]
 - [[Wiki/Factions/Orc-Tribe-C]]
 - [[Wiki/Factions/Goblin-Tribe-D]]
@@ -236,3 +242,4 @@ These distinctions matter for encounter feel and tactical consequences.
 - [[Wiki/Factions/Bugbear-Clan-H]]
 - [[Wiki/NPCs/The-Minotaur]]
 - [[Wiki/Factions/Gnoll-Warband-J]]
+- [[Wiki/Sessions/Session-2-The-Caves-and-the-Kobold-Parley]]

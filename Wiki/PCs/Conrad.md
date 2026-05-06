@@ -17,7 +17,7 @@ wis: 10
 dex: 17
 con: 15
 cha: 10
-hp_current: 5
+hp_current: 1
 hp_max: 5
 ac: 5
 thac0: 20
@@ -27,7 +27,7 @@ first_session: 1
 pc_status: active
 last_location: "[[Wiki/Locations/Keep-on-the-Borderlands]]"
 created: 2026-04-28
-updated: 2026-05-03
+updated: 2026-05-06
 ---
 
 # Conrad
@@ -80,6 +80,8 @@ Friends with [[Wiki/PCs/Lance]], [[Wiki/PCs/Thomas]], and [[Wiki/PCs/Michael]]. 
 ## History
 
 [Session 1] — Arrived at [[Wiki/Locations/Village-of-Hommlet]] after travelling from [[Wiki/Locations/Veluna]] to investigate humanoid activity and evil rumours. Engaged [[Wiki/NPCs/Zert]] in conversation at the [[Wiki/Locations/Welcome-Wench-Inn]]; sensed the man was extracting information as much as giving it. Reported Zert to [[Wiki/NPCs/Burne]], who confirmed the suspicion. Traveled to [[Wiki/Locations/Keep-on-the-Borderlands]] with party; party now in Keep's inner bailey.
+
+[Session 2] — Took point inside the kobold cave (Lair A), searching for traps. Did not find the concealed pit trap on exit (Failed Find Traps roll). Fell 10 feet onto sharpened stakes; reduced to 0 HP. Stabilized by Thomas using one healing potion; healed to 1 HP. Remained unconscious for approximately 1 turn. [[Wiki/NPCs/The-Curate]] confirmed a minimum one week's rest before strenuous activity. Currently recovering at the Chapel of [[Wiki/Locations/Keep-on-the-Borderlands]].
 
 ## Advancement Log
 

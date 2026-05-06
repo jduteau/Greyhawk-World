@@ -14,7 +14,7 @@ faction: "[[Wiki/Factions/Keep-Garrison]]"
 first_session: 0
 gm_only: true
 created: 2026-04-21
-updated: 2026-04-25
+updated: 2026-05-06
 ---
 
 # The Curate
@@ -52,19 +52,27 @@ Leads the Chapel (area 17) with three acolytes. Empties the offering box each ev
 
 ## Memories
 
-*Has not yet met the party. No shared history.*
+*[Session 2 — NPC perspective]*
+
+Thomas the paladin and four companions came to the Chapel. He said they believe something deeper is afoot at the Caves of Chaos than simple raiding tribes — that the evil there is organized. I agreed with his assessment and hinted at my own unease closer to home. I told them about the Chapel's secured resources — potions and a scroll kept under two keys — and said I might help if they convince me their cause is righteous.
+
+[MAJOR] Thomas told me the Moat House near Hommlet is reoccupied and travelers are going missing — not dead, but taken. I recognized this as signs the Temple of Elemental Evil may be stirring again. I shared my suspicions that the Caves of Chaos may be connected to a larger purpose. I also confided my unease about the priest in the outer bailey — I cannot prove anything but something feels wrong about him. I offered to accompany Thomas to speak with the Castellan about the secret store.
+
+[MAJOR] I counseled Sherlane regarding the party seeking aid. He demanded concrete proof before committing major resources. I proposed a middle path — offering two of three healing potions from the Chapel's secret store, enough to keep them alive to find evidence. I vouched for Thomas the paladin's character, arguing he speaks of organized evil because he believes it, not for coin. I asked Sherlane to trust my judgment of their character while they prove their claims.
+
+[MAJOR] The party returned the same day with one man critically wounded — Conrad, a thief, stake trap in the kobold cave. I tended to him. The wound had been stabilized with one of the potions I had provided; he will recover but needs a week's rest. Before they reported to Sherlane, Thomas briefed me on what they learned: coordinated tribes, prisoners taken alive to the deep, chanting at night, something old in the northern cave. I told them this is purposeful evil, not banditry. I hinted there are things I was not prepared to speak of until they bring me proof — but if what the kobolds told them is true, the evil in those caves may be older than the Temple itself, or the Temple's servants have found something ancient to wake. Warned them again about the priest in the outer bailey.
 
 ## Character Relationship
 
-*No character-specific relationships established yet.*
+*[Session 2]* Thomas has earned the Curate's trust — a paladin who speaks of organized evil because he believes it, not for personal gain. The Curate vouched for him personally to Sherlane, which is not something he does casually. There are things the Curate still hasn't revealed — things he needs proof before sharing. The snake staff remains at hand throughout every conversation.
 
 ## Party Relationship
 
-Not yet met.
+[Session 2] First meeting. The Curate was won over by Thomas's directness and the credibility of his intelligence from Hommlet. He vouched for the party to Sherlane, securing the potions and writ. When the party returned wounded but with actionable intelligence, he tended to Conrad and confirmed the significance of what they'd learned. Relationship: trusted allied spiritual authority. He holds information the party doesn't have yet.
 
 ## What the Party Knows
 
-Nothing yet.
+[Session 2] Spiritual leader of the Keep with genuine authority — Sherlane defers to his judgment on character. Believes the Temple of Elemental Evil may be stirring again; recognizes the pattern of organized evil and taken prisoners. Carries a serpent-head staff. Has private suspicions about a priest in the outer bailey — shared this warning twice. Holds keys to the Chapel's secret store jointly with Sherlane. Has hinted he holds more information he will share once the party brings proof.
 
 ## GM Truth
 
@@ -84,7 +92,7 @@ The Curate has a private suspicion about the spy Priest in area 7b — there is 
 
 ## History
 
-No session events yet.
+[Session 2] First meeting with the party. Vouched for them to Sherlane; secured two healing potions and a writ of authority for them. Tended to Conrad when the party returned wounded. Confirmed the significance of the kobold intelligence. Warned about the spy priest twice. Has hinted at deeper knowledge he will share on receipt of proof.
 
 ## Cross-References
 
@@ -93,3 +101,7 @@ No session events yet.
 - [[Wiki/NPCs/Sherlane]]
 - [[Wiki/Factions/Keep-Garrison]]
 - [[Wiki/Modules/B2-Keep-on-the-Borderlands]]
+- [[Wiki/PCs/Thomas]]
+- [[Wiki/PCs/Conrad]]
+- [[Wiki/Factions/Temple-of-Elemental-Evil]]
+- [[Wiki/Sessions/Session-2-The-Caves-and-the-Kobold-Parley]]
