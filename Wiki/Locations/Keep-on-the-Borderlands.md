@@ -6,10 +6,10 @@ status: active
 source: B2
 confidence: canon
 region: "Kron Hills / Gnarley Wood borderlands, Viscounty of Verbobonc"
-location_status: pristine
+location_status: visited
 layer: campaign
 created: 2026-04-21
-updated: 2026-04-29
+updated: 2026-05-06
 ---
 
 # The Keep on the Borderlands
@@ -62,7 +62,9 @@ The Keep consists of an Outer Bailey and an Inner Bailey.
 
 ## Current Status
 
-Not yet visited by the party. All areas pristine.
+[Session 1] The party entered through the main gate, passed through the outer bailey, and were granted audience with [[Wiki/NPCs/Sherlane]] in the keep fortress (area 24). Party based in the inner bailey.
+
+[Session 2] The party consulted [[Wiki/NPCs/The-Curate]] at the Chapel (area 17); received two healing potions and a sealed writ of authority from Sherlane. Departed to the Caves; returned same day with one wounded (Conrad, now recovering at the Chapel). Party hired [[Wiki/NPCs/Eckhardt]] and [[Wiki/NPCs/Marten]] at the Tavern (area 15) on recommendation from the corporal of the watch (area 3). Sherlane committed to doubling road patrols and sending a report to the Viscount. Party rested overnight at the Traveler's Inn (area 14) and departed at first light.
 
 ## Known Inhabitants
 
@@ -75,7 +77,8 @@ Not yet visited by the party. All areas pristine.
 
 ## Party History
 
-No visits recorded.
+- **[[Wiki/Sessions/Session-1-Hommlet-to-the-Keep]]** — The full party arrived after an overnight journey from [[Wiki/Locations/Village-of-Hommlet]]. [[Wiki/NPCs/Sherlane]] granted them audience and briefed them on the situation: humanoid tribes in the [[Wiki/Locations/Caves-of-Chaos]] were acting with unnatural coordination across species, and travelers were being taken (not killed) on the road. Sherlane offered the Keep as a base of operations and promised payment for actionable intelligence.
+- **[[Wiki/Sessions/Session-2-The-Caves-and-the-Kobold-Parley]]** — Party returned from the Caves with kobold intelligence; Conrad wounded at Chapel. Sherlane paid 50 gp, doubled patrols, committed Viscount report. Party hired Eckhardt and Marten at the Tavern; rested overnight; departed at dawn for the Caves.
 
 ## GM Notes
 
@@ -98,4 +101,7 @@ No visits recorded.
 - [[Wiki/NPCs/The-Advisor]]
 - [[Wiki/NPCs/The-Curate]]
 - [[Wiki/NPCs/Evil-Priest-Spy]]
+- [[Wiki/NPCs/Eckhardt]]
+- [[Wiki/NPCs/Marten]]
 - [[Wiki/Factions/Keep-Garrison]]
+- [[Wiki/Sessions/Session-2-The-Caves-and-the-Kobold-Parley]]

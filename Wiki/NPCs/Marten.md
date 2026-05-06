@@ -10,7 +10,7 @@ npc_scope: local
 last_location: "[[Wiki/Locations/Caves-of-Chaos]]"
 allegiance_known: "Hired man-at-arms; ambitious"
 allegiance_true: "Mercenary; wants to make a name for himself; no hidden agenda"
-faction: "[[Wiki/Sessions/Session-2-The-Caves-and-the-Kobold-Parley]]"
+faction: "[[Wiki/Factions/Keep-Garrison]]"
 first_session: 2
 created: 2026-05-06
 updated: 2026-05-06
