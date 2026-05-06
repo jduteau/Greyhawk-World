@@ -6,10 +6,10 @@ status: active
 source: T1
 confidence: canon
 region: "Village of Hommlet, Viscounty of Verbobonc"
-location_status: pristine
+location_status: visited
 layer: campaign
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-03
 ---
 
 # Church of St. Cuthbert
@@ -45,7 +45,7 @@ The spiritual center of the St. Cuthbert congregation in Hommlet. Newly built. A
 
 ## Current Status
 
-Not yet visited. Terjon and Calmert are in residence. Y'dey is absent on a quest.
+Visited by the party in Session 1 (576 CY). [[Wiki/PCs/Thomas]] and [[Wiki/PCs/Aldric]] met with [[Wiki/NPCs/Terjon]] in the study and audience chamber (room 4). No other areas accessed. [[Wiki/NPCs/Calmert]] and [[Wiki/NPCs/Y-dey]]'s hidden cache remain undiscovered.
 
 ## Known Inhabitants
 
@@ -55,7 +55,7 @@ Not yet visited. Terjon and Calmert are in residence. Y'dey is absent on a quest
 
 ## Party History
 
-No visits recorded.
+- **[[Wiki/Sessions/Session-1-Hommlet-to-the-Keep]]** — [[Wiki/PCs/Thomas]] and [[Wiki/PCs/Aldric]] consulted [[Wiki/NPCs/Terjon]], who reported troubling activity near the [[Wiki/Locations/Moat-House]] and disclosed that [[Wiki/NPCs/Y-dey]] had gone to investigate the Temple situation and never returned. Terjon counseled the party to seek [[Wiki/NPCs/Sherlane]] at the [[Wiki/Locations/Keep-on-the-Borderlands]] before taking action.
 
 ## GM Notes
 

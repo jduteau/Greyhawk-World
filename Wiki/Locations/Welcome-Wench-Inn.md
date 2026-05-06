@@ -6,10 +6,10 @@ status: active
 source: T1
 confidence: canon
 region: "Village of Hommlet, Viscounty of Verbobonc"
-location_status: pristine
+location_status: visited
 layer: campaign
 created: 2026-04-21
-updated: 2026-04-25
+updated: 2026-05-03
 ---
 
 # Inn of the Welcome Wench
@@ -50,20 +50,20 @@ Gundigoot is sharp-eyed, judges character well, and talks freely while saying li
 
 ## Current Status
 
-Not yet visited. All rooms pristine.
+Visited by the party in Session 1 (576 CY). The party took rooms and meals; the common room was active. [[Wiki/NPCs/Elmo]] and [[Wiki/NPCs/Zert]] were both present. All guest rooms otherwise undisturbed — the party did not search the inn or its cellar.
 
 ## Known Inhabitants
 
-- Ostler Gundigoot — innkeeper and militia sergeant (F2, hp 17, ring mail, shield, sword)
-- **Zert** — Temple of Elemental Evil spy (upper room 1); chaotic evil
-- **Spugnoir** — magic-user (upper room 5); chaotic neutral, Moat House prospector
-- **Furnok of Ferd** — thief-gambler (upper room 8); self-serving but not evil
-- **Kobort & Turuko** — predatory pair (upper room 9); plan to rob victorious adventurers
-- [[Wiki/NPCs/Elmo]] — frequents the common room daily, talent-spotting for the Viscount
+- [[Gundigoot]] — innkeeper and militia sergeant (F2, hp 17, ring mail, shield, sword)
+- [[Zert]] — Temple of Elemental Evil spy (upper room 1); chaotic evil
+- [[Spugnoir]] — magic-user (upper room 5); chaotic neutral, Moat House prospector
+- [[Furnok-of-Ferd]] — thief-gambler (upper room 8); self-serving but not evil
+- [[Kobort-and-Turuko]] — predatory pair (upper room 9); plan to rob victorious adventurers
+- [[Elmo]] — frequents the common room daily, talent-spotting for the Viscount
 
 ## Party History
 
-No visits recorded.
+- **[[Wiki/Sessions/Session-1-Hommlet-to-the-Keep]]** — Party arrived from [[Wiki/Locations/Veluna]] and took rooms. Met [[Wiki/NPCs/Elmo]] in the common room, who offered to guide them to the [[Wiki/Locations/Moat-House]]. Met [[Wiki/NPCs/Zert]], who claimed to await a caravan and engaged the party — particularly [[Wiki/PCs/Conrad]] — in conversation about their intentions. Party departed the next morning for the [[Wiki/Locations/Keep-on-the-Borderlands]] without recruiting either contact.
 
 ## GM Notes
 

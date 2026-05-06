@@ -9,7 +9,7 @@ region: "Viscounty of Verbobonc, near the Kron Hills and Gnarley Wood, World of 
 location_status: active
 layer: campaign
 created: 2026-04-21
-updated: 2026-04-28
+updated: 2026-05-03
 ---
 
 # Village of Hommlet
@@ -89,7 +89,12 @@ The ruined Moat House 2–3 miles away on an overgrown track (area 33) is a remn
 
 ## Party History
 
-[Session 1] — [[Wiki/PCs/Thomas]], [[Wiki/PCs/Aldric]], [[Wiki/PCs/Conrad]], [[Wiki/PCs/Lance]], and [[Wiki/PCs/Michael]] arrived from [[Wiki/Locations/Veluna]] to investigate rumours of increased humanoid activity and evil goings-on in the region.
+- **[[Wiki/Sessions/Session-1-Hommlet-to-the-Keep]]** — [[Wiki/PCs/Thomas]], [[Wiki/PCs/Aldric]], [[Wiki/PCs/Conrad]], [[Wiki/PCs/Lance]], and [[Wiki/PCs/Michael]] arrived from [[Wiki/Locations/Veluna]] to investigate rumours of increased humanoid activity. During their stay they visited:
+  - [[Wiki/Locations/Welcome-Wench-Inn]] — took rooms; met [[Wiki/NPCs/Elmo]] and [[Wiki/NPCs/Zert]] in the common room
+  - [[Wiki/Locations/Church-of-St-Cuthbert]] (area 20) — Thomas and Aldric consulted [[Wiki/NPCs/Terjon]]; learned of missing [[Wiki/NPCs/Y-dey]]
+  - [[Wiki/Locations/Burne-Rufus-Tower]] (area 31) — full party met with [[Wiki/NPCs/Burne]] and [[Wiki/NPCs/Rufus]]; received map and warning about Zert
+  - Grove of Jaroo (area 24) — consulted [[Wiki/NPCs/Jaroo-Ashstaff]], who confirmed Moat House unease and asked for any symbols found
+  - The party departed for the [[Wiki/Locations/Keep-on-the-Borderlands]] without visiting the traders (area 13) or other locations.
 
 ## GM Notes
 

@@ -31,7 +31,7 @@ Choosing to start with the kobolds as the easiest target, the party descended in
 
 Though the Chief was hostile and suspicious, the shaman—fearful of something worse than the adventurers—eventually revealed crucial intelligence: the tribes were being commanded by someone or something, working together despite ancient enmities. Prisoners were being taken alive into the deep caves, not for food or ransom but for unknown purposes. The kobolds heard chanting at night and felt a wrongness emanating from the large cave at the ravine's back. Something old dwelt there, and even the rats fled from it.
 
-As the party departed with this intelligence, Conrad triggered a concealed pit trap near the cave entrance, plunging ten feet onto sharpened stakes. The wound was grievous—he fell unconscious at death's door. Thomas used one of their precious healing potions to stabilize him, and the party retreated to the Keep with their wounded companion.
+As the party departed with this intelligence, Conrad triggered a concealed pit trap near the cave entrance, plunging ten feet onto sharpened stakes. The wound was grievous—he fell unconscious at death's door. Thomas used his laying on hands to stabilize him, and the party retreated to the Keep with their wounded companion.
 
 At the Chapel, the Curate tended to Conrad, confirming he would need a week's rest before any strenuous activity. The party then reported to Castellan Sherlane, who received their intelligence with grim satisfaction. The news of coordinated tribes and prisoners taken alive was proof enough that something dangerous was growing in those caves. He provided fifty gold pieces for supplies and hiring men-at-arms, urging them to discover who commanded the tribes and what happened to the prisoners before the darkness grew strong enough to emerge.
 
@@ -46,7 +46,7 @@ After securing their new hirelings and checking on Conrad one final time, the pa
 - [[Wiki/NPCs/Sherlane]] charged the party to bring back concrete proof (symbols, documents, prisoners) before committing the Keep's full resources [Session 2]
 - Party successfully negotiated with [[Wiki/Factions/Kobold-Tribe-A]] instead of fighting; granted audience with [[Wiki/NPCs/Chief-Ishka]] [Session 2]
 - [[Wiki/NPCs/Kobold-Shaman]] revealed crucial intelligence: tribes coordinated by unknown commander; prisoners taken alive to deep caves; something old dwells in large northern cave; kobolds hear chanting at night [Session 2]
-- [[Wiki/PCs/Conrad]] critically wounded by pit trap (10 ft drop, sharpened stakes) on exit from kobold cave; reduced to 0 HP; stabilized with one healing potion [Session 2]
+- [[Wiki/PCs/Conrad]] critically wounded by pit trap (10 ft drop, sharpened stakes) on exit from kobold cave; reduced to 0 HP; stabilized with Thomas' laying on hands [Session 2]
 - Party retreated to Keep; [[Wiki/NPCs/The-Curate]] confirmed Conrad needs minimum 1 week recovery [Session 2]
 - Party reported intelligence to [[Wiki/NPCs/Sherlane]]; received 50 gp; Sherlane committed to doubling road patrols and sending preliminary report to the Viscount [Session 2]
 - Party hired [[Wiki/NPCs/Eckhardt]] (spearman) and [[Wiki/NPCs/Marten]] (swordsman) as men-at-arms at 1 gp/day + half-share [Session 2]
@@ -77,17 +77,17 @@ After securing their new hirelings and checking on Conrad one final time, the pa
 
 ## Party Status at End of Session
 
-| Character | HP | Location | Notes |
-|-----------|-----|----------|-------|
-| [[Wiki/PCs/Thomas]] | 4/4 | [[Wiki/Locations/Caves-of-Chaos]] | Carries Castellan's writ of authority; established as party leader |
-| [[Wiki/PCs/Aldric]] | 7/7 | [[Wiki/Locations/Caves-of-Chaos]] | No changes |
-| [[Wiki/PCs/Conrad]] | 1/5 | [[Wiki/Locations/Keep-on-the-Borderlands]] | Critically wounded; recovering at Chapel; minimum 1 week rest |
-| [[Wiki/PCs/Lance]] | 10/10 | [[Wiki/Locations/Caves-of-Chaos]] | Successfully scouted Caves; identified all lair locations |
-| [[Wiki/PCs/Michael]] | 5/5 | [[Wiki/Locations/Caves-of-Chaos]] | No changes; 1 spell slot still available |
-| [[Wiki/NPCs/Eckhardt]] | — | [[Wiki/Locations/Caves-of-Chaos]] | Newly hired; with party at ravine rim |
-| [[Wiki/NPCs/Marten]] | — | [[Wiki/Locations/Caves-of-Chaos]] | Newly hired; with party at ravine rim |
+| Character              | HP    | Location                                   | Notes                                                              |
+| ---------------------- | ----- | ------------------------------------------ | ------------------------------------------------------------------ |
+| [[Wiki/PCs/Thomas]]    | 4/4   | [[Wiki/Locations/Caves-of-Chaos]]          | Carries Castellan's writ of authority; established as party leader |
+| [[Wiki/PCs/Aldric]]    | 7/7   | [[Wiki/Locations/Caves-of-Chaos]]          | No changes                                                         |
+| [[Wiki/PCs/Conrad]]    | 2/5   | [[Wiki/Locations/Keep-on-the-Borderlands]] | Critically wounded; recovering at Chapel; minimum 1 week rest      |
+| [[Wiki/PCs/Lance]]     | 10/10 | [[Wiki/Locations/Caves-of-Chaos]]          | Successfully scouted Caves; identified all lair locations          |
+| [[Wiki/PCs/Michael]]   | 5/5   | [[Wiki/Locations/Caves-of-Chaos]]          | No changes; 1 spell slot still available                           |
+| [[Wiki/NPCs/Eckhardt]] | —     | [[Wiki/Locations/Caves-of-Chaos]]          | Newly hired; with party at ravine rim                              |
+| [[Wiki/NPCs/Marten]]   | —     | [[Wiki/Locations/Caves-of-Chaos]]          | Newly hired; with party at ravine rim                              |
 
-**Resources expended:** 1 of 2 healing potions used (Conrad stabilization); 1 healing potion remaining.
+**Resources expended:** 2 healing potions remaining.
 
 ## Cross-References
 

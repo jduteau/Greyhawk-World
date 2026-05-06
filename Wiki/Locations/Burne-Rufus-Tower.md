@@ -6,10 +6,10 @@ status: active
 source: T1
 confidence: canon
 region: "Village of Hommlet, Viscounty of Verbobonc"
-location_status: pristine
+location_status: visited
 layer: campaign
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-03
 ---
 
 # Burne and Rufus's Tower
@@ -41,7 +41,7 @@ Burne and Rufus came to Hommlet three years ago, adventured successfully (defeat
 
 ## Current Status
 
-Not yet visited. Fully garrisoned and operational.
+Visited by the party in Session 1 (576 CY). The party was received in the main hall and met with both [[Wiki/NPCs/Burne]] and [[Wiki/NPCs/Rufus]]. No other areas of the tower were accessed. Garrison remains fully operational.
 
 ## Known Inhabitants
 
@@ -52,7 +52,7 @@ Not yet visited. Fully garrisoned and operational.
 
 ## Party History
 
-No visits recorded.
+- **[[Wiki/Sessions/Session-1-Hommlet-to-the-Keep]]** — The full party met with [[Wiki/NPCs/Burne]] and [[Wiki/NPCs/Rufus]] the morning after arriving in Hommlet. Burne questioned the party's capabilities, warned them that [[Wiki/NPCs/Zert]] at the [[Wiki/Locations/Welcome-Wench-Inn]] was suspicious, recommended [[Wiki/NPCs/Elmo]] as a reliable local guide, and provided a map of the area. Both Burne and Rufus confirmed the [[Wiki/Locations/Moat-House]] warranted investigation but advised seeking [[Wiki/NPCs/Sherlane]] at the [[Wiki/Locations/Keep-on-the-Borderlands]] first.
 
 ## GM Notes
 

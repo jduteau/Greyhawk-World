@@ -21,7 +21,7 @@ Location: [[Wiki/Locations/Caves-of-Chaos]]
 
 Situation: Party stands at the rim of the ravine at dawn with two hired men-at-arms, preparing to assault the goblin lair (Lair D) on the eastern wall.
 
-Resources: 1 healing potion remaining (started with 2; used 1 on Conrad).
+Resources: 2 healing potions.
 
 Active Threads:
 - [[Wiki/Locations/Caves-of-Chaos]] — Assault goblin lair (Lair D); find who commands the tribes; discover fate of prisoners

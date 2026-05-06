@@ -66,11 +66,11 @@ Conrad was leaving to rejoin his companions. I offered my sword arm for any vent
 
 ## Character Relationship
 
-*[Session 1]* Cultivated Conrad as a contact — bought drinks, built rapport. Conrad accepted conversation easily; hard to read whether he suspected anything. The party then left for the Keep without recruiting me, which suggests Burne or Rufus warned them off.
+*[Session 1]* Cultivated Conrad as a contact — bought drinks, built rapport. Conrad accepted conversation easily; hard to read whether he suspected anything. The party then left for the Keep without recruiting me.
 
 ## Party Relationship
 
-[Session 1] Met Conrad at the Welcome Wench. Offered to join a Moat House expedition. The party did not recruit him — Burne apparently warned them about him.
+[Session 1] Met Conrad at the Welcome Wench. Offered to join a Moat House expedition. The party did not recruit him.
 
 ## What the Party Knows
 

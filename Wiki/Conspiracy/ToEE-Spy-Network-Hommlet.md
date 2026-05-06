@@ -58,7 +58,7 @@ Discovery clues (easiest to hardest):
 ## Key Actors
 
 - [[Wiki/NPCs/Rannos-Davi]] — primary agent (+ Gremag)
-- Zert — secondary agent (Welcome Wench upper room 1)
+- [[Wiki/NPCs/Zert]] — secondary agent (Welcome Wench upper room 1)
 - [[Wiki/Factions/Temple-of-Elemental-Evil]] — parent organization
 
 **Opposing the network (unknown to agents):**
